@@ -2314,6 +2314,283 @@
       "checked": "26/10/2026",
       "full": true,
       "format": "PDF"
+    },
+    {
+      "id": "cri_boto_cor_rosa",
+      "title": "O Boto Cor-de-Rosa que Não É Mais Rosa",
+      "author": "Rosália Caldas Sanábio de Oliveira",
+      "tags": [
+        "Literatura infantil e juvenil"
+      ],
+      "desc": "História infantil sobre o boto amazônico, a natureza e os efeitos das mudanças ambientais.",
+      "lang": "Português",
+      "note": "Livro completo para baixar na fonte oficial.",
+      "url": "https://educapes.capes.gov.br/handle/capes/705004",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro infantil",
+      "source": "eduCAPES",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "cri_abelhas_em_fuga",
+      "title": "Abelhas em fuga",
+      "author": "Rosália Sanábio de Oliveira e Fabiana da Conceição Pereira Tiago",
+      "tags": [
+        "Literatura infantil e juvenil"
+      ],
+      "desc": "Narrativa ilustrada que aproxima a infância da proteção das abelhas e do meio ambiente.",
+      "lang": "Português",
+      "note": "Livro completo disponível na fonte oficial.",
+      "url": "https://educapes.capes.gov.br/handle/capes/704981",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro infantil",
+      "source": "eduCAPES",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "cri_contando_rimando",
+      "title": "Contando e rimando com a bicharada",
+      "author": "Magali Cristina Reis dos Santos e colaboradores",
+      "tags": [
+        "Literatura infantil e juvenil"
+      ],
+      "desc": "Rimas e histórias com animais, pensadas para uma primeira aproximação prazerosa com a leitura.",
+      "lang": "Português",
+      "note": "Livro digital completo na CAPES.",
+      "url": "https://educapes.capes.gov.br/handle/capes/728699",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro infantil",
+      "source": "eduCAPES / Editora Unigala",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "cri_festanca_gansoso",
+      "title": "A Festança do Senhor Gansoso",
+      "author": "Júlia Ashley Almeida de Menezes Silva e colaboradores",
+      "tags": [
+        "Literatura infantil e juvenil"
+      ],
+      "desc": "Narrativa ilustrada, para ler e conversar sobre personagens, enredo e imaginação.",
+      "lang": "Português",
+      "note": "Livro digital completo na CAPES.",
+      "url": "https://educapes.capes.gov.br/handle/capes/728700",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro infantil",
+      "source": "eduCAPES / Editora Unigala",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "cri_maracatu",
+      "title": "Maracatu, que história é essa?",
+      "author": "Fernanda Rossi Pileggi e Vanessa Helena Rossi",
+      "tags": [
+        "Literatura infantil e juvenil",
+        "Música e culturas populares",
+        "Pan-africanismo e amefricanidades"
+      ],
+      "desc": "A menina Aisha conhece o maracatu em Recife. História ilustrada para crianças de 3 a 6 anos, com cultura e memória afro-brasileira.",
+      "lang": "Português",
+      "note": "Obra infantil integral disponível no eduCAPES.",
+      "url": "https://educapes.capes.gov.br/handle/capes/1000185",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro infantil",
+      "source": "eduCAPES / Unesp",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "indig_tocantins",
+      "title": "Literatura indígena do Tocantins",
+      "author": "Renato Yahe Khahô, Francisco Edviges Albuquerque e Eliane Cristina Testa",
+      "tags": [
+        "Povos originários",
+        "Literatura infantil e juvenil"
+      ],
+      "desc": "Coletânea multilíngue de textos e vivências de povos indígenas do Tocantins; valiosa para leitores jovens e para a escola.",
+      "lang": "Português",
+      "note": "Publicação integral, com textos em português e em línguas indígenas.",
+      "url": "https://educapes.capes.gov.br/handle/capes/738556",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Coletânea literária",
+      "source": "eduCAPES",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "indig_guerreiras",
+      "title": "Guerreiras da Ancestralidade — Álbum Biográfico do Mulherio das Letras Indígenas",
+      "author": "Coletivo Mulherio das Letras Indígenas",
+      "tags": [
+        "Povos originários",
+        "Feminismos",
+        "Literatura infantil e juvenil"
+      ],
+      "desc": "Escritoras e poetas indígenas apresentam suas histórias, territórios, identidades e modos de criar literatura.",
+      "lang": "Português",
+      "note": "A Funai oferece gratuitamente o álbum completo; leitura especialmente relevante para jovens e adultos.",
+      "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes/obra-literaria-guerreiras-da-ancestralidade",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Coletânea literária",
+      "source": "Funai / Mulherio das Letras Indígenas",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "indig_audazes",
+      "title": "Audazes Indígenas",
+      "author": "Mayara Pereira Corrêa e Universidade Federal do Rio Grande",
+      "tags": [
+        "Povos originários",
+        "História",
+        "Literatura infantil e juvenil"
+      ],
+      "desc": "Material educativo de 2026 sobre protagonismo indígena e ensino de História por meio da literatura indígena.",
+      "lang": "Português",
+      "note": "Recurso didático, não é romance ou coletânea de ficção.",
+      "url": "https://educapes.capes.gov.br/handle/capes/1175037",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Material educativo",
+      "source": "eduCAPES / FURG",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "krenak_terra",
+      "title": "Pensando com a cabeça na Terra",
+      "author": "Ailton Krenak",
+      "tags": [
+        "Povos originários",
+        "Filosofia",
+        "Pensamento político"
+      ],
+      "desc": "O pensador indígena reflete sobre cosmologias, produção de conhecimento, mercado, identidades e devastação ambiental.",
+      "lang": "Português",
+      "note": "Texto integral de autoria de Krenak em acesso aberto, não é um de seus livros comerciais.",
+      "url": "https://ocs.ige.unicamp.br/ojs/react/article/view/2641",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Artigo",
+      "source": "Anais ReACT / Unicamp",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "krenak_universidade",
+      "title": "A presença indígena na universidade",
+      "author": "Ailton Krenak",
+      "tags": [
+        "Povos originários",
+        "Pensamento político",
+        "História"
+      ],
+      "desc": "Ailton Krenak discute presença e participação indígena no espaço universitário.",
+      "lang": "Português",
+      "note": "Texto integral publicado em revista acadêmica aberta, não é livro comercial.",
+      "url": "https://econtents.sbu.unicamp.br/inpec/index.php/maloca/article/view/13194",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Artigo",
+      "source": "Revista Maloca / Unicamp",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "potiguara_durban",
+      "title": "Participação dos povos indígenas na conferência em Durban",
+      "author": "Eliane Potiguara",
+      "tags": [
+        "Povos originários",
+        "Feminismos",
+        "Pensamento político"
+      ],
+      "desc": "Texto da escritora indígena sobre direitos, representação e participação política indígena em debate internacional.",
+      "lang": "Português",
+      "note": "Texto original em revista de acesso aberto. Não é o livro Metade cara, metade máscara.",
+      "url": "https://periodicos.ufsc.br/index.php/ref/article/view/S0104-026X2002000100016",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Artigo",
+      "source": "Revista Estudos Feministas / UFSC",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "munduruku_entrevista",
+      "title": "A literatura de temática indígena — múltiplas vozes e olhares",
+      "author": "Andrea Castelaci Martins (entrevista com Daniel Munduruku, Cristino Wapichana, Olívio Jekupé e Ciça Fittipaldi)",
+      "tags": [
+        "Povos originários",
+        "Literatura infantil e juvenil",
+        "Historiografia"
+      ],
+      "desc": "Entrevista acadêmica sobre autoria indígena e literatura para crianças e jovens; inclui Daniel Munduruku e outros criadores.",
+      "lang": "Português",
+      "note": "Entrevista completa para conhecer os autores; não é uma obra literária de Daniel Munduruku.",
+      "url": "https://revistas.usp.br/literartes/pt_BR/article/view/121301",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Entrevista",
+      "source": "Revista Literartes / USP",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "indig_tematica_foco",
+      "title": "A temática indígena em foco",
+      "author": "Alex Viana Pereira e colaboradores",
+      "tags": [
+        "Povos originários",
+        "Literatura infantil e juvenil",
+        "História"
+      ],
+      "desc": "Estudos sobre narrativas indígenas, incluindo Yaguarê Yamã e a literatura infantil e juvenil Sateré-Mawé.",
+      "lang": "Português",
+      "note": "Obra crítica sobre literatura indígena, não substitui os livros literários estudados.",
+      "url": "https://educapes.capes.gov.br/handle/capes/917717",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Estudos literários",
+      "source": "eduCAPES / Atena Editora",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
     }
   ],
   "support": [
@@ -3069,6 +3346,34 @@
       "desc": "Documentos e arquivos de personagens da história política e social brasileira para consulta e pesquisa.",
       "kind": "Fontes históricas",
       "access": "Acesso conforme o item",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_infanto_1",
+      "title": "Acervo literário da Funai",
+      "author": "Fundação Nacional dos Povos Indígenas",
+      "url": "https://www.gov.br/funai/pt-br/centrais-de-conteudo/publicacoes",
+      "tags": [
+        "Povos originários",
+        "Literatura infantil e juvenil"
+      ],
+      "desc": "Obras de autoria indígena e publicações institucionais, incluindo o álbum Guerreiras da Ancestralidade.",
+      "kind": "Obras e documentos",
+      "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_infanto_2",
+      "title": "Revista Literartes",
+      "author": "Universidade de São Paulo",
+      "url": "https://revistas.usp.br/literartes/",
+      "tags": [
+        "Povos originários",
+        "Literatura infantil e juvenil"
+      ],
+      "desc": "Artigos e entrevistas de acesso aberto sobre criação literária, leitura e autoria indígena.",
+      "kind": "Periódico acadêmico",
+      "access": "Sem cadastro",
       "checked": "26/10/2026"
     }
   ]
