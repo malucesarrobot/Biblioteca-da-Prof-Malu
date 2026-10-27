@@ -44,6 +44,29 @@
       "source": "Classiques des sciences sociales / UQAC — cópia na Universidade de Trieste",
       "format": "PDF — francês",
       "accessLabel": "Abrir original em francês ↗"
+    },
+    {
+      "id": "cur_iphan_queijo",
+      "title": "Reavaliação do modo artesanal de fazer queijo de Minas — Parecer Técnico nº 141/2021",
+      "author": "Instituto do Patrimônio Histórico e Artístico Nacional — Iphan",
+      "tags": [
+        "História",
+        "Cultura popular",
+        "Patrimônio cultural"
+      ],
+      "desc": "Parecer técnico que subsidiou a revalidação do registro. Discute saberes, produção e salvaguarda dos modos de fazer o queijo Minas artesanal.",
+      "lang": "Português",
+      "note": "Documento de 2021, anterior à decisão de revalidação. PDF de 28 páginas, aproximadamente 24 MB. O bem cultural tratado é o modo de fazer queijo Minas artesanal, não o pão de queijo.",
+      "url": "https://bcr.iphan.gov.br/bens-culturais/modos-de-fazer-o-queijo-minas-artesanal/",
+      "pdf": "https://www.gov.br/iphan/pt-br/assuntos/noticias/aberta-consulta-publica-sobre-o-modo-artesanal-de-fazer-queijo-minas-e-o-modo-de-fazer-a-viola-de-cocho/ParecertcnicoRevalidaoModoArtesanaldeFazerQueijoMinas.pdf/@@download/file",
+      "epub": "",
+      "cover": "",
+      "kind": "Documento patrimonial",
+      "source": "Iphan — Parecer Técnico nº 141/2021",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF — 28 páginas",
+      "accessLabel": "Abrir parecer do Iphan ↗"
     }
   ],
   "articles": [
@@ -94,21 +117,6 @@
     }
   ],
   "resources": [
-    {
-      "id": "cur_iphan_queijo",
-      "title": "Modos de fazer o queijo Minas artesanal",
-      "author": "Instituto do Patrimônio Histórico e Artístico Nacional — Iphan",
-      "url": "https://bcr.iphan.gov.br/bens-culturais/modos-de-fazer-o-queijo-minas-artesanal/",
-      "tags": [
-        "História",
-        "Cultura popular",
-        "Patrimônio cultural"
-      ],
-      "desc": "Registro oficial com informações sobre o bem cultural, a revalidação de 2021 e documentos do processo. O reconhecimento diz respeito aos modos de fazer o queijo Minas artesanal; não é um registro do pão de queijo.",
-      "kind": "Documentação patrimonial",
-      "access": "Página oficial aberta; documentos do processo na fonte",
-      "checked": "27/10/2026"
-    },
     {
       "id": "cur_unesco_queijo",
       "title": "Modos tradicionais de fazer queijo Minas artesanal: inscrição na UNESCO em 2024",
@@ -270,11 +278,11 @@
       "title": "Patrimônio e cultura alimentar",
       "desc": "Museus, memória e os modos de fazer o queijo Minas artesanal.",
       "books": [
-        "ampliacao_museu"
+        "ampliacao_museu",
+        "cur_iphan_queijo"
       ],
       "articles": [],
       "resources": [
-        "cur_iphan_queijo",
         "cur_unesco_queijo"
       ],
       "support": []
