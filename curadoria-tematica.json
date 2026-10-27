@@ -680,6 +680,160 @@
       "series": "Mitos da Pós-Modernidade",
       "volume": 3,
       "accessLabel": "Abrir PDF na USP ↗"
+    },
+    {
+      "id": "pas_apologia",
+      "title": "Apologia de Sócrates — referência do PAS 1",
+      "author": "Platão",
+      "url": "https://drive.google.com/file/d/10TrOx9B1H-w1vV3aao10s0JUuXqvPZCb/view?usp=drive_link",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "tags": [
+        "Filosofia",
+        "PAS/UnB"
+      ],
+      "kind": "Diálogo filosófico",
+      "desc": "Defesa de Sócrates em seu julgamento. O PAS 1 indica apenas Apologia de Sócrates, embora o arquivo de acesso reúna três diálogos.",
+      "note": "Link extraído da lista oficial do PAS 1 2026–2028. Edição e tradução devem ser consultadas no arquivo; não confundir com o estudo Timeu já presente no acervo.",
+      "lang": "Português",
+      "source": "UnB / Cebraspe — link indicado na lista oficial",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "Arquivo indicado na lista oficial",
+      "accessLabel": "Abrir referência do PAS ↗"
+    },
+    {
+      "id": "pas_gilgamesh",
+      "title": "A história de Gilgamesh, rei de Uruk — edição indicada pelo PAS 1",
+      "author": "Rosana Rios; ilustrações de Rogério Borges",
+      "url": "https://deg.unb.br/wp-content/uploads/epopeia_gilgamesh_obras_pas.pdf",
+      "pdf": "https://deg.unb.br/wp-content/uploads/epopeia_gilgamesh_obras_pas.pdf",
+      "epub": "",
+      "cover": "",
+      "tags": [
+        "Literatura e humor",
+        "PAS/UnB"
+      ],
+      "kind": "Adaptação literária",
+      "desc": "Adaptação da narrativa mesopotâmica indicada no acesso oficial à Epopeia de Gilgamesh para o PAS 1.",
+      "note": "PDF de 47 páginas baixado da UnB; capa inspecionada. A edição é uma adaptação de Rosana Rios, não uma tradução integral anônima das tábuas. A fonte oficial utiliza a designação A Epopeia de Gilgamesh.",
+      "lang": "Português",
+      "source": "UnB / Cebraspe — link indicado na lista oficial",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF — seleção do PAS",
+      "accessLabel": "Abrir referência do PAS ↗"
+    },
+    {
+      "id": "pas_literatura_1",
+      "title": "Seleção de textos literários — PAS 1 2026–2028",
+      "author": "Autoria coletiva — seleção da UnB",
+      "url": "https://deg.unb.br/wp-content/uploads/obras_literatura_pas1.pdf",
+      "pdf": "https://deg.unb.br/wp-content/uploads/obras_literatura_pas1.pdf",
+      "epub": "",
+      "cover": "",
+      "tags": [
+        "Literatura e humor",
+        "PAS/UnB"
+      ],
+      "kind": "Coletânea PAS",
+      "desc": "Seleção oficial com cantigas, sonetos e recortes literários, incluindo Canção Peregrina, de Graça Graúna, e Ogum à Beira-Mar, de Jeferson Tenório.",
+      "note": "PDF de 29 páginas aberto e texto extraído. O documento também remete à Epopeia de Gilgamesh, cujo arquivo deve ser acessado separadamente. Os textos são recortes da lista, não livros completos de cada autor.",
+      "lang": "Português",
+      "source": "UnB / Cebraspe — link indicado na lista oficial",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF — seleção do PAS",
+      "accessLabel": "Abrir referência do PAS ↗"
+    },
+    {
+      "id": "pas_literatura_2",
+      "title": "Seleção de textos literários — PAS 2",
+      "author": "Autoria coletiva — seleção indicada pela UnB",
+      "url": "https://drive.google.com/file/d/1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD/view",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "tags": [
+        "Literatura e humor",
+        "PAS/UnB"
+      ],
+      "kind": "Coletânea PAS",
+      "desc": "Acesso coletivo aos textos literários indicados para a segunda etapa. Inclui referências a poesia, contos e Memórias póstumas de Brás Cubas.",
+      "note": "Link extraído do documento oficial do PAS 2 para subprogramas iniciados a partir de 2023. O documento de referência está identificado como versão preliminar de junho de 2024. Confira os recortes e a extensão dos textos no arquivo.",
+      "lang": "Português",
+      "source": "UnB / Cebraspe — link indicado na lista oficial",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "Arquivo indicado na lista oficial",
+      "accessLabel": "Abrir referência do PAS ↗"
+    },
+    {
+      "id": "pas_literatura_3",
+      "title": "Seleção de textos literários — PAS 3",
+      "author": "Autoria coletiva — seleção indicada pela UnB",
+      "url": "https://drive.google.com/file/d/1pBDfQPLlT6zstDKRRi54l68JF8e1sVB4/view?usp=sharing",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "tags": [
+        "Literatura e humor",
+        "PAS/UnB"
+      ],
+      "kind": "Coletânea PAS",
+      "desc": "Acesso coletivo aos textos literários da terceira etapa, com referências a Conceição Evaristo, Cristiane Sobral, Meimei Bastos e outros autores.",
+      "note": "Link extraído do documento oficial do PAS 3 para subprogramas iniciados a partir de 2023. O documento de referência está identificado como versão preliminar de junho de 2024. A indicação de um título na seleção não significa que o livro inteiro esteja incluído.",
+      "lang": "Português",
+      "source": "UnB / Cebraspe — link indicado na lista oficial",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "Arquivo indicado na lista oficial",
+      "accessLabel": "Abrir referência do PAS ↗"
+    },
+    {
+      "id": "pas_kant_esclarecimento",
+      "title": "Resposta à pergunta: o que é o esclarecimento? — referência do PAS 2",
+      "author": "Immanuel Kant",
+      "url": "https://drive.google.com/file/d/1cCyWeLp8hP64XVHSd0LiYEjO82udLQ-p/view",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "tags": [
+        "Filosofia",
+        "PAS/UnB"
+      ],
+      "kind": "Ensaio filosófico",
+      "desc": "Texto sobre autonomia, pensamento e uso público da razão. Acesso à edição indicada na lista oficial da segunda etapa.",
+      "note": "A lista identifica a tradução de Floriano de Souza Fernandes. Link extraído do PDF oficial; a disponibilização de outra tradução não substitui a conferência da edição e do recorte indicados.",
+      "lang": "Português",
+      "source": "UnB / Cebraspe — link indicado na lista oficial",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "Arquivo indicado na lista oficial",
+      "accessLabel": "Abrir referência do PAS ↗"
+    },
+    {
+      "id": "pas_sueli_epistemicidio",
+      "title": "Epistemicídio — trecho da tese de Sueli Carneiro indicado no PAS 3",
+      "author": "Aparecida Sueli Carneiro",
+      "url": "https://drive.google.com/file/d/1bSxrGUTkiR61iMs-gXW8-SzVQY4ns2D9/view?usp=sharing",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "tags": [
+        "Filosofia",
+        "PAS/UnB"
+      ],
+      "kind": "Trecho de tese",
+      "desc": "Recorte da tese A construção do outro como não-ser como fundamento do ser, de 2005, indicado para discutir racismo e produção do conhecimento.",
+      "note": "Acesso ao arquivo de Epistemicídio indicado pela UnB. É um trecho de tese, não o livro comercial Dispositivo de racialidade. A lista oficial utilizada está identificada como versão preliminar de junho de 2024.",
+      "lang": "Português",
+      "source": "UnB / Cebraspe — link indicado na lista oficial",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "Arquivo indicado na lista oficial",
+      "accessLabel": "Abrir referência do PAS ↗"
     }
   ],
   "articles": [
