@@ -399,8 +399,10 @@
           "id": "pas1_textos_6",
           "sourcePage": 4,
           "title": "O que tem debaixo da Terra, Erica Miranda Suckow (HQ)",
-          "status": "PDF acessível: 17 páginas; conteúdo em imagem ainda requer conferência visual.",
-          "url": "https://drive.google.com/file/d/16VEADzmy087-S7A14Nq0LEiYV3X7vC4a/view"
+          "status": "PDF aberto; página inicial conferida visualmente: 17 páginas.",
+          "url": "https://drive.google.com/file/d/16VEADzmy087-S7A14Nq0LEiYV3X7vC4a/view",
+          "catalogId": "pas_debaixo_terra",
+          "catalogNote": "Referência identificada e disponível na estante."
         },
         {
           "stage": 1,
@@ -430,7 +432,9 @@
           "sourcePage": 4,
           "title": "A humanidade que pensamos ser (in Ideias para adiar o fim do mundo, Ailton Krenak, 2019)",
           "status": "PDF aberto e texto inicial conferido: 9 páginas.",
-          "url": "https://drive.google.com/file/d/1ocVIOsUbbCCL3mknWv94jMWXqUPVFupU/view?usp=drive_link"
+          "url": "https://drive.google.com/file/d/1ocVIOsUbbCCL3mknWv94jMWXqUPVFupU/view?usp=drive_link",
+          "catalogId": "pas_krenak_humanidade",
+          "catalogNote": "Referência identificada e disponível na estante."
         },
         {
           "stage": 1,
@@ -504,7 +508,9 @@
           "sourcePage": 4,
           "title": "Medeia, Eurípides",
           "status": "PDF aberto e texto inicial conferido: 50 páginas.",
-          "url": "https://artedramaticacep.wordpress.com/wp-content/uploads/2015/07/medeia.pdf"
+          "url": "https://artedramaticacep.wordpress.com/wp-content/uploads/2015/07/medeia.pdf",
+          "catalogId": "pas_medeia",
+          "catalogNote": "Referência identificada e disponível na estante."
         },
         {
           "stage": 1,
@@ -513,8 +519,10 @@
           "id": "pas1_teatro_2",
           "sourcePage": 4,
           "title": "Auto da Virtude e da Esperança, 3° ato da peça teatral A Pena e a Lei, Ariano Suassuna",
-          "status": "PDF acessível: 48 páginas; conteúdo em imagem ainda requer conferência visual.",
-          "url": "https://drive.google.com/file/d/15U3ZSUo1J9sWS-xI65XQxadYQqEVquZ1/view?usp=drive_link"
+          "status": "PDF aberto; página inicial conferida visualmente: 48 páginas.",
+          "url": "https://drive.google.com/file/d/15U3ZSUo1J9sWS-xI65XQxadYQqEVquZ1/view?usp=drive_link",
+          "catalogId": "pas_auto_virtude",
+          "catalogNote": "Referência identificada e disponível na estante."
         },
         {
           "stage": 1,
@@ -780,7 +788,9 @@
           "sourcePage": 2,
           "title": "A indústria cultural, T. Adorno e M. Horkheimer",
           "status": "PDF aberto e texto inicial conferido: 30 páginas.",
-          "url": "https://drive.google.com/file/d/15dkRRgkgFdWIEui33Kx4AsPkXP4HPVFn/view"
+          "url": "https://drive.google.com/file/d/15dkRRgkgFdWIEui33Kx4AsPkXP4HPVFn/view",
+          "catalogId": "pas_industria_cultural",
+          "catalogNote": "Referência identificada e disponível na estante."
         },
         {
           "stage": 2,
@@ -1247,7 +1257,9 @@
           "sourcePage": 9,
           "title": "Um inimigo do povo, Henrik Ibsen, 1882",
           "status": "PDF aberto e texto inicial conferido: 80 páginas.",
-          "url": "https://drive.google.com/file/d/1ny3cAArOB6Sd8JJeM5IkwVjYMmr8tB40/view"
+          "url": "https://drive.google.com/file/d/1ny3cAArOB6Sd8JJeM5IkwVjYMmr8tB40/view",
+          "catalogId": "pas_inimigo_povo",
+          "catalogNote": "Referência identificada e disponível na estante."
         },
         {
           "stage": 2,
@@ -1256,8 +1268,10 @@
           "id": "pas2_teatro_2",
           "sourcePage": 9,
           "title": "O Burguês Fidalgo, Moliére",
-          "status": "PDF acessível: 61 páginas; conteúdo em imagem ainda requer conferência visual.",
-          "url": "https://drive.google.com/file/d/1gkJramDGntiGE1oA91Mw0POZXyQOx1Vg/view"
+          "status": "PDF aberto; página inicial conferida visualmente: 61 páginas.",
+          "url": "https://drive.google.com/file/d/1gkJramDGntiGE1oA91Mw0POZXyQOx1Vg/view",
+          "catalogId": "pas_burgues_fidalgo",
+          "catalogNote": "Referência identificada e disponível na estante."
         },
         {
           "stage": 2,
@@ -1407,7 +1421,9 @@
           "title": "Necropolítica",
           "status": "Ensaio identificado no PDF do PAS e página da revista conferida.",
           "url": "https://revistas.ufrj.br/index.php/ae/article/view/8993",
-          "note": "Acesso alternativo na revista Arte & Ensaios da UFRJ, n. 32 (2016). O PDF indicado pelo PAS corresponde ao ensaio publicado na revista."
+          "note": "Acesso alternativo na revista Arte & Ensaios da UFRJ, n. 32 (2016). O PDF indicado pelo PAS corresponde ao ensaio publicado na revista.",
+          "catalogId": "pas_necropolitica",
+          "catalogNote": "Referência identificada e disponível na estante."
         },
         {
           "stage": 3,
@@ -1429,7 +1445,9 @@
           "sourcePage": 3,
           "title": "Sociedade do cansaço",
           "status": "PDF aberto e texto inicial conferido: 53 páginas.",
-          "url": "https://drive.google.com/file/d/1pjqZ92Nqc9lq_n7HAFffcN9v6mkUrtvX/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/1pjqZ92Nqc9lq_n7HAFffcN9v6mkUrtvX/view?usp=sharing",
+          "catalogId": "pas_sociedade_cansaco",
+          "catalogNote": "Referência identificada e disponível na estante."
         },
         {
           "stage": 3,
@@ -1862,7 +1880,8 @@
           "sourcePage": 8,
           "title": "Eles não usam Black- Tie",
           "status": "Link abriu a página do Moodle USP; PDF da peça não obtido.",
-          "url": "https://edisciplinas.usp.br/pluginfile.php/5012806/mod_resource/content/2/ELES%20N%C3%83O%20USAM%20BLACK-TIE%20-%20GUARNIERI.pdf"
+          "url": "https://edisciplinas.usp.br/pluginfile.php/5012806/mod_resource/content/2/ELES%20N%C3%83O%20USAM%20BLACK-TIE%20-%20GUARNIERI.pdf",
+          "note": "Na UnB foi localizado o estudo Eles não usam black-tie: da profecia cênica ao documentário fílmico (https://repositorio.unb.br/handle/10482/8349). É análise acadêmica, não substitui a peça integral."
         },
         {
           "stage": 3,
@@ -1872,7 +1891,8 @@
           "sourcePage": 8,
           "title": "Vestido de Noiva",
           "status": "Página de destino acessível; leitura integral ainda não confirmada.",
-          "url": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/viewdownload/5-pecas-diversas/101-vestido-de-noiva"
+          "url": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/viewdownload/5-pecas-diversas/101-vestido-de-noiva",
+          "note": "Estudo complementar localizado na Unespar: Vestido de Noiva — o texto fundador (https://periodicos.unespar.edu.br/revistacientifica/article/view/1743). Não substitui a peça integral."
         },
         {
           "stage": 3,
