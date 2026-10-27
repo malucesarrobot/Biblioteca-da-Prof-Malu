@@ -207,6 +207,190 @@
       "source": "Project Gutenberg",
       "format": "HTML · ePUB · texto",
       "accessLabel": "Ler no Gutenberg ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_lima_isaias",
+      "title": "Recordações do escrivão Isaías Caminha",
+      "author": "Lima Barreto",
+      "lang": "Português",
+      "tags": [
+        "Literatura e humor",
+        "História",
+        "Pan-africanismo e amefricanidades",
+        "Clássicos em domínio público"
+      ],
+      "desc": "Um jovem negro busca reconhecimento e trabalho no Rio de Janeiro e encontra racismo e relações de poder no meio jornalístico. Romance para discutir imprensa, educação e desigualdade na Primeira República.",
+      "note": "Digitalização da 2ª edição, revista e aumentada, de 1917. Conserva a grafia histórica. PDF conferido na Brasiliana USP.",
+      "url": "https://digital.bbm.usp.br/handle/bbm/4808",
+      "pdf": "https://digital.bbm.usp.br/bitstream/bbm/4808/1/001228_COMPLETO.pdf",
+      "source": "Biblioteca Brasiliana Guita e José Mindlin — USP",
+      "format": "PDF — acesso gratuito",
+      "accessLabel": "Abrir PDF ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_sacarneiro_lucio",
+      "title": "A confissão de Lúcio",
+      "author": "Mário de Sá-Carneiro",
+      "lang": "Português",
+      "tags": [
+        "Literatura e humor",
+        "Suspense, enigmas e sociedades secretas",
+        "Clássicos em domínio público"
+      ],
+      "desc": "Depois de cumprir pena por um crime, Lúcio apresenta sua versão dos acontecimentos. Novela de mistério psicológico sobre memória, identidade e desejo.",
+      "note": "Publicado originalmente em 1914. Texto em português. Aborda crime, sexualidade e sofrimento psíquico; selecionar trechos conforme a turma.",
+      "url": "https://www.gutenberg.org/ebooks/68807",
+      "pdf": "",
+      "source": "Project Gutenberg",
+      "format": "HTML · ePUB · texto",
+      "accessLabel": "Ler no Gutenberg ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_matsuura_timeu",
+      "title": "Timeu: a Cosmologia de Platão",
+      "author": "Oscar Toshiaki Matsuura",
+      "lang": "Português",
+      "tags": [
+        "Filosofia",
+        "História",
+        "Ciência e tecnologia"
+      ],
+      "desc": "Apresentação contextualizada do diálogo Timeu, de Platão, em conexão com a história e a filosofia da ciência até a cosmologia contemporânea.",
+      "note": "Edição do autor de 2019. Estudo sobre o diálogo, não uma tradução integral de Platão. PDF de 147 páginas conferido; leitura com mediação para o ensino médio.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1209",
+      "pdf": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/download/1209/1104/4176?inline=1",
+      "source": "Portal de Livros Abertos da USP",
+      "format": "PDF — acesso gratuito",
+      "accessLabel": "Abrir PDF ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_prolam_pensamento",
+      "title": "América Latina: pensamento social e político — Série PROLAM USP Debate, volume 1",
+      "author": "Wagner Iglecias; Gustavo Menon; Franco Alejandro López Marín (orgs.)",
+      "lang": "Português e espanhol",
+      "tags": [
+        "História",
+        "Pensamento político",
+        "Geopolítica"
+      ],
+      "desc": "Sete estudos sobre pensamento latino-americano, teoria da dependência, populismo, literatura e instituições políticas.",
+      "note": "Publicado em 2022. PDF de 120 páginas conferido. Coletânea acadêmica com capítulos em português e espanhol; indicada para aprofundamento e seleção de trechos.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/759",
+      "pdf": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/download/759/675/2511?inline=1",
+      "source": "Portal de Livros Abertos da USP",
+      "format": "PDF — acesso gratuito",
+      "accessLabel": "Abrir PDF ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_intelectuais_latina",
+      "title": "Intelectuais em circulação na América Latina",
+      "author": "Júlio César Suzuki; Maria Margarida Cintra Nepomuceno; Gilvan Charles Cerqueira de Araújo (orgs.)",
+      "lang": "Multilíngue",
+      "tags": [
+        "História",
+        "Pensamento político",
+        "Geopolítica"
+      ],
+      "desc": "Redes de sociabilidade, intercâmbios intelectuais e experiências culturais latino-americanas. Estuda a circulação de pessoas e ideias na integração regional.",
+      "note": "Publicado em 2021. PDF de 475 páginas conferido. Coletânea de aprofundamento; conferir o idioma de cada capítulo antes de selecionar a leitura.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/733",
+      "pdf": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/download/733/651/2414?inline=1",
+      "source": "Portal de Livros Abertos da USP",
+      "format": "PDF — acesso gratuito",
+      "accessLabel": "Abrir PDF ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_presenca_mito",
+      "title": "A presença do mito na atualidade: contribuições contemporâneas",
+      "author": "Rogério de Almeida; Alberto Filipe Araújo (orgs.)",
+      "lang": "Português, espanhol, francês e inglês",
+      "tags": [
+        "Filosofia",
+        "Arte, memória e arqueologia",
+        "Semiótica, estética e cultura de massas"
+      ],
+      "desc": "Mitos e imaginário contemporâneo em diálogo com filosofia, educação e artes. Inclui discussões sobre Frankenstein, Drácula, Fausto e narrativas do fim do mundo.",
+      "note": "Publicado em 2025. PDF de 573 páginas conferido. Coletânea acadêmica multilíngue para formação docente e leitura de capítulos selecionados.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1690",
+      "pdf": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/download/1690/1543/6174?inline=1",
+      "source": "Portal de Livros Abertos da USP",
+      "format": "PDF — acesso gratuito",
+      "accessLabel": "Abrir PDF ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_mito_fim_mundo",
+      "title": "O mito do Fim do Mundo: imaginário & educação",
+      "author": "Alberto Filipe Araújo; Rogério de Almeida; Marcos Beccari (orgs.)",
+      "lang": "Português, espanhol e francês",
+      "tags": [
+        "Filosofia",
+        "Semiótica, estética e cultura de massas",
+        "Educação e práticas docentes"
+      ],
+      "desc": "Narrativas de catástrofe, imaginário e educação em diálogo com referências culturais e interpretações da experiência contemporânea.",
+      "note": "Publicado em 2023, volume 4 da coleção Mitos da Pós-Modernidade. PDF conferido. Estudos acadêmicos sobre o imaginário, não previsões científicas de catástrofes.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1098",
+      "pdf": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/download/1098/1003/3712?inline=1",
+      "source": "Portal de Livros Abertos da USP",
+      "format": "PDF — acesso gratuito",
+      "accessLabel": "Abrir PDF ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_wittgenstein_educacao",
+      "title": "Diálogos com Wittgenstein na educação",
+      "author": "Cristiane Maria Cornelia Gottschalk; Bárbara Nivalda Palharini Alvim Sousa (orgs.)",
+      "lang": "Português",
+      "tags": [
+        "Filosofia",
+        "Educação e práticas docentes"
+      ],
+      "desc": "Filosofia da linguagem aplicada a problemas educacionais. Discute jogos de linguagem, formação humana, imaginação e pensamento crítico na escola.",
+      "note": "Publicado em 2025. PDF de 196 páginas conferido. Indicado para formação docente e preparação de aulas.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1738",
+      "pdf": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/download/1738/1585/6644?inline=1",
+      "source": "Portal de Livros Abertos da USP",
+      "format": "PDF — acesso gratuito",
+      "accessLabel": "Abrir PDF ↗"
     }
   ],
   "articles": [
@@ -335,7 +519,8 @@
         "codigo_eleitoral_1932",
         "bbm_bruzundangas",
         "cam_triste-fim-de-policarpo-quaresma",
-        "literatura_sertoes"
+        "literatura_sertoes",
+        "cur_lima_isaias"
       ],
       "articles": [
         "artigo_101",
@@ -435,7 +620,9 @@
       "books": [
         "ampliacao_colonialidade",
         "amefricanas",
-        "cur_bomfim_america_latina"
+        "cur_bomfim_america_latina",
+        "cur_prolam_pensamento",
+        "cur_intelectuais_latina"
       ],
       "articles": [
         "artigo_008"
