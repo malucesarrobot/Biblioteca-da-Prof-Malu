@@ -1,0 +1,333 @@
+{
+  "checked": "27/10/2026",
+  "books": [
+    {
+      "lang": "Português",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_lenin_imperialismo",
+      "title": "O imperialismo, fase superior do capitalismo",
+      "author": "Vladimir Ilitch Lênin",
+      "tags": [
+        "História",
+        "Pensamento político",
+        "Geopolítica"
+      ],
+      "desc": "Uma interpretação marxista do imperialismo, escrita em 1916. Fonte de época para estudar debates sobre capitalismo e expansão imperial.",
+      "note": "Texto completo em HTML, dividido em capítulos. O Marxists Internet Archive identifica a transcrição como autorizada e informa a edição portuguesa utilizada.",
+      "url": "https://www.marxists.org/portugues/lenin/1916/imperialismo/index.htm",
+      "pdf": "",
+      "source": "Marxists Internet Archive — edição Avante!/Progresso",
+      "format": "HTML — capítulos"
+    },
+    {
+      "lang": "Francês",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_bloch_apologie",
+      "title": "Apologie pour l’histoire ou Métier d’historien",
+      "author": "Marc Bloch",
+      "tags": [
+        "História",
+        "Historiografia"
+      ],
+      "desc": "Reflexões sobre fontes, tempo histórico e o trabalho de quem escreve história. Original em francês.",
+      "note": "PDF de 116 páginas. Edição digital dos Classiques des sciences sociales, preparada por Pierre Palpant a partir da edição francesa de 1952; cópia hospedada na Universidade de Trieste. Não é a tradução brasileira.",
+      "url": "https://moodle2.units.it/mod/resource/view.php?id=178178",
+      "pdf": "https://moodle2.units.it/mod/resource/view.php?id=178178",
+      "source": "Classiques des sciences sociales / UQAC — cópia na Universidade de Trieste",
+      "format": "PDF — francês",
+      "accessLabel": "Abrir original em francês ↗"
+    }
+  ],
+  "articles": [
+    {
+      "id": "cur_maia_1929",
+      "title": "Representações da crise de 1929 na imprensa brasileira: relações entre história, mídia e cultura",
+      "author": "Andréa Casa Nova Maia",
+      "year": 2013,
+      "journal": "Varia Historia · SciELO",
+      "url": "https://www.scielo.br/j/vh/a/vfLx6LzfRK7jXwyQf4gSpYh/?lang=pt",
+      "area": "História e historiografia",
+      "desc": "Compara a cobertura da crise em jornais da elite carioca e na imprensa operária. Uma leitura sobre economia, mídia e disputa de interpretações.",
+      "kind": "Artigo acadêmico",
+      "lang": "Português",
+      "source": "Varia Historia · SciELO",
+      "checked": "27/10/2026",
+      "access": "Texto completo aberto na fonte; conferir condições de reprodução na publicação."
+    },
+    {
+      "id": "cur_nures_eres",
+      "title": "“Era uma vez Erês...”",
+      "author": "Emilena Sousa dos Santos",
+      "year": 2010,
+      "journal": "Revista Nures · PUC-SP, nº 16",
+      "url": "https://revistas.pucsp.br/nures/article/download/4275/2882/9972",
+      "area": "História e historiografia",
+      "desc": "Analisa representações de Ibeji e do estado-de-erê nos jornais A Tarde e Correio da Bahia. PDF completo de 15 páginas; articula imprensa, religiosidades afro-brasileiras e estereótipos.",
+      "kind": "Artigo acadêmico",
+      "lang": "Português",
+      "source": "Revista Nures · PUC-SP, nº 16",
+      "checked": "27/10/2026",
+      "access": "Texto completo aberto na fonte; conferir condições de reprodução na publicação."
+    },
+    {
+      "id": "cur_ushmm_introducao",
+      "title": "Introdução ao Holocausto",
+      "author": "United States Holocaust Memorial Museum",
+      "year": null,
+      "journal": "Enciclopédia do Holocausto · USHMM",
+      "url": "https://encyclopedia.ushmm.org/content/pt-br/article/introduction-to-the-holocaust",
+      "area": "História e historiografia",
+      "desc": "Texto de referência do museu, em português brasileiro, com explicações históricas e acesso a documentos e outros verbetes.",
+      "kind": "Verbete de enciclopédia",
+      "lang": "Português",
+      "source": "Enciclopédia do Holocausto · USHMM",
+      "checked": "27/10/2026",
+      "access": "Texto completo aberto na fonte; conferir condições de reprodução na publicação."
+    }
+  ],
+  "resources": [
+    {
+      "id": "cur_iphan_queijo",
+      "title": "Modos de fazer o queijo Minas artesanal",
+      "author": "Instituto do Patrimônio Histórico e Artístico Nacional — Iphan",
+      "url": "https://bcr.iphan.gov.br/bens-culturais/modos-de-fazer-o-queijo-minas-artesanal/",
+      "tags": [
+        "História",
+        "Cultura popular",
+        "Patrimônio cultural"
+      ],
+      "desc": "Registro oficial com informações sobre o bem cultural, a revalidação de 2021 e documentos do processo. O reconhecimento diz respeito aos modos de fazer o queijo Minas artesanal; não é um registro do pão de queijo.",
+      "kind": "Documentação patrimonial",
+      "access": "Página oficial aberta; documentos do processo na fonte",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "cur_unesco_queijo",
+      "title": "Modos tradicionais de fazer queijo Minas artesanal: inscrição na UNESCO em 2024",
+      "author": "UNESCO",
+      "url": "https://www.unesco.org/en/articles/traditional-ways-making-artisan-minas-cheese-included-unescos-intangible-cultural-heritage-list?hub=981",
+      "tags": [
+        "História",
+        "Cultura popular",
+        "Patrimônio cultural"
+      ],
+      "desc": "Notícia institucional de 4 de dezembro de 2024 sobre a inscrição dos modos de fazer na Lista Representativa do Patrimônio Cultural Imaterial da Humanidade. Texto em inglês.",
+      "kind": "Notícia institucional",
+      "lang": "Inglês",
+      "access": "Leitura aberta na fonte",
+      "checked": "27/10/2026"
+    }
+  ],
+  "bookPatches": [
+    {
+      "id": "const_1891",
+      "checked": "27/10/2026",
+      "desc": "Primeira Constituição republicana. O art. 70 trata do alistamento eleitoral e de suas exclusões; ler junto ao contexto das restrições de cidadania do período.",
+      "note": "Documento histórico sem vigência. A página inclui alterações posteriores, identificadas no próprio texto; observe a redação correspondente ao período estudado."
+    },
+    {
+      "id": "codigo_eleitoral_1932",
+      "checked": "27/10/2026",
+      "desc": "Institui a Justiça Eleitoral, prevê o voto secreto e reconhece o eleitorado sem distinção de sexo. Uma mudança na legislação não significa o desaparecimento das práticas de coerção eleitoral.",
+      "period": "Era Vargas (1930–1945)",
+      "note": "Documento histórico sem vigência. Desdobramento das disputas eleitorais da Primeira República; o art. 4º mantém exclusões do alistamento."
+    },
+    {
+      "id": "bbm_bruzundangas",
+      "checked": "27/10/2026",
+      "pdf": "https://digital.bbm.usp.br/bitstream/bbm/4801/1/001174_COMPLETO.pdf",
+      "accessLabel": "Abrir PDF na USP ↗"
+    }
+  ],
+  "articlePatches": [
+    {
+      "id": "artigo_101",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "artigo_102",
+      "checked": "27/10/2026"
+    }
+  ],
+  "themes": [
+    {
+      "id": "imperio",
+      "title": "Crise do Império e Proclamação da República",
+      "desc": "Literatura, abolição, escravidão e imprensa para aproximar perspectivas sobre a mudança de regime.",
+      "books": [
+        "pd_machado_56737",
+        "pd_machado_55797",
+        "cam_o-abolicionismo",
+        "ampliacao_paraguai",
+        "ampliacao_escravidao"
+      ],
+      "articles": [
+        "artigo_012"
+      ],
+      "resources": [
+        "acervo_3"
+      ],
+      "support": []
+    },
+    {
+      "id": "republica",
+      "title": "Primeira República: Constituição, voto e coronelismo",
+      "desc": "Da regra escrita às relações de poder. O Código de 1932 entra como desdobramento, já na Era Vargas.",
+      "books": [
+        "const_1891",
+        "codigo_eleitoral_1932",
+        "bbm_bruzundangas",
+        "cam_triste-fim-de-policarpo-quaresma",
+        "literatura_sertoes"
+      ],
+      "articles": [
+        "artigo_101",
+        "artigo_102"
+      ],
+      "resources": [
+        "acervo_novo_12"
+      ],
+      "support": []
+    },
+    {
+      "id": "vargas",
+      "title": "Era Vargas e crise de 1929",
+      "desc": "Crise econômica, imprensa e interpretações sobre o período entre guerras.",
+      "books": [
+        "funag_keynes"
+      ],
+      "articles": [
+        "cur_maia_1929"
+      ],
+      "resources": [],
+      "support": []
+    },
+    {
+      "id": "imperialismo",
+      "title": "Imperialismo e Revolução Russa",
+      "desc": "História africana em diálogo com uma interpretação marxista produzida no contexto da Primeira Guerra.",
+      "books": [
+        "hga_VII",
+        "cur_lenin_imperialismo"
+      ],
+      "articles": [],
+      "resources": [],
+      "support": []
+    },
+    {
+      "id": "holocausto",
+      "title": "Holocausto e Segunda Guerra",
+      "desc": "Referência histórica do museu e uma discussão sobre política e educação em Arendt.",
+      "books": [],
+      "articles": [
+        "cur_ushmm_introducao",
+        "artigo_034"
+      ],
+      "resources": [],
+      "support": []
+    },
+    {
+      "id": "indigenas",
+      "title": "Povos indígenas",
+      "desc": "Autoria indígena, educação e presença nas universidades.",
+      "books": [
+        "original_7",
+        "krenak_terra",
+        "indig_universidade"
+      ],
+      "articles": [],
+      "resources": [],
+      "support": []
+    },
+    {
+      "id": "matriz-africana",
+      "title": "Cosme e Damião, matriz africana e samba",
+      "desc": "Religiosidades, racismo religioso, imprensa e histórias do samba.",
+      "books": [
+        "usp_1189",
+        "usp_938"
+      ],
+      "articles": [
+        "artigo_027",
+        "artigo_056",
+        "cur_nures_eres"
+      ],
+      "resources": [],
+      "support": [
+        "apoio_8"
+      ]
+    },
+    {
+      "id": "patrimonio",
+      "title": "Patrimônio e cultura alimentar",
+      "desc": "Museus, memória e os modos de fazer o queijo Minas artesanal.",
+      "books": [
+        "ampliacao_museu"
+      ],
+      "articles": [],
+      "resources": [
+        "cur_iphan_queijo",
+        "cur_unesco_queijo"
+      ],
+      "support": []
+    },
+    {
+      "id": "colonialidade",
+      "title": "Colonialidade",
+      "desc": "Perspectivas sobre poder, produção do conhecimento e pensamento afrodiaspórico.",
+      "books": [
+        "ampliacao_colonialidade",
+        "amefricanas"
+      ],
+      "articles": [
+        "artigo_008"
+      ],
+      "resources": [],
+      "support": []
+    },
+    {
+      "id": "democracia",
+      "title": "Democracia, voto e informação",
+      "desc": "Leituras para acompanhar as conversas do Quebrando o Algoritmo e outras pautas sobre vida política.",
+      "books": [
+        "const_voz_1"
+      ],
+      "articles": [
+        "artigo_065",
+        "artigo_006",
+        "artigo_097"
+      ],
+      "resources": [],
+      "support": []
+    },
+    {
+      "id": "historiadora",
+      "title": "Escola e ofício de historiadora",
+      "desc": "Da cena escolar à pesquisa sobre fontes e escrita da história.",
+      "books": [
+        "original_2",
+        "ufba_aulas_historia_foco",
+        "cur_bloch_apologie"
+      ],
+      "articles": [],
+      "resources": [],
+      "support": []
+    }
+  ],
+  "pending": [
+    {
+      "title": "Dez dias que abalaram o mundo",
+      "author": "John Reed",
+      "theme": "imperialismo",
+      "reason": "O endereço localizado oferece um índice sem acesso aos capítulos. Aguardando conferência do texto completo."
+    }
+  ]
+}
