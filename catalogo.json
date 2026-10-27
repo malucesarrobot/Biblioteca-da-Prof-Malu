@@ -10153,6 +10153,54 @@
       "checked": "27/10/2026",
       "access": "Texto de acesso aberto; licença a conferir na publicação",
       "bnccSuggestion": "Tema de apoio para leitura e pesquisa; selecionar habilidades conforme etapa e currículo."
+    },
+    {
+      "id": "artigo_098",
+      "title": "Ditadura, memória e violência nos 60 anos do golpe: um balanço historiográfico e uma proposta analítica",
+      "author": "Lucas Pedretti",
+      "year": 2024,
+      "journal": "Revista Brasileira de História",
+      "url": "https://www.scielo.br/j/rbh/a/R6qKt9R7fnQfXsmJqwshCwJ/",
+      "area": "História e historiografia",
+      "desc": "Balanço historiográfico das relações entre memória, violência e ditadura.",
+      "kind": "Artigo acadêmico",
+      "lang": "Português",
+      "source": "SciELO Brasil",
+      "checked": "27/10/2026",
+      "access": "Acesso aberto; licença na publicação",
+      "bnccSuggestion": "Possível apoio a atividades escolares, conforme etapa e currículo."
+    },
+    {
+      "id": "artigo_099",
+      "title": "O ensino de História encontra seu passado: memórias da atuação docente durante a ditadura civil-militar",
+      "author": "Elaine Lourenço",
+      "year": 2010,
+      "journal": "Revista Brasileira de História",
+      "url": "https://www.scielo.br/j/rbh/a/9x5mdRBWQbHHLkmkCscKDNp/",
+      "area": "História e historiografia",
+      "desc": "Memórias docentes sobre o controle e as resistências na escola sob a ditadura.",
+      "kind": "Artigo acadêmico",
+      "lang": "Português",
+      "source": "SciELO Brasil",
+      "checked": "27/10/2026",
+      "access": "Acesso aberto; licença na publicação",
+      "bnccSuggestion": "Possível apoio a atividades escolares, conforme etapa e currículo."
+    },
+    {
+      "id": "artigo_100",
+      "title": "Literatura de cordel e migração nordestina: tradição e deslocamento",
+      "author": "Luciany Aparecida Alves Santos",
+      "year": 2010,
+      "journal": "Estudos de Literatura Brasileira Contemporânea",
+      "url": "https://www.scielo.br/j/elbc/a/dpZ66RYCTFDFk7jn7QPs4dD/",
+      "area": "Arte, cultura e literatura",
+      "desc": "Cordel, migração nordestina e transformação das tradições populares.",
+      "kind": "Artigo acadêmico",
+      "lang": "Português",
+      "source": "SciELO Brasil",
+      "checked": "27/10/2026",
+      "access": "Acesso aberto; licença na publicação",
+      "bnccSuggestion": "Possível apoio a atividades escolares, conforme etapa e currículo."
     }
   ]
 }
