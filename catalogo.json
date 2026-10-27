@@ -6494,9 +6494,27 @@
       "note": "Artigo de 2015: leitura de base, não notícia de uma descoberta recente.",
       "id": "apoio_13",
       "cover": ""
+    },
+    {
+      "id": "apoio_mia_manifesto_autorizado",
+      "title": "Manifesto do Partido Comunista (1848) — tradução autorizada em português",
+      "author": "Karl Marx e Friedrich Engels · tradução de José Barata Moura",
+      "tags": [
+        "Pensamento político",
+        "História",
+        "Filosofia"
+      ],
+      "kind": "Documento político — acesso autorizado",
+      "format": "Leitura on-line",
+      "source": "Marxists Internet Archive · Editorial Avante!",
+      "url": "https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/",
+      "desc": "Transcrição expressamente autorizada pelo detentor da tradução, com edição de origem de 1997 e direitos da tradução reservados. Consulte na própria fonte.",
+      "lang": "Português",
+      "note": "LINK PARA O ITEM ESPECÍFICO. Não disponibilizar cópia nem afirmar que a tradução de 1997 está em domínio público.",
+      "checked": "27/10/2026"
     }
   ],
-  "updated": "26/10/2026",
+  "updated": "27/10/2026",
   "resources": [
     {
       "id": "acervo_1",
@@ -7089,7 +7107,7 @@
       "id": "acervo_novo_9",
       "title": "BDTD — Biblioteca Digital Brasileira de Teses e Dissertações",
       "author": "Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict)",
-      "url": "https://www.bdtd.ibict.br/",
+      "url": "https://bdtd.ibict.br/",
       "tags": [
         "História",
         "Historiografia",
@@ -7098,7 +7116,8 @@
       "desc": "Busque teses e dissertações de universidades brasileiras; leia o texto completo no repositório de origem.",
       "kind": "Teses e dissertações",
       "access": "Sem cadastro",
-      "checked": "26/10/2026"
+      "checked": "27/10/2026",
+      "note": "O catálogo bibliográfico é público, mas o PDF de cada tese ou dissertação é servido pelo repositório da universidade de origem."
     },
     {
       "id": "acervo_novo_10",
@@ -7546,6 +7565,127 @@
       "kind": "Portal de documentos",
       "access": "Acesso público em fonte oficial; documentos digitalizados",
       "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_rodada_27_1",
+      "title": "Wikisource em português",
+      "author": "Comunidade Wikimedia",
+      "url": "https://pt.wikisource.org/wiki/Wikisource:P%C3%A1gina_principal",
+      "tags": [
+        "Literatura e humor",
+        "História",
+        "Clássicos em domínio público"
+      ],
+      "desc": "Livros e documentos transcritos, geralmente em domínio público ou licença livre. Confira edição, autoria e eventual tradução antes de reutilizar.",
+      "kind": "Biblioteca de textos e obras",
+      "access": "Consulta gratuita; direitos conforme item",
+      "status": "verificado",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "acervo_rodada_27_2",
+      "title": "OAPEN Library",
+      "author": "Fundação OAPEN",
+      "url": "https://oapen.org/",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Filosofia",
+        "Geopolítica"
+      ],
+      "desc": "Livros acadêmicos de acesso aberto, avaliados por pares e de editoras participantes; a licença de cada livro rege a reutilização.",
+      "kind": "Biblioteca acadêmica aberta",
+      "access": "Sem cadastro para consulta; licença por obra",
+      "note": "Disponibilidade confirmada em fontes institucionais, embora a abertura direta tenha retornado bloqueio automatizado.",
+      "status": "verificado_indiretamente",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "acervo_rodada_27_3",
+      "title": "Directory of Open Access Books (DOAB)",
+      "author": "OAPEN e OpenEdition",
+      "url": "https://www.doabooks.org/",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Dicionários e conceitos",
+        "Filosofia"
+      ],
+      "desc": "Índice internacional de livros acadêmicos abertos, revisados por pares; remete à edição da editora ou à plataforma de publicação.",
+      "kind": "Diretório de livros",
+      "access": "Consulta gratuita; download na fonte indicada",
+      "status": "verificado",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "acervo_rodada_27_4",
+      "title": "Redalyc — Rede de revistas científicas",
+      "author": "Redalyc / Universidade Autônoma do Estado do México",
+      "url": "https://www.redalyc.org/",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Pensamento político",
+        "Feminismos"
+      ],
+      "desc": "Revistas e artigos científicos latino-americanos em acesso aberto diamante. Não se trata de uma biblioteca de livros literários.",
+      "kind": "Periódicos científicos",
+      "access": "Acesso aberto; verificar licença de cada artigo",
+      "note": "O domínio principal bloqueou o leitor automatizado; uma página institucional secundária confirmou o serviço.",
+      "status": "verificado_indiretamente",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "acervo_rodada_27_5",
+      "title": "Repositório Digital CLACSO",
+      "author": "Conselho Latino-Americano de Ciências Sociais",
+      "url": "https://biblioteca-repositorio.clacso.edu.ar/",
+      "tags": [
+        "História",
+        "Pensamento político",
+        "Geopolítica",
+        "Pan-africanismo e amefricanidades"
+      ],
+      "desc": "Repositório de textos completos de centros associados da América Latina e do Caribe, incluindo história, política, cultura e desigualdades.",
+      "kind": "Repositório de ciências sociais",
+      "access": "Acesso aberto; direitos conforme publicação",
+      "status": "verificado",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "acervo_rodada_27_6",
+      "title": "African Journals Online (AJOL)",
+      "author": "African Journals Online",
+      "url": "https://www.ajol.info/",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Pan-africanismo e amefricanidades"
+      ],
+      "desc": "Portal de periódicos acadêmicos africanos, com títulos de acesso aberto e títulos que exigem pagamento; só obras marcadas como Open Access têm acesso gratuito ao texto completo.",
+      "kind": "Artigos e periódicos",
+      "access": "Acesso misto; filtrar títulos Open Access",
+      "note": "Acesso aberto não significa ausência de direitos autorais.",
+      "status": "verificado_indiretamente",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "acervo_rodada_27_7",
+      "title": "Digital Library of the Caribbean (dLOC)",
+      "author": "Rede de instituições e universidades do Caribe",
+      "url": "https://www.dloc.com/",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Geopolítica",
+        "Pan-africanismo e amefricanidades"
+      ],
+      "desc": "Documentos, jornais, fotografias, mapas e obras sobre o Caribe; fonte especialmente útil para história colonial, escravidão e diásporas.",
+      "kind": "Biblioteca digital histórica",
+      "access": "Consulta conforme item; checar direitos de cada coleção",
+      "note": "A navegação do portal requer JavaScript. Acesso à informação é diferente da autorização para reproduzi-la.",
+      "status": "verificado",
+      "checked": "27/10/2026"
     }
   ]
 }
