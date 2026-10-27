@@ -360,7 +360,8 @@
       "tags": [
         "Filosofia",
         "Semiótica, estética e cultura de massas",
-        "Educação e práticas docentes"
+        "Educação e práticas docentes",
+        "Séries e coleções"
       ],
       "desc": "Narrativas de catástrofe, imaginário e educação em diálogo com referências culturais e interpretações da experiência contemporânea.",
       "note": "Publicado em 2023, volume 4 da coleção Mitos da Pós-Modernidade. PDF conferido. Estudos acadêmicos sobre o imaginário, não previsões científicas de catástrofes.",
@@ -368,7 +369,9 @@
       "pdf": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/download/1098/1003/3712?inline=1",
       "source": "Portal de Livros Abertos da USP",
       "format": "PDF — acesso gratuito",
-      "accessLabel": "Abrir PDF ↗"
+      "accessLabel": "Abrir PDF ↗",
+      "series": "Mitos da Pós-Modernidade",
+      "volume": 4
     },
     {
       "epub": "",
@@ -531,6 +534,152 @@
       "checked": "27/10/2026",
       "full": true,
       "accessLabel": "Abrir PDF ↗"
+    },
+    {
+      "id": "cur_joaorio_alma",
+      "title": "A alma encantadora das ruas",
+      "author": "João do Rio",
+      "tags": [
+        "História",
+        "Literatura e humor"
+      ],
+      "desc": "Crônicas e reportagens sobre trabalho, pobreza e personagens das ruas do Rio de Janeiro. Uma aproximação entre literatura, imprensa e experiência urbana no início do século XX.",
+      "note": "Texto disponibilizado pela Biblioteca Nacional. Fonte e endereço do PDF localizados; a abertura do arquivo apresentou tempo limite nesta conferência.",
+      "url": "https://bndigital.bn.gov.br/exposicoes/pequena-exposicao-de-livros/a-alma-encantadora-das-ruas/",
+      "pdf": "https://objdigital.bn.br/objdigital2/Acervo_Digital/livros_eletronicos/bndigital0006/bndigital0006.pdf",
+      "source": "Biblioteca Nacional — BNDigital",
+      "format": "PDF",
+      "lang": "Português",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "accessLabel": "Abrir PDF ↗"
+    },
+    {
+      "id": "cur_joaorio_noite",
+      "title": "Dentro da noite",
+      "author": "João do Rio",
+      "tags": [
+        "Literatura e humor",
+        "Suspense, enigmas e sociedades secretas"
+      ],
+      "desc": "Contos sobre desejos, violência e experiências inquietantes. Leitura em diálogo com Ânsia eterna e Esfinge para explorar a construção do medo e do insólito.",
+      "note": "Edição digital de 2003, baseada na edição da Fundação Biblioteca Nacional de 2002. Leitor em HTML e índice de contos abertos na Biblioteca Virtual Miguel de Cervantes. Selecionar os contos conforme a turma e os temas abordados.",
+      "url": "https://www.cervantesvirtual.com/obra-visor/dentro-da-noite--0/html/",
+      "pdf": "",
+      "source": "Biblioteca Virtual Miguel de Cervantes / Fundação Biblioteca Nacional",
+      "format": "HTML — contos",
+      "lang": "Português",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "accessLabel": "Ler os contos ↗"
+    },
+    {
+      "id": "cur_gracaaranha_canaa",
+      "title": "Canaã",
+      "author": "Graça Aranha",
+      "tags": [
+        "História",
+        "Literatura e humor",
+        "Pensamento político",
+        "Clássicos em domínio público"
+      ],
+      "desc": "Dois imigrantes alemães expressam projetos e concepções distintos sobre o Brasil. O romance permite discutir imigração, racismo, trabalho, terra e formação nacional.",
+      "note": "Digitalização da edição de 1902, catalogada como Chanaan. PDF de 369 páginas aberto e conferido; o exemplar contém anotações manuscritas. As ideias raciais dos personagens exigem contextualização e análise crítica.",
+      "url": "https://digital.bbm.usp.br/handle/bbm/3927",
+      "pdf": "https://digital.bbm.usp.br/bitstream/bbm/3927/1/001034_COMPLETO.pdf",
+      "source": "Biblioteca Brasiliana Guita e José Mindlin — USP",
+      "format": "PDF — edição de 1902",
+      "lang": "Português",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "accessLabel": "Abrir PDF ↗"
+    },
+    {
+      "id": "cur_mito_frankenstein",
+      "title": "O mito de Frankenstein: imaginário & educação",
+      "author": "Alberto Filipe Araújo; Rogério de Almeida; Marcos Beccari (orgs.)",
+      "tags": [
+        "Filosofia",
+        "Semiótica, estética e cultura de massas",
+        "Educação e práticas docentes",
+        "Séries e coleções"
+      ],
+      "desc": "Estudos sobre a narrativa de Frankenstein em diálogo com imaginário e educação. Complementa o romance de Mary Shelley, permitindo explorar criação, conhecimento e representações da monstruosidade.",
+      "note": "Edição de 2018. PDF de 229 páginas aberto e conferido na USP. Estudo acadêmico sobre o mito, não o romance original. Indicado para formação docente e leitura de capítulos selecionados; conferir o idioma do capítulo escolhido.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/213",
+      "pdf": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/download/213/193/895?inline=1",
+      "source": "Portal de Livros Abertos da USP — Faculdade de Educação",
+      "format": "PDF — 229 páginas",
+      "lang": "Português — conferir idioma por capítulo",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "series": "Mitos da Pós-Modernidade",
+      "volume": 1,
+      "accessLabel": "Abrir PDF na USP ↗"
+    },
+    {
+      "id": "cur_mito_dracula",
+      "title": "O mito de Drácula: imaginário & educação",
+      "author": "Alberto Filipe Araújo; Rogério de Almeida; Marcos Beccari (orgs.)",
+      "tags": [
+        "Filosofia",
+        "Semiótica, estética e cultura de massas",
+        "Educação e práticas docentes",
+        "Séries e coleções"
+      ],
+      "desc": "Oito estudos sobre Drácula, suas relações com a literatura e o cinema e a permanência do desejo de imortalidade no imaginário contemporâneo.",
+      "note": "Edição de 2019. PDF de 296 páginas aberto e conferido na USP. Estudo acadêmico sobre o mito, não o romance original. Indicado para formação docente e leitura de capítulos selecionados; conferir o idioma do capítulo escolhido.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/345",
+      "pdf": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/download/345/303/1265?inline=1",
+      "source": "Portal de Livros Abertos da USP — Faculdade de Educação",
+      "format": "PDF — 296 páginas",
+      "lang": "Português — conferir idioma por capítulo",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "series": "Mitos da Pós-Modernidade",
+      "volume": 2,
+      "accessLabel": "Abrir PDF na USP ↗"
+    },
+    {
+      "id": "cur_mito_fausto",
+      "title": "O mito de Fausto: imaginário & educação",
+      "author": "Alberto Filipe Araújo; Rogério de Almeida; Marcos Beccari (orgs.)",
+      "tags": [
+        "Filosofia",
+        "Semiótica, estética e cultura de massas",
+        "Educação e práticas docentes",
+        "Séries e coleções"
+      ],
+      "desc": "Seis estudos sobre as origens do mito de Fausto, suas manifestações nas artes e seus desdobramentos filosóficos. Possibilita discutir ambição, conhecimento e escolhas.",
+      "note": "Edição de 2020. PDF de 290 páginas aberto e conferido na USP. Estudo acadêmico sobre o mito, não o romance original. Indicado para formação docente e leitura de capítulos selecionados; conferir o idioma do capítulo escolhido.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/585",
+      "pdf": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/download/585/520/1979?inline=1",
+      "source": "Portal de Livros Abertos da USP — Faculdade de Educação",
+      "format": "PDF — 290 páginas",
+      "lang": "Português — conferir idioma por capítulo",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "series": "Mitos da Pós-Modernidade",
+      "volume": 3,
+      "accessLabel": "Abrir PDF na USP ↗"
     }
   ],
   "articles": [
@@ -805,6 +954,13 @@
       "author": "John Reed",
       "theme": "imperialismo",
       "reason": "O endereço localizado oferece um índice sem acesso aos capítulos. Aguardando conferência do texto completo."
+    },
+    {
+      "title": "Darwinismo e racismo científico no Brasil",
+      "author": "Cláudia Sepúlveda; Yaci Farias; Ricardo Machado; Juanma Sánchez Arteaga",
+      "theme": "Ciência, racismo e formação nacional",
+      "url": "https://books.scielo.org/id/2qpn8",
+      "reason": "Título e pertinência localizados. Página do SciELO retorna 403 nesta conferência; acesso gratuito integral ainda não verificado. Não incluído no acervo publicado."
     }
   ]
 }
