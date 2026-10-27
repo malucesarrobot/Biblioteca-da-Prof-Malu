@@ -1,0 +1,75 @@
+[
+  {
+    "id": "enem_quarto_despejo",
+    "title": "Quarto de despejo: diário de uma favelada",
+    "author": "Carolina Maria de Jesus",
+    "tags": [
+      "Literatura para o Enem",
+      "Literatura e humor",
+      "Feminismos",
+      "História",
+      "Diários e memórias"
+    ],
+    "desc": "Um diário para ler a cidade a partir da escrita de Carolina, com atenção à fome, ao trabalho e à desigualdade. Uma aproximação entre literatura, história e sociologia.",
+    "lang": "Português",
+    "note": "Empréstimo digital gratuito na BibliON. Exige cadastro; o serviço atende residentes no Brasil. A disponibilidade do título e eventuais reservas devem ser conferidas na plataforma. Link localizado em 27/10/2026; empréstimo não realizado nesta conferência.",
+    "url": "https://biblion.arvore.com.br/app-v2/book/intermediate/quarto-de-despejo",
+    "pdf": "",
+    "epub": "",
+    "cover": "",
+    "kind": "Livro",
+    "source": "BibliON — biblioteca digital gratuita do Estado de São Paulo",
+    "checked": "27/10/2026",
+    "full": true,
+    "format": "Empréstimo digital",
+    "accessLabel": "Ler na BibliON ↗"
+  },
+  {
+    "id": "enem_vidas_secas",
+    "title": "Vidas secas",
+    "author": "Graciliano Ramos",
+    "tags": [
+      "Literatura para o Enem",
+      "Literatura e humor",
+      "História",
+      "Romances"
+    ],
+    "desc": "Uma família atravessa a seca, o trabalho precário e a violência das instituições. Leitura para aproximar literatura, território e relações de poder.",
+    "lang": "Português",
+    "note": "Digitalização da edição de 1938, publicada pela José Olympio. PDF de aproximadamente 55 MB; conserva a grafia e o aspecto da edição original. Arquivo aberto e conferido em 27/10/2026.",
+    "url": "https://digital.bbm.usp.br/handle/bbm/8399",
+    "pdf": "https://digital.bbm.usp.br/bitstream/bbm/8399/1/45000022944_Output.o.pdf",
+    "epub": "",
+    "cover": "",
+    "kind": "Livro",
+    "source": "Biblioteca Brasiliana Guita e José Mindlin — USP",
+    "checked": "27/10/2026",
+    "full": true,
+    "format": "PDF — edição de 1938",
+    "accessLabel": "Abrir PDF na USP ↗"
+  },
+  {
+    "id": "enem_pequeno_principe",
+    "title": "O pequeno príncipe",
+    "author": "Antoine de Saint-Exupéry",
+    "tags": [
+      "Literatura para o Enem",
+      "Literatura e humor",
+      "Literatura infantil e juvenil",
+      "Filosofia"
+    ],
+    "desc": "Uma narrativa para conversar sobre vínculos, solidão e os modos de olhar o mundo. A indicação propõe diálogo com filosofia cotidiana e leitura literária.",
+    "lang": "Português",
+    "note": "A Editora Thoth anuncia e-book gratuito mediante formulário com nome e e-mail. O botão abre a página dessa edição, não um arquivo direto. A oferta foi localizada em 27/10/2026; o formulário não foi enviado e o download não foi concluído nesta conferência.",
+    "url": "https://editorathoth.com.br/produto/ebook/o-pequeno-principe/240",
+    "pdf": "",
+    "epub": "",
+    "cover": "",
+    "kind": "Livro",
+    "source": "Editora Thoth — edição Thoth Cult",
+    "checked": "27/10/2026",
+    "full": true,
+    "format": "E-book — formulário na editora",
+    "accessLabel": "Acessar e-book na editora ↗"
+  }
+]
