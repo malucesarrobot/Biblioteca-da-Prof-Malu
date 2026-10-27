@@ -2078,6 +2078,242 @@
       "checked": "26/10/2026",
       "full": true,
       "format": "PDF"
+    },
+    {
+      "id": "unb_manual_filosofia",
+      "title": "Manual de introdução à prática filosófica",
+      "author": "Philippe Lacour, Maria Cecília Pedreira de Almeida e Gilberto Tedeia",
+      "tags": [
+        "Filosofia",
+        "Dicionários e conceitos"
+      ],
+      "desc": "Aprenda a ler, escrever e discutir filosofia com exercícios e um glossário de conceitos básicos.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://livros.unb.br/index.php/portal/catalog/book/69",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "Portal de Livros da UnB",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "unb_literaturas_indigenas",
+      "title": "Literaturas de autoria indígena",
+      "author": "Danglei de Castro Pereira e Luzia Aparecida Oliva (orgs.)",
+      "tags": [
+        "Povos originários",
+        "Literatura e humor",
+        "História"
+      ],
+      "desc": "Artigos e entrevistas com escritores indígenas sobre memória, ancestralidade e representação na literatura.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://livros.unb.br/index.php/portal/catalog/book/199",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "Portal de Livros da UnB",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "unb_memorias_escola_parque",
+      "title": "Memórias da Escola-Parque de Brasília",
+      "author": "Ingrid Dittrich Wiggers",
+      "tags": [
+        "História",
+        "Historiografia"
+      ],
+      "desc": "Uma investigação das escolas-parque, do projeto de Anísio Teixeira e da história da educação pública no Distrito Federal.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://livros.unb.br/index.php/portal/catalog/book/443",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "Portal de Livros da UnB",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "unb_filosofia_educacao_comunicacao",
+      "title": "Filosofia, educação e comunicação: uma coletânea de textos",
+      "author": "Ubiratan D'Ambrosio (ed.)",
+      "tags": [
+        "Filosofia",
+        "Pensamento político"
+      ],
+      "desc": "Textos para pensar ciência, informação, sociedade e a relação entre diferentes formas de conhecimento.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://livros.unb.br/index.php/portal/catalog/book/395",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "Portal de Livros da UnB",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "ufba_contacao_historias",
+      "title": "Contação de história: criação de narrativas e oralidade",
+      "author": "Nayara Macedo Barbosa de Brito",
+      "tags": [
+        "Arte, memória e arqueologia",
+        "Música e culturas populares"
+      ],
+      "desc": "Oralidade, narrativas de comunidades tradicionais e criação de histórias no ensino de Teatro.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://repositorio.ufba.br/handle/ri/33593",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "Repositório Institucional da UFBA",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "ufba_dois_seculos_cidade",
+      "title": "Dois séculos de pensamento sobre a cidade",
+      "author": "Pedro de Almeida Vasconcelos",
+      "tags": [
+        "História",
+        "Geopolítica",
+        "Historiografia"
+      ],
+      "desc": "Estudo histórico das interpretações sobre as cidades, útil para investigar urbanização, território e espaço social.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://repositorio.ufba.br/handle/ri/16838",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "Repositório Institucional da UFBA",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "ufba_aulas_historia_foco",
+      "title": "Aulas de História em foco: ensinar, pesquisar e analisar",
+      "author": "Ana Zavala, Carmem Zeli de Vargas Gil e colaboradoras",
+      "tags": [
+        "História",
+        "Historiografia"
+      ],
+      "desc": "Reflexões sobre a aula como espaço de pesquisa, interpretação e produção de conhecimento histórico.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://repositorio.ufba.br/handle/ri/39947",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "Repositório Institucional da UFBA",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "ufba_vilhena",
+      "title": "Luiz dos Santos Vilhena: memória, história e literatura",
+      "author": "Luciene Lages",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Literatura e humor"
+      ],
+      "desc": "Quatro estudos da memória e da escrita sobre a vida colonial brasileira a partir de Vilhena.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://repositorio.ufba.br/handle/ri/33058",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "Repositório Institucional da UFBA",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "scielo_dicionario_feminino",
+      "title": "Dicionário feminino da infâmia: acolhimento e diagnóstico de mulheres em situação de violência",
+      "author": "Elizabeth Fleury-Teixeira e Stela N. Meneghel (orgs.)",
+      "tags": [
+        "Dicionários e conceitos",
+        "Feminismos",
+        "Pensamento político"
+      ],
+      "desc": "Verbetes acadêmicos sobre gênero, direitos, desigualdade e enfrentamento das violências; obra de referência publicada em 2015.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://books.scielo.org/id/vm3mb",
+      "pdf": "https://backoffice.books.scielo.org/id/vm3mb/pdf/fleury-9788575415511.pdf",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "SciELO Livros / Editora Fiocruz",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "scielo_movimentos_sociais",
+      "title": "Movimentos sociais e institucionalização: políticas sociais, raça e gênero no Brasil pós-transição",
+      "author": "Adrian Gurza Lavalle, Euzeneia Carlos, Monika Dowbor e José Szwako (orgs.)",
+      "tags": [
+        "Pensamento político",
+        "Pan-africanismo e amefricanidades",
+        "Feminismos"
+      ],
+      "desc": "Pesquisas sobre relações entre movimentos sociais, Estado, políticas públicas, gênero e antirracismo.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://books.scielo.org/id/v4cnf",
+      "pdf": "https://backoffice.books.scielo.org/id/v4cnf/pdf/lavalle-9788575114797.pdf",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "SciELO Livros / EDUERJ",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
+    },
+    {
+      "id": "scielo_unifesp_75",
+      "title": "A Universidade Federal de São Paulo aos 75 anos: ensaios sobre memória e história",
+      "author": "Jaime Rodrigues (org.); Ana Lúcia Lana Nemi, Karen Macknow Lisboa e Luigi Biondi",
+      "tags": [
+        "História",
+        "Historiografia"
+      ],
+      "desc": "História institucional, memória e relações entre universidade, sociedade e política educacional.",
+      "lang": "Português",
+      "note": "Leia e baixe na página oficial da obra.",
+      "url": "https://books.scielo.org/id/hnbsg",
+      "pdf": "https://books.scielo.org/id/hnbsg/pdf/nemi-9788561673833.pdf",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "source": "SciELO Livros / Editora Fap-Unifesp",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF"
     }
   ],
   "support": [
@@ -2653,6 +2889,186 @@
       "desc": "Provas anteriores na fonte oficial. Para observar como o exame apresenta textos literários, imagens e problemas de interpretação.",
       "kind": "Provas oficiais",
       "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_1",
+      "title": "Portal de Livros da UnB",
+      "author": "Universidade de Brasília",
+      "url": "https://livros.unb.br/index.php/portal/index",
+      "tags": [
+        "Filosofia",
+        "História",
+        "Pensamento político"
+      ],
+      "desc": "Livros acadêmicos da UnB, com fichas de autores e opções de leitura em PDF.",
+      "kind": "Livros acadêmicos",
+      "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_2",
+      "title": "Estante Digital de e-books gratuitos da UnB",
+      "author": "Biblioteca Central da UnB",
+      "url": "https://livros.unb.br/index.php/estante",
+      "tags": [
+        "História",
+        "Filosofia",
+        "Dicionários e conceitos"
+      ],
+      "desc": "Livros de acesso aberto de diversas universidades e editoras, organizados pela Biblioteca Central da UnB.",
+      "kind": "Livros acadêmicos",
+      "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_3",
+      "title": "E-books gratuitos da Editora UFG",
+      "author": "Universidade Federal de Goiás",
+      "url": "https://loja.editora.ufg.br/ebooks",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Pensamento político"
+      ],
+      "desc": "Títulos gratuitos para baixar, inclusive livros sobre historiografia, democracia, filosofia e educação no Distrito Federal.",
+      "kind": "Livros universitários",
+      "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_4",
+      "title": "Repositório Institucional da UFBA",
+      "author": "Universidade Federal da Bahia",
+      "url": "https://repositorio.ufba.br/",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Feminismos"
+      ],
+      "desc": "Livros e pesquisas acadêmicas em acesso aberto sobre História, Educação, pensamento social e cultura.",
+      "kind": "Repositório acadêmico",
+      "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_5",
+      "title": "Biblioteca Digital do Senado Federal",
+      "author": "Senado Federal",
+      "url": "https://www2.senado.leg.br/bdsf/",
+      "tags": [
+        "História",
+        "Pensamento político",
+        "Literatura e humor"
+      ],
+      "desc": "Documentos históricos, obras raras, publicações e estudos políticos disponibilizados gratuitamente.",
+      "kind": "Livros e documentos",
+      "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_6",
+      "title": "Obras raras digitalizadas do Senado",
+      "author": "Senado Federal",
+      "url": "https://www12.senado.leg.br/institucional/biblioteca/pasta-acontece-na-biblioteca/obras-raras-digitalizadas",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Pensamento político"
+      ],
+      "desc": "Acesso à coleção digital de livros e revistas raras dos séculos XVII ao XX.",
+      "kind": "Livros raros",
+      "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_7",
+      "title": "Coleção Escritoras do Brasil",
+      "author": "Senado Federal",
+      "url": "https://www12.senado.leg.br/institucional/biblioteca/pasta-acontece-na-biblioteca/colecao-escritoras-do-brasil-vol-1-a-9",
+      "tags": [
+        "Literatura e humor",
+        "Feminismos",
+        "História"
+      ],
+      "desc": "Obras de escritoras brasileiras pioneiras, disponíveis em versões digitais pela Biblioteca do Senado.",
+      "kind": "Coleção literária",
+      "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_8",
+      "title": "Biblioteca Digital da UNILA: e-books",
+      "author": "Universidade Federal da Integração Latino-Americana",
+      "url": "https://portal.unila.edu.br/biblioteca/biblioteca-digital/e-books",
+      "tags": [
+        "Geopolítica",
+        "História",
+        "Pan-africanismo e amefricanidades"
+      ],
+      "desc": "Lista de livros de acesso aberto sobre América Latina, afrodescendências, história e integração regional.",
+      "kind": "Livros e portais",
+      "access": "Acesso conforme a obra",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_9",
+      "title": "BDTD — Biblioteca Digital Brasileira de Teses e Dissertações",
+      "author": "Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict)",
+      "url": "https://www.bdtd.ibict.br/",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Dicionários e conceitos"
+      ],
+      "desc": "Busque teses e dissertações de universidades brasileiras; leia o texto completo no repositório de origem.",
+      "kind": "Teses e dissertações",
+      "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_10",
+      "title": "Oasisbr — Ciência aberta brasileira",
+      "author": "Ibict",
+      "url": "https://oasisbr.ibict.br/",
+      "tags": [
+        "História",
+        "Filosofia",
+        "Pensamento político"
+      ],
+      "desc": "Buscador de livros, capítulos, artigos e trabalhos acadêmicos em acesso aberto.",
+      "kind": "Produção científica",
+      "access": "Sem cadastro",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_11",
+      "title": "eduCAPES — Recursos Educacionais Abertos",
+      "author": "CAPES",
+      "url": "https://educapes.capes.gov.br/",
+      "tags": [
+        "História",
+        "Filosofia",
+        "Literatura para o Enem"
+      ],
+      "desc": "Materiais didáticos, videoaulas, livros e recursos educacionais gratuitos para aprender e ensinar.",
+      "kind": "Materiais educacionais",
+      "access": "Sem cadastro para acesso livre",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_novo_12",
+      "title": "Arquivos pessoais do CPDOC/FGV",
+      "author": "Fundação Getulio Vargas",
+      "url": "https://cpdoc.fgv.br/acervo/arquivos-pessoais",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Pensamento político"
+      ],
+      "desc": "Documentos e arquivos de personagens da história política e social brasileira para consulta e pesquisa.",
+      "kind": "Fontes históricas",
+      "access": "Acesso conforme o item",
       "checked": "26/10/2026"
     }
   ]
