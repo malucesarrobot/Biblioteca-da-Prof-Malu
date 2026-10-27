@@ -7259,6 +7259,73 @@
         "proposta": "Analisar relações entre arte, representações de gênero e disputas de valores.",
         "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
       }
+    },
+    {
+      "id": "const_1891",
+      "title": "Constituição da República dos Estados Unidos do Brasil (1891)",
+      "author": "Congresso Nacional Constituinte · Presidência da República (Planalto)",
+      "tags": [
+        "História",
+        "Direito constitucional",
+        "Pensamento político"
+      ],
+      "desc": "Primeira Constituição republicana: presidencialismo, federalismo e separação entre Igreja e Estado. O art. 70 define quem não podia votar.",
+      "lang": "Português",
+      "note": "TEXTO HISTÓRICO, sem vigência. Para a redação atual, abra a Constituição de 1988.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao91.htm",
+      "pdf": "",
+      "epub": "",
+      "kind": "Documento histórico constitucional",
+      "source": "Presidência da República · Planalto",
+      "checked": "",
+      "full": true,
+      "format": "Texto oficial · HTML",
+      "period": "Primeira República (1889–1930)"
+    },
+    {
+      "id": "codigo_eleitoral_1932",
+      "title": "Código Eleitoral de 1932 — Decreto nº 21.076, de 24 de fevereiro de 1932",
+      "author": "Governo Provisório · Presidência da República (Planalto)",
+      "tags": [
+        "História",
+        "Participação popular",
+        "Pensamento político"
+      ],
+      "desc": "Cria a Justiça Eleitoral e institui o voto secreto e o voto feminino: o fim, no plano legal, do voto de cabresto da Primeira República.",
+      "lang": "Português",
+      "note": "TEXTO HISTÓRICO, sem vigência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d21076.htm",
+      "pdf": "",
+      "epub": "",
+      "kind": "Documento histórico",
+      "source": "Presidência da República · Planalto",
+      "checked": "",
+      "full": true,
+      "format": "Texto oficial · HTML",
+      "period": "Era Vargas (1930–1945)"
+    },
+    {
+      "id": "bbm_bruzundangas",
+      "title": "Os Bruzundangas",
+      "author": "Lima Barreto",
+      "tags": [
+        "Literatura e humor",
+        "História",
+        "Pensamento político",
+        "Clássicos em domínio público"
+      ],
+      "desc": "Sátira de um país imaginário que espelha a República oligárquica: eleições de fachada, bacharelismo e elites que governam para si.",
+      "lang": "Português",
+      "note": "Edição de 1922 (Jacintho Ribeiro dos Santos), digitalizada pela Brasiliana USP.",
+      "url": "https://digital.bbm.usp.br/handle/bbm/4801",
+      "pdf": "",
+      "epub": "",
+      "kind": "Livro",
+      "source": "Biblioteca Brasiliana Guita e José Mindlin · USP",
+      "checked": "",
+      "full": true,
+      "format": "PDF · documento digitalizado",
+      "period": "Primeira República (1889–1930)"
     }
   ],
   "support": [
@@ -10201,6 +10268,38 @@
       "checked": "27/10/2026",
       "access": "Acesso aberto; licença na publicação",
       "bnccSuggestion": "Possível apoio a atividades escolares, conforme etapa e currículo."
+    },
+    {
+      "id": "artigo_101",
+      "title": "Mandonismo, coronelismo, clientelismo: uma discussão conceitual",
+      "author": "José Murilo de Carvalho",
+      "year": 1997,
+      "journal": "Dados – Revista de Ciências Sociais",
+      "url": "https://www.scielo.br/j/dados/a/bTjFzwWgV9cxV8YWnYtMvrz/",
+      "area": "História e historiografia",
+      "desc": "Distingue mandonismo, coronelismo e clientelismo; o coronelismo como sistema da Primeira República.",
+      "kind": "Artigo acadêmico",
+      "lang": "Português",
+      "source": "SciELO Brasil",
+      "checked": "",
+      "access": "Acesso aberto; conferir licença na publicação",
+      "bnccSuggestion": "Pode apoiar pesquisa e debate; consultar a habilidade e o currículo local antes de usar."
+    },
+    {
+      "id": "artigo_102",
+      "title": "Os três povos da República",
+      "author": "José Murilo de Carvalho",
+      "year": 2003,
+      "journal": "Revista USP",
+      "url": "https://revistas.usp.br/revusp/article/view/13279",
+      "area": "História e historiografia",
+      "desc": "Ensaio sobre o lugar do povo na República proclamada em 1889, do autor de Os Bestializados.",
+      "kind": "Artigo acadêmico",
+      "lang": "Português",
+      "source": "Portal de Revistas da USP",
+      "checked": "",
+      "access": "Acesso aberto; conferir licença na publicação",
+      "bnccSuggestion": "Pode apoiar pesquisa e debate; consultar a habilidade e o currículo local antes de usar."
     }
   ]
 }
