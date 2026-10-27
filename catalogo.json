@@ -6099,6 +6099,295 @@
       "rights": "Obra textual original em domínio público no Brasil; verificar elementos editoriais.",
       "series": "Richard Hannay — espionagem",
       "volume": 3
+    },
+    {
+      "id": "cf88_atual",
+      "title": "Constituição da República Federativa do Brasil de 1988 — texto vigente compilado",
+      "author": "Brasil · Presidência da República / Casa Civil",
+      "tags": [
+        "Constituição e democracia",
+        "Direito constitucional",
+        "Pensamento político"
+      ],
+      "desc": "A Constituição de 1988 com as alterações incorporadas pela fonte oficial do Planalto. Use esta versão para conferir o direito constitucional vigente.",
+      "lang": "Português",
+      "note": "TEXTO EM VIGOR (compilado). Diferente do texto promulgado em 1988 e dos anteprojetos da Constituinte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Texto constitucional vigente",
+      "source": "Presidência da República · Planalto",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "HTML",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "cf88_original",
+      "title": "Constituição de 1988 — texto promulgado em 5 de outubro de 1988",
+      "author": "Assembleia Nacional Constituinte · Senado Federal",
+      "tags": [
+        "Constituição e democracia",
+        "Constituinte de 1987–1988",
+        "História"
+      ],
+      "desc": "Redação de origem promulgada em 1988, antes das emendas constitucionais posteriores; para estudar o resultado da Constituinte.",
+      "lang": "Português",
+      "note": "TEXTO HISTÓRICO. Para consultar a redação vigente, abra também a Constituição compilada.",
+      "url": "https://legis.senado.leg.br/norma/579494",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Documento histórico constitucional",
+      "source": "Senado Federal",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "Texto oficial · DOU",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "cf88_adct",
+      "title": "Ato das Disposições Constitucionais Transitórias — texto atualizado",
+      "author": "Brasil · Senado Federal / normas.leg.br",
+      "tags": [
+        "Constituição e democracia",
+        "Direito constitucional"
+      ],
+      "desc": "As disposições transitórias da Constituição de 1988 e suas alterações, em portal oficial de legislação.",
+      "lang": "Português",
+      "note": "Documento normativo, não é um projeto histórico. O portal pode exigir JavaScript.",
+      "url": "https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Aato.disposicoes.constitucionais.transitorias%3A1988-10-05%3B1988",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Documento constitucional",
+      "source": "Senado Federal · normas.leg.br",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "Consulta normativa on-line",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "const_afonso_arinos_1986",
+      "title": "Anteprojeto Afonso Arinos — Comissão Provisória de Estudos Constitucionais (1986)",
+      "author": "Comissão Provisória de Estudos Constitucionais · Senado Federal",
+      "tags": [
+        "Constituição e democracia",
+        "Constituinte de 1987–1988",
+        "História",
+        "Pensamento político"
+      ],
+      "desc": "Anteprojeto apresentado em 1986, anterior à instalação da Assembleia Nacional Constituinte. Documento de estudo, não foi a Constituição promulgada.",
+      "lang": "Português",
+      "note": "FONTE HISTÓRICA DE 1986. Publicado no suplemento do Diário Oficial de 26/09/1986. Não tem valor de Constituição vigente.",
+      "url": "https://www.senado.leg.br/publicacoes/anais/constituinte/AfonsoArinos.pdf",
+      "pdf": "https://www.senado.leg.br/publicacoes/anais/constituinte/AfonsoArinos.pdf",
+      "epub": "",
+      "cover": "",
+      "kind": "Anteprojeto histórico",
+      "source": "Senado Federal",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF · 61 páginas",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "const_anteprojeto_1987",
+      "title": "Anteprojeto de Constituição — Comissão de Sistematização, junho de 1987 (parte 1)",
+      "author": "Assembleia Nacional Constituinte · Comissão de Sistematização",
+      "tags": [
+        "Constituição e democracia",
+        "Constituinte de 1987–1988",
+        "História",
+        "Pensamento político"
+      ],
+      "desc": "Texto preliminar do trabalho de sistematização da Constituinte, datado de junho de 1987, relatado por Bernardo Cabral.",
+      "lang": "Português",
+      "note": "FONTE HISTÓRICA DE 1987, parte 1. A página institucional oferece também uma segunda parte, com errata e documentos sobre negros, populações indígenas, pessoas com deficiência e minorias.",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/processo-constituinte/comissao-de-sistematizacao/anteprojeto-de-constituicao",
+      "pdf": "https://www.camara.gov.br/internet/constituicao20anos/DocumentosAvulsos/vol-219.pdf",
+      "epub": "",
+      "cover": "",
+      "kind": "Anteprojeto histórico",
+      "source": "Câmara dos Deputados",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF · documento digitalizado",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "const_projeto_a_1988",
+      "title": "Projeto de Constituição (A) — início do primeiro turno, ANC",
+      "author": "Assembleia Nacional Constituinte · Câmara dos Deputados",
+      "tags": [
+        "Constituição e democracia",
+        "Constituinte de 1987–1988",
+        "História",
+        "Pensamento político"
+      ],
+      "desc": "Projeto (A) que abriu a etapa de deliberação do primeiro turno, com material de comparação de diferentes versões do texto constitucional.",
+      "lang": "Português",
+      "note": "PROJETO HISTÓRICO; não corresponde à redação final promulgada em 1988.",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/processo-constituinte/plenario/projeto-de-constituicao-a-inicio-do-1o-turno",
+      "pdf": "https://www.camara.gov.br/internet/constituicao20anos/DocumentosAvulsos/vol-251.pdf",
+      "epub": "",
+      "cover": "",
+      "kind": "Projeto constitucional histórico",
+      "source": "Câmara dos Deputados",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF · documento digitalizado",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "const_regimento_1987",
+      "title": "Regimento interno e normas preliminares da Assembleia Nacional Constituinte (1987)",
+      "author": "Assembleia Nacional Constituinte · Câmara dos Deputados",
+      "tags": [
+        "Constituição e democracia",
+        "Constituinte de 1987–1988",
+        "História",
+        "Pensamento político"
+      ],
+      "desc": "Regimento aprovado em março de 1987; reúne projetos, emendas, pareceres, normas e resoluções do funcionamento da Constituinte.",
+      "lang": "Português",
+      "note": "DOCUMENTOS DE 1987. Regras da Constituinte, não o regimento vigente do Congresso Nacional.",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/publicacoes/regimento_interno_anc",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Documentos parlamentares históricos",
+      "source": "Câmara dos Deputados",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "Documentos oficiais · texto e arquivos",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "const_diarios_1987_1988",
+      "title": "Diários da Assembleia Nacional Constituinte (1987–1988)",
+      "author": "Assembleia Nacional Constituinte · Câmara dos Deputados",
+      "tags": [
+        "Constituição e democracia",
+        "Constituinte de 1987–1988",
+        "História",
+        "Pensamento político"
+      ],
+      "desc": "Debates, sessões e votações em subcomissões, comissões e plenário entre fevereiro de 1987 e outubro de 1988.",
+      "lang": "Português",
+      "note": "SÉRIE DOCUMENTAL. A página conduz aos diários originais, não é um único volume.",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/publicacoes/diarios_anc",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Diários parlamentares históricos",
+      "source": "Câmara dos Deputados",
+      "checked": "26/10/2026",
+      "full": false,
+      "format": "Acervo de diários digitalizados",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "const_sugestoes_1987",
+      "title": "Sugestões dos cidadãos à Constituinte — campanha e base SAIC (1986–1987)",
+      "author": "Senado Federal e Câmara dos Deputados",
+      "tags": [
+        "Constituição e democracia",
+        "Constituinte de 1987–1988",
+        "História",
+        "Pensamento político",
+        "Participação popular"
+      ],
+      "desc": "Apresentação e acesso à pesquisa das 72.719 sugestões populares encaminhadas para a elaboração da Constituição.",
+      "lang": "Português",
+      "note": "FONTE HISTÓRICA. O conteúdo consultável é uma base documental e não uma única obra.",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/processo-constituinte/sugestao-dos-cidadaos",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Acervo de participação popular",
+      "source": "Câmara dos Deputados",
+      "checked": "26/10/2026",
+      "full": false,
+      "format": "Base de dados e documentos históricos",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "const_voz_1",
+      "title": "A voz do cidadão na Constituinte — volume 1",
+      "author": "Ana Beatriz de Castro Carvalho Lacerda e outros (organizadores) · Edições Câmara",
+      "tags": [
+        "Constituição e democracia",
+        "Constituinte de 1987–1988",
+        "História",
+        "Pensamento político",
+        "Participação popular"
+      ],
+      "desc": "Coletânea documental que recupera registros da participação da sociedade no processo constituinte de 1987–1988.",
+      "lang": "Português",
+      "note": "LIVRO EDITADO EM 2018 COM FONTES DE 1987–1988. Acesso integral disponibilizado na Biblioteca Digital da Câmara.",
+      "url": "https://bd.camara.leg.br/bd/items/6db998f4-2da6-46ff-94b8-6033a7593b72",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro histórico documental",
+      "source": "Câmara dos Deputados",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF · 2018",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "const_voz_2",
+      "title": "A voz do cidadão na Constituinte — volume 2",
+      "author": "Ana Beatriz de Castro Carvalho Lacerda e outros (organizadores) · Edições Câmara",
+      "tags": [
+        "Constituição e democracia",
+        "Constituinte de 1987–1988",
+        "História",
+        "Pensamento político",
+        "Participação popular",
+        "Pan-africanismo e amefricanidades"
+      ],
+      "desc": "Segundo volume de documentos da Assembleia Constituinte, com temas como participação popular, racismo, trabalho doméstico e meio ambiente.",
+      "lang": "Português",
+      "note": "LIVRO EDITADO EM 2023 COM FONTES DE 1987–1988. PDF de aproximadamente 139 MB na instituição.",
+      "url": "https://bd.camara.leg.br/bd/items/30249b87-5dc8-4f20-b96a-dd2da6c2d968",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro histórico documental",
+      "source": "Câmara dos Deputados",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF · 2023",
+      "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "const_audiencias",
+      "title": "Audiências públicas na Assembleia Nacional Constituinte: a sociedade na tribuna",
+      "author": "Ana Luiza Backes, Débora Bithiah de Azevedo e José Cordeiro de Araújo (orgs.)",
+      "tags": [
+        "Constituição e democracia",
+        "Constituinte de 1987–1988",
+        "História",
+        "Pensamento político",
+        "Participação popular"
+      ],
+      "desc": "Estudo e documentação sobre as audiências públicas e a presença da sociedade nos trabalhos da Constituinte.",
+      "lang": "Português",
+      "note": "LIVRO PUBLICADO EM 2009 sobre o processo de 1987–1988. Disponibilizado gratuitamente por Edições Câmara.",
+      "url": "https://bd.camara.leg.br/bd/items/8f3112e9-c4fa-4035-b03b-bb503bc2b2aa",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro de pesquisa histórica",
+      "source": "Câmara dos Deputados",
+      "checked": "26/10/2026",
+      "full": true,
+      "format": "PDF · 2009",
+      "period": "Constituinte de 1987–1988"
     }
   ],
   "support": [
@@ -7061,6 +7350,202 @@
       "kind": "Coleção digital",
       "access": "Consulta gratuita; verificar idioma e direitos de edição",
       "checked": "27/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_1",
+      "title": "Constituição vigente — Planalto",
+      "author": "Presidência da República",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+      "tags": [
+        "Constituição e democracia",
+        "Direito constitucional"
+      ],
+      "desc": "Versão compilada da Constituição de 1988, com emendas constitucionais, para consulta jurídica vigente.",
+      "kind": "Legislação atual",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_2",
+      "title": "Constituição: original e alterações — Senado Federal",
+      "author": "Senado Federal",
+      "url": "https://legis.senado.leg.br/norma/579494",
+      "tags": [
+        "Constituição e democracia",
+        "Direito constitucional"
+      ],
+      "desc": "Redação promulgada, publicações originais e histórico normativo no Senado.",
+      "kind": "Legislação e memória",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_3",
+      "title": "Constituinte de 1987–1988 — etapas e fases",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/processo-constituinte/o-processo-constituinte",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "História"
+      ],
+      "desc": "Navegue pelos projetos de Constituição, substitutivos, votações e documentos de cada fase.",
+      "kind": "Arquivo de documentos",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_4",
+      "title": "Diários da Constituinte 1987–1988",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/publicacoes/diarios_anc",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "História"
+      ],
+      "desc": "Diários das sessões, votações e debates parlamentares entre 1987 e 1988.",
+      "kind": "Anais e diários",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_5",
+      "title": "Anteprojeto de Constituição (1987) — documentos",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/processo-constituinte/comissao-de-sistematizacao/anteprojeto-de-constituicao",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "História"
+      ],
+      "desc": "Acesso ao anteprojeto de junho de 1987, parte 1 e parte 2 (errata e temas de minorias).",
+      "kind": "Anteprojetos",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_6",
+      "title": "Projeto de Constituição (A) e quadros comparativos",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/processo-constituinte/plenario/projeto-de-constituicao-a-inicio-do-1o-turno",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "Historiografia"
+      ],
+      "desc": "Projeto de primeiro turno e quadros de comparação por título da Constituição.",
+      "kind": "Projetos e comparativos",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_7",
+      "title": "Regimento Interno da Constituinte (1987)",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/publicacoes/regimento_interno_anc",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "História"
+      ],
+      "desc": "Documentos regimentais e o modo de participação na Assembleia Nacional Constituinte.",
+      "kind": "Normas históricas",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_8",
+      "title": "Participação dos cidadãos — SAIC",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/processo-constituinte/sugestao-dos-cidadaos",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "Participação popular"
+      ],
+      "desc": "Campanha de sugestões populares e acesso à base histórica com 72.719 propostas.",
+      "kind": "Base histórica",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_9",
+      "title": "A Constituinte e a participação das mulheres",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/a-constituinte-e-as-mulheres/participacao_feminina",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "Feminismos"
+      ],
+      "desc": "Documentação do papel das mulheres constituintes na elaboração do texto de 1988.",
+      "kind": "Acervo temático",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_10",
+      "title": "Memória e arquivo da Assembleia Nacional Constituinte",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/publicacoes/copy_of_index.html",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "Historiografia"
+      ],
+      "desc": "Acervo documental da Constituinte e ligação com o Arquivo Histórico da Câmara.",
+      "kind": "Arquivo histórico",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_11",
+      "title": "Processo Histórico da Elaboração do Texto Constitucional — 3 volumes",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/publicacoes/o-processo-historico-da-elaboracao-do-texto-1",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "Historiografia"
+      ],
+      "desc": "Três volumes sobre evolução dos textos, votações, reuniões e audiências públicas.",
+      "kind": "Obra de referência",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_12",
+      "title": "Discursos marcantes da Constituinte",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/processo-constituinte/discursos-marcantes",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "Pensamento político"
+      ],
+      "desc": "Seleção de discursos e registros de debates que permitem ler as disputas políticas da Constituinte.",
+      "kind": "Discursos",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_13",
+      "title": "Constituinte: livros, artigos e documentação de estudo",
+      "author": "Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/publicacoes/livros-e-artigos",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "História"
+      ],
+      "desc": "Bibliografia aberta de livros e artigos sobre a Constituinte, com títulos como A voz do cidadão.",
+      "kind": "Bibliografia aberta",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
+    },
+    {
+      "id": "acervo_constituinte_14",
+      "title": "Informações e documentos da Constituinte — Senado Federal",
+      "author": "Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/anais/anais-da-assembleia-constituinte",
+      "tags": [
+        "Constituinte de 1987–1988",
+        "História"
+      ],
+      "desc": "Anteprojeto Afonso Arinos, documentos de comissões, audiências, redação final e obras correlatas.",
+      "kind": "Portal de documentos",
+      "access": "Acesso público em fonte oficial; documentos digitalizados",
+      "checked": "26/10/2026"
     }
   ]
 }
