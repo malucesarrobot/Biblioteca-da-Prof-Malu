@@ -175,7 +175,7 @@
   },
   {
     "lang": "Português",
-    "pdf": "",
+    "pdf": "https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/a-hora-da-estrela.pdf",
     "epub": "",
     "cover": "",
     "kind": "Livro",
@@ -189,10 +189,11 @@
       "Literatura e humor"
     ],
     "desc": "Macabéa, a vida na cidade e um narrador que expõe suas escolhas ao contar a história.",
-    "note": "No MEC Livros, entre com Gov.br e busque “A hora da estrela”, de Clarice Lispector. Ainda não foi confirmado um endereço individual funcional para esta edição. O botão abre o catálogo, não o livro. Não confundir com o estudo “A hora da estrela de Clarice”, de Sérgio Antônio Silva.",
-    "url": "https://meclivros.mec.gov.br/",
-    "source": "MEC Livros — acesso pelo catálogo",
-    "format": "Empréstimo digital — buscar título",
-    "accessLabel": "Buscar no MEC Livros ↗"
+    "note": "Texto em português, com apresentação. O botão abre diretamente o PDF no acervo do ISPSN, sem passar pela busca de um catálogo.",
+    "url": "https://www.ispsn.org/content/hora-da-estrela",
+    "source": "Acervo virtual do Instituto Superior Politécnico Sol Nascente — ISPSN",
+    "format": "PDF — 88 páginas",
+    "accessLabel": "Abrir PDF ↗",
+    "sourceNote": "Arquivo de 88 páginas consultado em 27/10/2026. Não foi localizada autorização explícita para distribuição aberta; a hospedagem não comprova domínio público nem permissão para republicar."
   }
 ]
