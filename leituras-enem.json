@@ -22,7 +22,14 @@
     "checked": "27/10/2026",
     "full": true,
     "format": "Empréstimo digital",
-    "accessLabel": "Ler na BibliON ↗"
+    "accessLabel": "Ler na BibliON ↗",
+    "accessLinks": [
+      {
+        "label": "PDF no portal educacional de Praia Grande ↗",
+        "url": "https://dpid.cidadaopg.sp.gov.br/pde/arquivos/1623677495235~Quarto%20de%20Despejo%20-%20Maria%20Carolina%20de%20Jesus.pdf.pdf"
+      }
+    ],
+    "sourceNote": "Alternativa hospedada em portal público. Não foi localizada autorização explícita para a distribuição aberta desse PDF; não o tratamos como domínio público."
   },
   {
     "id": "enem_vidas_secas",
@@ -71,5 +78,121 @@
     "full": true,
     "format": "E-book — formulário na editora",
     "accessLabel": "Acessar e-book na editora ↗"
+  },
+  {
+    "lang": "Português",
+    "pdf": "https://www.jfpb.jus.br/arquivos/biblioteca/e-books/meu_pe_de_laranja_lima.pdf",
+    "epub": "",
+    "cover": "",
+    "kind": "Livro",
+    "checked": "27/10/2026",
+    "full": true,
+    "id": "enem_meu_pe_laranja",
+    "title": "O meu pé de laranja lima",
+    "author": "José Mauro de Vasconcelos",
+    "tags": [
+      "Literatura para o Enem",
+      "Literatura e humor",
+      "Literatura infantil e juvenil"
+    ],
+    "desc": "A infância de Zezé entre imaginação, afeto, pobreza e violência familiar.",
+    "note": "O botão abre o PDF hospedado na biblioteca da Justiça Federal da Paraíba.",
+    "url": "https://www.jfpb.jus.br/arquivos/biblioteca/e-books/meu_pe_de_laranja_lima.pdf",
+    "source": "Biblioteca da Justiça Federal da Paraíba",
+    "format": "PDF — acervo institucional",
+    "accessLabel": "Abrir PDF ↗",
+    "sourceNote": "Arquivo hospedado em site institucional. Não foi localizada autorização explícita de distribuição aberta; a hospedagem não comprova domínio público nem autorização para republicar."
+  },
+  {
+    "lang": "Português",
+    "pdf": "",
+    "epub": "",
+    "cover": "",
+    "kind": "Livro",
+    "checked": "27/10/2026",
+    "full": true,
+    "id": "enem_capitaes_areia",
+    "title": "Capitães da Areia",
+    "author": "Jorge Amado",
+    "tags": [
+      "Literatura para o Enem",
+      "Literatura e humor",
+      "História"
+    ],
+    "desc": "Meninos que vivem nas ruas de Salvador, seus vínculos e os modos como a cidade os trata.",
+    "note": "Acesso pelo MEC Livros, com conta Gov.br e empréstimo conforme as regras da plataforma. A disponibilidade deve ser conferida após o login.",
+    "url": "https://meclivros.mec.gov.br/search/view-work?id=1001731",
+    "source": "MEC Livros",
+    "format": "Empréstimo digital",
+    "accessLabel": "Abrir no MEC Livros ↗"
+  },
+  {
+    "lang": "Português",
+    "pdf": "https://santatereza.go.gov.br/wp-content/uploads/2025/03/Revolucao-dos-bichos.pdf",
+    "epub": "",
+    "cover": "",
+    "kind": "Livro",
+    "checked": "27/10/2026",
+    "full": true,
+    "id": "enem_revolucao_bichos",
+    "title": "A revolução dos bichos",
+    "author": "George Orwell",
+    "tags": [
+      "Literatura para o Enem",
+      "Literatura e humor",
+      "Pensamento político",
+      "Distopias e futuros possíveis"
+    ],
+    "desc": "Uma fábula política sobre a concentração do poder, a propaganda e a transformação das regras em benefício dos governantes.",
+    "note": "PDF hospedado no portal da Prefeitura de Santa Tereza de Goiás. O arquivo identifica uma edição eletrônica da UENP, de 2015.",
+    "url": "https://santatereza.go.gov.br/wp-content/uploads/2025/03/Revolucao-dos-bichos.pdf",
+    "source": "Prefeitura de Santa Tereza de Goiás — arquivo identificado como edição UENP, 2015",
+    "format": "PDF — acervo institucional",
+    "accessLabel": "Abrir PDF ↗",
+    "sourceNote": "O arquivo se apresenta como obra em domínio público, mas não foi possível confirmar o crédito e a autorização da tradução utilizada. Essa indicação do arquivo não é certificação da biblioteca."
+  },
+  {
+    "lang": "Português",
+    "pdf": "https://www.curso-objetivo.br/vestibular/assets/download/obras-literarias/gil-vicente/auto-da-barca-do-inferno.pdf",
+    "epub": "",
+    "cover": "",
+    "kind": "Livro",
+    "checked": "27/10/2026",
+    "full": true,
+    "id": "enem_auto_barca",
+    "title": "Auto da Barca do Inferno",
+    "author": "Gil Vicente",
+    "tags": [
+      "Literatura para o Enem",
+      "Literatura e humor"
+    ],
+    "desc": "Uma peça em que personagens de diferentes posições sociais chegam ao mesmo cais e tentam justificar a própria vida.",
+    "note": "Texto da Biblioteca Virtual do Estudante Brasileiro / Escola do Futuro da USP, hospedado pelo Curso Objetivo. A edição permite uso educacional e redistribuição sem alterações, com os créditos preservados.",
+    "url": "https://www.curso-objetivo.br/vestibular/assets/download/obras-literarias/gil-vicente/auto-da-barca-do-inferno.pdf",
+    "source": "Curso Objetivo — texto da Biblioteca Virtual do Estudante Brasileiro / USP",
+    "format": "PDF — teatro",
+    "accessLabel": "Abrir PDF ↗"
+  },
+  {
+    "lang": "Português",
+    "pdf": "",
+    "epub": "",
+    "cover": "",
+    "kind": "Livro",
+    "checked": "27/10/2026",
+    "full": true,
+    "id": "enem_hora_estrela",
+    "title": "A hora da estrela",
+    "author": "Clarice Lispector",
+    "tags": [
+      "Literatura para o Enem",
+      "Literatura e humor"
+    ],
+    "desc": "Macabéa, a vida na cidade e um narrador que expõe suas escolhas ao contar a história.",
+    "note": "No MEC Livros, entre com Gov.br e busque “A hora da estrela”, de Clarice Lispector. Ainda não foi confirmado um endereço individual funcional para esta edição. O botão abre o catálogo, não o livro. Não confundir com o estudo “A hora da estrela de Clarice”, de Sérgio Antônio Silva.",
+    "url": "https://meclivros.mec.gov.br/",
+    "source": "MEC Livros — acesso pelo catálogo",
+    "format": "Empréstimo digital — buscar título",
+    "accessLabel": "Buscar no MEC Livros ↗"
   }
 ]
