@@ -196,5 +196,53 @@
     "format": "PDF — 88 páginas",
     "accessLabel": "Abrir PDF ↗",
     "sourceNote": "Arquivo de 88 páginas consultado em 27/10/2026. Não foi localizada autorização explícita para distribuição aberta; a hospedagem não comprova domínio público nem permissão para republicar."
+  },
+  {
+    "id": "ispsn_mundo_sofia",
+    "title": "O mundo de Sofia",
+    "author": "Jostein Gaarder",
+    "tags": [
+      "Literatura e humor",
+      "Filosofia",
+      "Romances"
+    ],
+    "desc": "Sofia recebe cartas que a levam por uma história da filosofia ocidental. Romance filosófico para quem quer começar a explorar esse repertório pela literatura.",
+    "lang": "Português",
+    "note": "O botão abre diretamente o PDF de 494 páginas no acervo do ISPSN. Para salvar uma cópia no dispositivo, use a opção de download do leitor de PDF.",
+    "url": "https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/o-mundo-de-sofia-jostein-gaarden_0.pdf",
+    "pdf": "https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/o-mundo-de-sofia-jostein-gaarden_0.pdf",
+    "epub": "",
+    "cover": "",
+    "kind": "Livro",
+    "source": "Acervo virtual do Instituto Superior Politécnico Sol Nascente — ISPSN",
+    "checked": "27/10/2026",
+    "full": true,
+    "format": "PDF — 494 páginas",
+    "accessLabel": "Abrir livro em PDF ↗",
+    "sourceNote": "Arquivo hospedado no acervo institucional do ISPSN. Não foi localizada autorização explícita de distribuição aberta; a hospedagem não comprova domínio público nem permissão para republicar. A biblioteca aponta para o arquivo externo e não o hospeda."
+  },
+  {
+    "id": "ispsn_codigo_vinci",
+    "title": "O código Da Vinci",
+    "author": "Dan Brown",
+    "tags": [
+      "Literatura e humor",
+      "Suspense, enigmas e sociedades secretas",
+      "Romances"
+    ],
+    "desc": "Um assassinato no Louvre dá início a uma investigação entre obras de arte, símbolos e conspirações. Ficção de suspense: as interpretações históricas dos personagens não devem ser tomadas como fonte histórica.",
+    "lang": "Português",
+    "note": "O botão abre diretamente o PDF de 652 páginas no acervo do ISPSN. Para salvar uma cópia no dispositivo, use a opção de download do leitor de PDF.",
+    "url": "https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/o-codigo-da-vinci-dan-brown.pdf",
+    "pdf": "https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/o-codigo-da-vinci-dan-brown.pdf",
+    "epub": "",
+    "cover": "",
+    "kind": "Livro",
+    "source": "Acervo virtual do Instituto Superior Politécnico Sol Nascente — ISPSN",
+    "checked": "27/10/2026",
+    "full": true,
+    "format": "PDF — 652 páginas",
+    "accessLabel": "Abrir livro em PDF ↗",
+    "sourceNote": "Arquivo hospedado no acervo institucional do ISPSN. Não foi localizada autorização explícita de distribuição aberta; a hospedagem não comprova domínio público nem permissão para republicar. A biblioteca aponta para o arquivo externo e não o hospeda."
   }
 ]
