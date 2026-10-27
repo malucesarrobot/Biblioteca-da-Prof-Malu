@@ -238,7 +238,8 @@
       "author": "Ariadne Dall’acqua Ayres; Fernanda da Rocha Brando",
       "tags": [
         "Povos originários",
-        "História"
+        "História",
+        "Diálogos com a BNCC"
       ],
       "desc": "Um livro de memórias sobre os Kaingang do Paraná. Uma entrada específica, que não pretende representar todos os povos originários.",
       "lang": "Português",
@@ -251,7 +252,18 @@
       "source": "Portal de Livros Abertos da USP",
       "checked": "26/10/2026",
       "full": true,
-      "format": "PDF"
+      "format": "PDF",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF"
+        ],
+        "areas": [
+          "Ciências Humanas",
+          "Linguagens"
+        ],
+        "proposta": "Discutir história, autoria e memória indígena a partir de relatos.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     },
     {
       "id": "usp_1392",
@@ -1215,7 +1227,8 @@
         "Literatura e humor",
         "Feminismos",
         "Pan-africanismo e amefricanidades",
-        "Literatura para o Enem"
+        "Literatura para o Enem",
+        "Diálogos com a BNCC"
       ],
       "desc": "Romance, conto e poesia de uma autora negra que escreveu contra a escravidão.",
       "lang": "Português",
@@ -1228,7 +1241,18 @@
       "source": "Edições Câmara",
       "checked": "26/10/2026",
       "full": true,
-      "format": "ePUB · PDF"
+      "format": "ePUB · PDF",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Linguagens e suas Tecnologias",
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Analisar um romance abolicionista e a escrita de mulheres negras em seu contexto social.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     },
     {
       "id": "cam_triste-fim-de-policarpo-quaresma",
@@ -2128,7 +2152,8 @@
       "author": "Ingrid Dittrich Wiggers",
       "tags": [
         "História",
-        "Historiografia"
+        "Historiografia",
+        "Diálogos com a BNCC"
       ],
       "desc": "Uma investigação das escolas-parque, do projeto de Anísio Teixeira e da história da educação pública no Distrito Federal.",
       "lang": "Português",
@@ -2141,7 +2166,17 @@
       "source": "Portal de Livros da UnB",
       "checked": "26/10/2026",
       "full": true,
-      "format": "PDF"
+      "format": "PDF",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Pesquisar fontes e memórias da educação pública e do patrimônio educacional do DF.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     },
     {
       "id": "unb_filosofia_educacao_comunicacao",
@@ -2320,7 +2355,8 @@
       "title": "O Boto Cor-de-Rosa que Não É Mais Rosa",
       "author": "Rosália Caldas Sanábio de Oliveira",
       "tags": [
-        "Literatura infantil e juvenil"
+        "Literatura infantil e juvenil",
+        "Diálogos com a BNCC"
       ],
       "desc": "História infantil sobre o boto amazônico, a natureza e os efeitos das mudanças ambientais.",
       "lang": "Português",
@@ -2333,14 +2369,26 @@
       "source": "eduCAPES",
       "checked": "26/10/2026",
       "full": true,
-      "format": "PDF"
+      "format": "PDF",
+      "bncc": {
+        "etapas": [
+          "Anos iniciais do EF"
+        ],
+        "areas": [
+          "Linguagens",
+          "Ciências da Natureza"
+        ],
+        "proposta": "Relacionar narrativa literária, biodiversidade e cuidado ambiental.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     },
     {
       "id": "cri_abelhas_em_fuga",
       "title": "Abelhas em fuga",
       "author": "Rosália Sanábio de Oliveira e Fabiana da Conceição Pereira Tiago",
       "tags": [
-        "Literatura infantil e juvenil"
+        "Literatura infantil e juvenil",
+        "Diálogos com a BNCC"
       ],
       "desc": "Narrativa ilustrada que aproxima a infância da proteção das abelhas e do meio ambiente.",
       "lang": "Português",
@@ -2353,7 +2401,18 @@
       "source": "eduCAPES",
       "checked": "26/10/2026",
       "full": true,
-      "format": "PDF"
+      "format": "PDF",
+      "bncc": {
+        "etapas": [
+          "Anos iniciais do EF"
+        ],
+        "areas": [
+          "Linguagens",
+          "Ciências da Natureza"
+        ],
+        "proposta": "Relacionar narrativas, polinização e consequências de ações humanas nos ecossistemas.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     },
     {
       "id": "cri_contando_rimando",
@@ -2402,7 +2461,8 @@
       "tags": [
         "Literatura infantil e juvenil",
         "Música e culturas populares",
-        "Pan-africanismo e amefricanidades"
+        "Pan-africanismo e amefricanidades",
+        "Diálogos com a BNCC"
       ],
       "desc": "A menina Aisha conhece o maracatu em Recife. História ilustrada para crianças de 3 a 6 anos, com cultura e memória afro-brasileira.",
       "lang": "Português",
@@ -2415,7 +2475,18 @@
       "source": "eduCAPES / Unesp",
       "checked": "26/10/2026",
       "full": true,
-      "format": "PDF"
+      "format": "PDF",
+      "bncc": {
+        "etapas": [
+          "Educação Infantil",
+          "Anos iniciais do EF"
+        ],
+        "areas": [
+          "Linguagens"
+        ],
+        "proposta": "Explorar cultura afro-brasileira, musicalidade, narrativas e diversidade de expressões.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     },
     {
       "id": "indig_tocantins",
@@ -2423,7 +2494,8 @@
       "author": "Renato Yahe Khahô, Francisco Edviges Albuquerque e Eliane Cristina Testa",
       "tags": [
         "Povos originários",
-        "Literatura infantil e juvenil"
+        "Literatura infantil e juvenil",
+        "Diálogos com a BNCC"
       ],
       "desc": "Coletânea multilíngue de textos e vivências de povos indígenas do Tocantins; valiosa para leitores jovens e para a escola.",
       "lang": "Português",
@@ -2436,7 +2508,19 @@
       "source": "eduCAPES",
       "checked": "26/10/2026",
       "full": true,
-      "format": "PDF"
+      "format": "PDF",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Linguagens",
+          "Ciências Humanas"
+        ],
+        "proposta": "Comparar narrativas indígenas, línguas e conhecimentos produzidos por povos originários.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     },
     {
       "id": "indig_guerreiras",
@@ -2445,7 +2529,8 @@
       "tags": [
         "Povos originários",
         "Feminismos",
-        "Literatura infantil e juvenil"
+        "Literatura infantil e juvenil",
+        "Diálogos com a BNCC"
       ],
       "desc": "Escritoras e poetas indígenas apresentam suas histórias, territórios, identidades e modos de criar literatura.",
       "lang": "Português",
@@ -2458,7 +2543,19 @@
       "source": "Funai / Mulherio das Letras Indígenas",
       "checked": "26/10/2026",
       "full": true,
-      "format": "PDF"
+      "format": "PDF",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Linguagens",
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Debater autoria feminina indígena e protagonismo cultural.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     },
     {
       "id": "indig_audazes",
@@ -4076,7 +4173,8 @@
         "Literatura infantil e juvenil",
         "História",
         "Literatura e humor",
-        "Clássicos em domínio público"
+        "Clássicos em domínio público",
+        "Diálogos com a BNCC"
       ],
       "desc": "Lendas regionais brasileiras, incluindo O Negrinho do Pastoreio; texto original de 1913.",
       "lang": "Português",
@@ -4090,7 +4188,18 @@
       "checked": "26/10/2026",
       "full": true,
       "format": "ePUB · HTML · texto",
-      "rights": "Domínio público da obra textual no Brasil"
+      "rights": "Domínio público da obra textual no Brasil",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF"
+        ],
+        "areas": [
+          "Linguagens",
+          "Ciências Humanas"
+        ],
+        "proposta": "Ler lendas como fontes culturais, considerando criticamente o contexto histórico.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     },
     {
       "id": "pd2_junqueiro_infantil",
@@ -6322,7 +6431,8 @@
         "Constituinte de 1987–1988",
         "História",
         "Pensamento político",
-        "Participação popular"
+        "Participação popular",
+        "Diálogos com a BNCC"
       ],
       "desc": "Coletânea documental que recupera registros da participação da sociedade no processo constituinte de 1987–1988.",
       "lang": "Português",
@@ -6336,7 +6446,17 @@
       "checked": "26/10/2026",
       "full": true,
       "format": "PDF · 2018",
-      "period": "Constituinte de 1987–1988"
+      "period": "Constituinte de 1987–1988",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Investigar participação popular, cidadania e elaboração da Constituição de 1988.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     },
     {
       "id": "const_voz_2",
@@ -6388,6 +6508,757 @@
       "full": true,
       "format": "PDF · 2009",
       "period": "Constituinte de 1987–1988"
+    },
+    {
+      "id": "bncc_sambaquis",
+      "title": "Sambaquis: uma história antes do Brasil — guia didático",
+      "author": "Jessica Mendes Cardoso; Renata Estevam da Silva; Bruna Cataneo Zamparetti",
+      "tags": [
+        "História",
+        "Povos originários",
+        "Arte, memória e arqueologia",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Guia de arqueologia e patrimônio que utiliza jogos e investigação para estudar sociedades anteriores ao Brasil colonial.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/366",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC-SA 4.0",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF"
+        ],
+        "areas": [
+          "Ciências Humanas"
+        ],
+        "proposta": "Investigar vestígios materiais como fontes históricas; diferenciar passado indígena da narrativa colonial.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_cinema_negro",
+      "title": "Cinema negro: educação, arte, antropologia",
+      "author": "Rogério de Almeida; Celso Luiz Prudente (orgs.)",
+      "tags": [
+        "Arte, memória e arqueologia",
+        "Pan-africanismo e amefricanidades",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Coletânea sobre cinema negro, cultura, representação, musicalidade e produção artística afro-brasileira.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/713",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY 4.0",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Linguagens",
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Analisar audiovisual, representação, memória e relações étnico-raciais.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_arte_antirracista",
+      "title": "Arte, cultura e educação antirracista: aláfia a (re)encontros formativos ancestrais",
+      "author": "Régia Mabel Freitas; Rogério de Almeida (orgs.)",
+      "tags": [
+        "Pan-africanismo e amefricanidades",
+        "Arte, memória e arqueologia",
+        "História",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Textos sobre arte, memória e ancestralidade no ensino de história e culturas africanas e indígenas.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1705",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "Consultar licença na página oficial",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências Humanas",
+          "Linguagens"
+        ],
+        "proposta": "Dialogar com a produção cultural negra e indígena e enfrentar o racismo no trabalho pedagógico.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_juventudes_clima",
+      "title": "Juventudes, educação climática e ação local para enfrentar a crise climática",
+      "author": "Graciane Simone; Daniel Moura; Pedro Roberto Jacobi; Valeriana Augusta Broetto",
+      "tags": [
+        "Geopolítica",
+        "História",
+        "Meio ambiente e sustentabilidade",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Estudo sobre juventudes, injustiças climáticas e ações de resposta local.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1919",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "Consultar licença na página oficial",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências Humanas",
+          "Ciências da Natureza"
+        ],
+        "proposta": "Investigar desigualdades socioambientais no território e elaborar propostas de ação.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_emergencia_clima",
+      "title": "Novos temas em emergência climática: para os ensinos fundamental e médio",
+      "author": "Edson Grandisoli; Pedro Henrique Campello Torres; Pedro Roberto Jacobi; Renata Ferraz de Toledo; Sonia Maria Viggiani Coutinho",
+      "tags": [
+        "Meio ambiente e sustentabilidade",
+        "Geopolítica",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Mudanças climáticas, justiça, migrações, desigualdades e responsabilidade coletiva.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/711",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "Consultar licença na página oficial",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências da Natureza",
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Relacionar fenômenos ambientais a contextos sociais, territórios e direitos.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_educacao_sustentabilidade",
+      "title": "Educação para sustentabilidade: diálogos interdisciplinares",
+      "author": "Fernanda da Rocha Brando; Giselle Alves Martins (orgs.)",
+      "tags": [
+        "Meio ambiente e sustentabilidade",
+        "Educação e práticas docentes",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Pesquisas e propostas de formação interdisciplinar e educação para sustentabilidade.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/679",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "Consultar licença na página oficial",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências da Natureza",
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Planejar investigações e debates interdisciplinares sobre desenvolvimento sustentável.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_criancas_cidade",
+      "title": "O direito das crianças à cidade: perspectivas desde o Brasil e Portugal",
+      "author": "Marcia Aparecida Gobbi; Cleriston Izidro dos Anjos; Eunice Castro Seixas; Catarina Tomás (orgs.)",
+      "tags": [
+        "Geopolítica",
+        "Direitos humanos e cidadania",
+        "Educação e práticas docentes",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Estudos sobre infância, cidade, participação, territórios e direito à mobilidade e ao espaço urbano.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/804",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC-SA 4.0",
+      "bncc": {
+        "etapas": [
+          "Anos iniciais do EF",
+          "Anos finais do EF"
+        ],
+        "areas": [
+          "Ciências Humanas"
+        ],
+        "proposta": "Observar espaços públicos, cartografar percursos cotidianos e discutir direito à cidade.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_bienal",
+      "title": "35ª Bienal de São Paulo: entre o pavilhão e a sala de aula",
+      "author": "Martin Grossmann; Gilberto Mariotti; Laerte Fernandes; Talita Pereira; Vinícius Spricigo",
+      "tags": [
+        "Arte, memória e arqueologia",
+        "Educação e práticas docentes",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Análises da Bienal e de suas exposições, úteis para leitura crítica de arte e curadoria.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1848",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC-SA 4.0",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Linguagens"
+        ],
+        "proposta": "Relacionar produções artísticas contemporâneas a contextos, narrativas e instituições.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_ensino_arte",
+      "title": "O ensino da arte no contexto brasileiro atual: formação, políticas públicas educacionais e atuação",
+      "author": "Sumaya Mattar; Rita Luciana Berti Bredariolli (orgs.)",
+      "tags": [
+        "Arte, memória e arqueologia",
+        "Educação e práticas docentes",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Pesquisas e debates sobre formação, políticas e práticas de Arte na escola.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/361",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "Consultar licença na página oficial",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Linguagens"
+        ],
+        "proposta": "Apoiar a preparação docente de projetos de apreciação, criação e contextualização artística.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_reciclando",
+      "title": "Reciclando Ideias: sequências didáticas STEAM sobre resíduos para o ensino médio",
+      "author": "Thalita Martins de Oliveira; Rosebelly Nunes Marques",
+      "tags": [
+        "Meio ambiente e sustentabilidade",
+        "Ciência e tecnologia",
+        "Educação e práticas docentes",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Sequências práticas de investigação, dados e soluções para problemas de resíduos e consumo.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1800",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC-ND 4.0",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências da Natureza e suas Tecnologias",
+          "Matemática e suas Tecnologias"
+        ],
+        "proposta": "Conduzir projetos STEAM com coleta e análise de dados, prototipagem e avaliação de impacto.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_inundando",
+      "title": "Inundando saberes: sequências didáticas STEAM sobre água para o ensino médio",
+      "author": "Thalita Martins de Oliveira; Monise Brotto dos Santos; Rosebelly Nunes Marques",
+      "tags": [
+        "Meio ambiente e sustentabilidade",
+        "Ciência e tecnologia",
+        "Educação e práticas docentes",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Sequências didáticas sobre água, investigação ambiental e aprendizagem interdisciplinar.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1680",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC-ND 4.0",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências da Natureza e suas Tecnologias",
+          "Matemática e suas Tecnologias"
+        ],
+        "proposta": "Investigar a qualidade e os usos da água a partir de situações do território.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_laboratorio",
+      "title": "Boas práticas no laboratório escolar: orientações para práticas seguras e sustentáveis em atividades experimentais",
+      "author": "Renata Colombo; Thauane Cristina da Silva",
+      "tags": [
+        "Ciência e tecnologia",
+        "Meio ambiente e sustentabilidade",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Orientações de segurança, descarte e conduta em experimentos escolares.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1798",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC 4.0",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências da Natureza e suas Tecnologias"
+        ],
+        "proposta": "Construir protocolos de segurança, descarte e investigação responsável.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_paideia_ia",
+      "title": "PaideIA: da sabedoria dos antigos à inteligência artificial",
+      "author": "Marcos Sidnei Pagotto-Euzebio; Rogério de Almeida (orgs.)",
+      "tags": [
+        "Filosofia",
+        "Ciência e tecnologia",
+        "Pensamento político",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Ensaios que aproximam pensamento clássico e problemas contemporâneos da inteligência artificial.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1913",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "Consultar licença na página oficial",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências Humanas e Sociais Aplicadas",
+          "Linguagens e suas Tecnologias"
+        ],
+        "proposta": "Debater autoria, conhecimento, linguagem e consequências da automação.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_habermas",
+      "title": "Pensar com Habermas: diálogos sobre linguagem, ética e democracia",
+      "author": "Marco Antonio Bettine de Almeida",
+      "tags": [
+        "Filosofia",
+        "Pensamento político",
+        "Dicionários e conceitos",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Uma introdução conceitual a comunicação, argumentação, esfera pública e democracia.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1806",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC 4.0",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Debater deliberação, discurso público, cidadania e a qualidade dos argumentos.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_educacao_latina",
+      "title": "Educação na América Latina: história, movimentos, resistências e proposições",
+      "author": "Sonia Maria Portella Kruppa; Fábio Sampaio Mascarenhas; Marilene Proença Rebello de Souza (orgs.)",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Geopolítica",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Coletânea sobre história da educação, movimentos sociais e experiências latino-americanas.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1820",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "Consultar licença na página oficial",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Comparar experiências de educação, democratização, poder e resistência na América Latina.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_leda",
+      "title": "Guia do L.E.D.A.: oficinas de jogos, estudos e tematizações",
+      "author": "Ana Lucia Petty; Maria Thereza Costa Coelho de Souza",
+      "tags": [
+        "Educação e práticas docentes",
+        "Ciência e tecnologia",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Oficinas e propostas de jogos que valorizam aprendizagem, autorregulação e convivência.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/737",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY 4.0",
+      "bncc": {
+        "etapas": [
+          "Anos iniciais do EF",
+          "Anos finais do EF"
+        ],
+        "areas": [
+          "Matemática",
+          "Linguagens"
+        ],
+        "proposta": "Planejar jogos de regras e situações de resolução colaborativa de problemas.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_trama_ficcoes",
+      "title": "A trama das ficções: debates entre educação, arte e design",
+      "author": "Marcos Beccari; Rogério de Almeida (orgs.)",
+      "tags": [
+        "Literatura e humor",
+        "Arte, memória e arqueologia",
+        "Filosofia",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Ensaios sobre imaginação, ficção, cinema, arte e possibilidades de criar outros mundos.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1587",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC-SA 4.0",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Linguagens",
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Criar narrativas e analisar representações sociais por meio de linguagens artísticas.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_ia_dados",
+      "title": "A inteligência artificial nas ciências de dados",
+      "author": "Luciane Ferreira Alcoforado e colaboradores",
+      "tags": [
+        "Ciência e tecnologia",
+        "Dicionários e conceitos",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Introdução técnica a técnicas de ciência de dados e inteligência artificial, com exemplos em R.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/1492",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC-SA 4.0",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Matemática e suas Tecnologias",
+          "Ciências da Natureza e suas Tecnologias"
+        ],
+        "proposta": "Apoiar professores e estudantes avançados na leitura crítica de dados e algoritmos.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_deficiencia",
+      "title": "Deficiência e igualdade",
+      "author": "Debora Diniz; Marcelo Medeiros; Lívia Barbosa (orgs.)",
+      "tags": [
+        "Direitos humanos e cidadania",
+        "Pensamento político",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Estudos sobre deficiência como questão de direitos, desigualdade e justiça social.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://livros.unb.br/index.php/portal/catalog/book/345",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros da UnB",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC-ND 4.0",
+      "bncc": {
+        "etapas": [
+          "Anos finais do EF",
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Ciências Humanas",
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Debater inclusão e barreiras sociais com acessibilidade, direitos e cidadania.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_traducao_negras",
+      "title": "Tradução como prática de resistência e inclusão: vozes femininas negras",
+      "author": "Norma Diana Hamilton; Alessandra Ramos de Oliveira Harden (orgs.)",
+      "tags": [
+        "Pan-africanismo e amefricanidades",
+        "Feminismos",
+        "Linguagens e leituras",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Estudos sobre tradução, autoras negras, cultura e resistência à invisibilização.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://livros.unb.br/index.php/portal/catalog/book/185",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros da UnB",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "Consultar licença na página oficial",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Linguagens e suas Tecnologias",
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Debater diversidade de vozes, autoria, tradução e representação literária.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
+    },
+    {
+      "id": "bncc_contranormativo",
+      "title": "Contranormativo: arte em risco — estéticas divergentes",
+      "author": "Carolina Klautau e colaboradores",
+      "tags": [
+        "Feminismos",
+        "Arte, memória e arqueologia",
+        "Pensamento político",
+        "Diálogos com a BNCC"
+      ],
+      "desc": "Ensaios sobre arte, teatro, audiovisual, gênero e crítica a convenções estéticas.",
+      "lang": "Português",
+      "note": "Articulação com a BNCC sugerida pela curadoria, não uma aprovação oficial nem substituto para o currículo local. Consulte a ficha e a licença da editora.",
+      "url": "https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/book/916",
+      "pdf": "",
+      "epub": "",
+      "cover": "",
+      "kind": "Livro acadêmico de acesso aberto",
+      "source": "Portal de Livros Abertos da USP",
+      "checked": "27/10/2026",
+      "full": true,
+      "format": "PDF disponível na fonte",
+      "accessRights": "Acesso aberto com direitos autorais e licença específica",
+      "license": "CC BY-NC-SA 4.0",
+      "bncc": {
+        "etapas": [
+          "Ensino Médio"
+        ],
+        "areas": [
+          "Linguagens e suas Tecnologias",
+          "Ciências Humanas e Sociais Aplicadas"
+        ],
+        "proposta": "Analisar relações entre arte, representações de gênero e disputas de valores.",
+        "validacao": "Vínculo temático sugerido. Verificar habilidades do currículo por série."
+      }
     }
   ],
   "support": [
@@ -7685,6 +8556,48 @@
       "access": "Consulta conforme item; checar direitos de cada coleção",
       "note": "A navegação do portal requer JavaScript. Acesso à informação é diferente da autorização para reproduzi-la.",
       "status": "verificado",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "acervo_bncc_1",
+      "title": "BNCC — portal oficial de consulta",
+      "url": "https://basenacionalcomum.mec.gov.br/",
+      "author": "Ministério da Educação",
+      "tags": [
+        "Diálogos com a BNCC",
+        "Educação e práticas docentes"
+      ],
+      "desc": "Consulte o documento normativo para identificar competências, habilidades e etapas da Educação Básica.",
+      "kind": "Referência curricular oficial",
+      "access": "Acesso público; documento oficial",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "acervo_bncc_2",
+      "title": "BNCC — exportação de competências e habilidades",
+      "url": "https://downloadbncc.mec.gov.br/",
+      "author": "Ministério da Educação",
+      "tags": [
+        "Diálogos com a BNCC",
+        "Educação e práticas docentes"
+      ],
+      "desc": "Ferramenta oficial de consulta e exportação por ano, componente ou área do conhecimento.",
+      "kind": "Ferramenta curricular oficial",
+      "access": "Acesso público",
+      "checked": "27/10/2026"
+    },
+    {
+      "id": "acervo_bncc_3",
+      "title": "BNCC — Caderno de práticas",
+      "url": "https://basenacionalcomum.mec.gov.br/implementacao/praticas/caderno-de-praticas",
+      "author": "Ministério da Educação",
+      "tags": [
+        "Diálogos com a BNCC",
+        "Educação e práticas docentes"
+      ],
+      "desc": "Práticas de ensino selecionadas para inspirar articulações das competências e habilidades em sala de aula.",
+      "kind": "Práticas de referência",
+      "access": "Acesso público",
       "checked": "27/10/2026"
     }
   ]
