@@ -743,9 +743,10 @@
       "lang": "Português",
       "source": "UnB / Cebraspe — link indicado na lista oficial",
       "checked": "27/10/2026",
-      "full": true,
+      "full": false,
       "format": "PDF — seleção do PAS",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "Coletânea de textos e recortes do PAS; não corresponde aos livros completos."
     },
     {
       "id": "pas_literatura_2",
@@ -765,9 +766,10 @@
       "lang": "Português",
       "source": "UnB / Cebraspe — link indicado na lista oficial",
       "checked": "27/10/2026",
-      "full": true,
+      "full": false,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "Coletânea de textos e recortes do PAS; não corresponde aos livros completos."
     },
     {
       "id": "pas_literatura_3",
@@ -787,9 +789,10 @@
       "lang": "Português",
       "source": "UnB / Cebraspe — link indicado na lista oficial",
       "checked": "27/10/2026",
-      "full": true,
+      "full": false,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "Coletânea de textos e recortes do PAS; não corresponde aos livros completos."
     },
     {
       "id": "pas_kant_esclarecimento",
@@ -831,9 +834,10 @@
       "lang": "Português",
       "source": "UnB / Cebraspe — link indicado na lista oficial",
       "checked": "27/10/2026",
-      "full": true,
+      "full": false,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "Trecho da tese: Capítulo 3; não é a tese ou livro integral."
     },
     {
       "id": "pas_krenak_humanidade",
@@ -853,9 +857,10 @@
       "lang": "Português",
       "source": "UnB / Cebraspe — acesso indicado na lista",
       "checked": "27/10/2026",
-      "full": true,
+      "full": false,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "Recorte de Ideias para adiar o fim do mundo, não o livro integral."
     },
     {
       "id": "pas_industria_cultural",
@@ -875,9 +880,10 @@
       "lang": "Português",
       "source": "UnB / Cebraspe — acesso indicado na lista",
       "checked": "27/10/2026",
-      "full": true,
+      "full": false,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "Texto/seleção do PAS; não corresponde à edição integral da obra de origem."
     },
     {
       "id": "pas_medeia",
@@ -963,9 +969,10 @@
       "lang": "Português",
       "source": "UnB / Cebraspe — acesso indicado na lista",
       "checked": "27/10/2026",
-      "full": true,
+      "full": false,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "Arquivo externo de 53 páginas; integralidade editorial e autorização de distribuição não confirmadas."
     },
     {
       "id": "pas_debaixo_terra",
@@ -1007,9 +1014,10 @@
       "lang": "Português",
       "source": "UnB / Cebraspe — acesso indicado na lista",
       "checked": "27/10/2026",
-      "full": true,
+      "full": false,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "Terceiro ato de A Pena e a Lei; não é a peça completa."
     },
     {
       "id": "pas_burgues_fidalgo",
@@ -1310,7 +1318,7 @@
     {
       "title": "Darwinismo e racismo científico no Brasil",
       "author": "Cláudia Sepúlveda; Yaci Farias; Ricardo Machado; Juanma Sánchez Arteaga",
-      "theme": "Ciência, racismo e formação nacional",
+      "theme": "colonialidade",
       "url": "https://books.scielo.org/id/2qpn8",
       "reason": "Título e pertinência localizados. Página do SciELO retorna 403 nesta conferência; acesso gratuito integral ainda não verificado. Não incluído no acervo publicado."
     }
