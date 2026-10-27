@@ -67,6 +67,146 @@
       "full": true,
       "format": "PDF — 28 páginas",
       "accessLabel": "Abrir parecer do Iphan ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_bomfim_america_latina",
+      "title": "A América Latina: males de origem",
+      "author": "Manoel Bomfim",
+      "tags": [
+        "História",
+        "Pensamento político",
+        "Historiografia"
+      ],
+      "desc": "Uma interpretação da formação latino-americana que discute a exploração colonial e contesta explicações raciais para as desigualdades. Leitura histórica para dialogar com debates sobre colonialidade.",
+      "lang": "Português",
+      "note": "Obra originalmente publicada em 1905. Esta edição é do Centro Edelstein, de 2008, disponibilizada pelo SciELO Livros. As categorias e analogias do autor devem ser lidas no contexto de sua época.",
+      "url": "https://books.scielo.org/id/zg8vf",
+      "pdf": "https://static.scielo.org/scielobooks/zg8vf/pdf/bomfim-9788599662786.pdf",
+      "source": "SciELO Livros — Centro Edelstein de Pesquisas Sociais",
+      "format": "PDF — edição de 2008",
+      "accessLabel": "Abrir PDF no SciELO ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_gama_trovas",
+      "title": "Primeiras trovas burlescas",
+      "author": "Luiz Gama",
+      "tags": [
+        "Literatura e humor",
+        "História",
+        "Pan-africanismo e amefricanidades",
+        "Clássicos em domínio público"
+      ],
+      "desc": "Poesia satírica de Luiz Gama para discutir racismo, hierarquias sociais, autoria negra e crítica política no Brasil do século XIX.",
+      "lang": "Português",
+      "note": "Digitalização da 3ª edição, de 1904, corrigida e aumentada. Conserva a grafia e a apresentação da edição histórica.",
+      "url": "https://digital.bbm.usp.br/handle/bbm/4270",
+      "pdf": "https://digital.bbm.usp.br/bitstream/bbm/4270/1/008936_COMPLETO.pdf",
+      "source": "Biblioteca Brasiliana Guita e José Mindlin — USP",
+      "format": "PDF — edição de 1904",
+      "accessLabel": "Abrir PDF na USP ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_vanloon_mankind",
+      "title": "The Story of Mankind",
+      "author": "Hendrik Willem van Loon",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Literatura infantil e juvenil",
+        "Clássicos em domínio público"
+      ],
+      "desc": "Panorama histórico ilustrado escrito para jovens, publicado em 1921. Permite comparar escolhas narrativas e formas de apresentar a história em diferentes épocas.",
+      "lang": "Inglês",
+      "note": "Texto em inglês. A narrativa privilegia a civilização ocidental e emprega categorias de seu tempo. Ler criticamente como panorama histórico do início do século XX, em diálogo com pesquisas atuais.",
+      "url": "https://www.gutenberg.org/ebooks/46399",
+      "pdf": "",
+      "source": "Project Gutenberg",
+      "format": "HTML · ePUB · texto",
+      "accessLabel": "Ler no Gutenberg ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_wells_short_history",
+      "title": "A Short History of the World",
+      "author": "H. G. Wells",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Clássicos em domínio público"
+      ],
+      "desc": "Síntese publicada em 1922 que percorre a formação da Terra, sociedades antigas e transformações históricas até o período posterior à Primeira Guerra Mundial.",
+      "lang": "Inglês",
+      "note": "Texto em inglês. Panorama do início do século XX: interpretações, terminologia e informações científicas exigem contextualização e comparação com pesquisas atuais.",
+      "url": "https://www.gutenberg.org/ebooks/35461",
+      "pdf": "",
+      "source": "Project Gutenberg",
+      "format": "HTML · ePUB · texto",
+      "accessLabel": "Ler no Gutenberg ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_chesterton_father_brown",
+      "title": "The Innocence of Father Brown",
+      "author": "G. K. Chesterton",
+      "tags": [
+        "Suspense, enigmas e sociedades secretas",
+        "Literatura e humor",
+        "Clássicos em domínio público"
+      ],
+      "desc": "Doze contos policiais em que o padre Brown investiga crimes observando os comportamentos e as motivações dos envolvidos.",
+      "lang": "Inglês",
+      "note": "Texto em inglês. Coletânea publicada originalmente em 1911, com humor, investigação e questões morais.",
+      "url": "https://www.gutenberg.org/ebooks/204",
+      "pdf": "",
+      "source": "Project Gutenberg",
+      "format": "HTML · ePUB · texto",
+      "accessLabel": "Ler no Gutenberg ↗"
+    },
+    {
+      "epub": "",
+      "cover": "",
+      "kind": "Livro",
+      "checked": "27/10/2026",
+      "full": true,
+      "id": "cur_green_leavenworth",
+      "title": "The Leavenworth Case",
+      "author": "Anna Katharine Green",
+      "tags": [
+        "Suspense, enigmas e sociedades secretas",
+        "Literatura e humor",
+        "Clássicos em domínio público"
+      ],
+      "desc": "O assassinato de um homem rico envolve herança, suspeitos e uma investigação em Nova York. Romance policial de autoria feminina publicado em 1878.",
+      "lang": "Inglês",
+      "note": "Texto em inglês. Uma leitura para explorar a construção do mistério e a presença de mulheres na história do romance policial.",
+      "url": "https://www.gutenberg.org/ebooks/4047",
+      "pdf": "",
+      "source": "Project Gutenberg",
+      "format": "HTML · ePUB · texto",
+      "accessLabel": "Ler no Gutenberg ↗"
     }
   ],
   "articles": [
@@ -175,7 +315,8 @@
         "pd_machado_55797",
         "cam_o-abolicionismo",
         "ampliacao_paraguai",
-        "ampliacao_escravidao"
+        "ampliacao_escravidao",
+        "cur_gama_trovas"
       ],
       "articles": [
         "artigo_012"
@@ -293,7 +434,8 @@
       "desc": "Perspectivas sobre poder, produção do conhecimento e pensamento afrodiaspórico.",
       "books": [
         "ampliacao_colonialidade",
-        "amefricanas"
+        "amefricanas",
+        "cur_bomfim_america_latina"
       ],
       "articles": [
         "artigo_008"
