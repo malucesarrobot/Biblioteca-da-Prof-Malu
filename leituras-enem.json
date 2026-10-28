@@ -129,7 +129,7 @@
   },
   {
     "lang": "Português",
-    "pdf": "https://santatereza.go.gov.br/wp-content/uploads/2025/03/Revolucao-dos-bichos.pdf",
+    "pdf": "",
     "epub": "",
     "cover": "",
     "kind": "Livro",
@@ -145,13 +145,13 @@
       "Distopias e futuros possíveis"
     ],
     "desc": "Uma fábula política sobre a concentração do poder, a propaganda e a transformação das regras em benefício dos governantes.",
-    "note": "PDF hospedado no portal da Prefeitura de Santa Tereza de Goiás. O arquivo identifica uma edição eletrônica da UENP, de 2015.",
-    "url": "https://santatereza.go.gov.br/wp-content/uploads/2025/03/Revolucao-dos-bichos.pdf",
-    "source": "Prefeitura de Santa Tereza de Goiás — arquivo identificado como edição UENP, 2015",
-    "format": "PDF — acervo institucional",
-    "accessLabel": "Abrir PDF ↗",
-    "sourceNote": "O arquivo se apresenta como obra em domínio público, mas não foi possível confirmar o crédito e a autorização da tradução utilizada. Essa indicação do arquivo não é certificação da biblioteca. A disponibilização pública de um PDF não comprova autorização dos titulares dos direitos. Priorizar empréstimo digital ou acesso autorizado quando localizado.",
-    "accessScope": "Disponibilidade de arquivo externo informada; integridade da edição e licença de distribuição gratuita ainda não comprovadas."
+    "note": "Edição em português oferecida para empréstimo digital gratuito pela BibliON, conforme página específica do título. A disponibilidade e o cadastro devem ser verificados no serviço.",
+    "url": "https://biblioteca-biblion.tocalivros.com/ebook/a-revolucao-dos-bichos-george-orwell-tocalivros-classicos",
+    "source": "BibliON — empréstimo digital da edição Tocalivros Clássicos",
+    "format": "Empréstimo digital — edição em português",
+    "accessLabel": "Pegar emprestado na BibliON ↗",
+    "sourceNote": "Substituído um PDF hospedado por terceiro sem licença de distribuição identificada. Empréstimo digital autorizado sujeito às condições da plataforma.",
+    "accessScope": "Obra integral disponibilizada por empréstimo, sujeita a cadastro e condições da biblioteca."
   },
   {
     "lang": "Português",
@@ -177,7 +177,7 @@
   },
   {
     "lang": "Português",
-    "pdf": "https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/a-hora-da-estrela.pdf",
+    "pdf": "",
     "epub": "",
     "cover": "",
     "kind": "Livro",
@@ -191,13 +191,13 @@
       "Literatura e humor"
     ],
     "desc": "Macabéa, a vida na cidade e um narrador que expõe suas escolhas ao contar a história.",
-    "note": "Texto em português, com apresentação. O botão abre diretamente o PDF no acervo do ISPSN, sem passar pela busca de um catálogo.",
-    "url": "https://www.ispsn.org/content/hora-da-estrela",
-    "source": "Acervo virtual do Instituto Superior Politécnico Sol Nascente — ISPSN",
-    "format": "PDF — 88 páginas",
-    "accessLabel": "Abrir PDF ↗",
-    "sourceNote": "Arquivo de 88 páginas consultado em 27/10/2026. Não foi localizada autorização explícita para distribuição aberta; a hospedagem não comprova domínio público nem permissão para republicar. A disponibilização pública de um PDF não comprova autorização dos titulares dos direitos. Priorizar empréstimo digital ou acesso autorizado quando localizado.",
-    "accessScope": "Disponibilidade de arquivo externo informada; integridade da edição e licença de distribuição gratuita ainda não comprovadas."
+    "note": "O título consta em referências públicas ao acervo digital da BibliON. O botão abre o portal da biblioteca; será necessário pesquisar A hora da estrela. A disponibilidade individual não foi consultada mediante login.",
+    "url": "https://biblion.org.br/",
+    "source": "BibliON — biblioteca digital gratuita",
+    "format": "Busca de empréstimo digital — edição em português",
+    "accessLabel": "Buscar empréstimo na BibliON ↗",
+    "sourceNote": "Um PDF disponibilizado fora da editora foi substituído por acesso a serviço regular de empréstimo. O link não é diretamente a ficha do título.",
+    "accessScope": "Referência para empréstimo; livro integral não aberto nesta revisão."
   },
   {
     "id": "ispsn_mundo_sofia",
@@ -210,19 +210,19 @@
     ],
     "desc": "Sofia recebe cartas que a levam por uma história da filosofia ocidental. Romance filosófico para quem quer começar a explorar esse repertório pela literatura.",
     "lang": "Português",
-    "note": "O botão abre diretamente o PDF de 494 páginas no acervo do ISPSN. Para salvar uma cópia no dispositivo, use a opção de download do leitor de PDF.",
-    "url": "https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/o-mundo-de-sofia-jostein-gaarden_0.pdf",
-    "pdf": "https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/o-mundo-de-sofia-jostein-gaarden_0.pdf",
+    "note": "O registro cataloga a obra de Jostein Gaarder. Algumas edições contam com prévia ou acesso dependente da plataforma, mas não foi confirmado empréstimo gratuito da edição em português. Não confundir com domínio público.",
+    "url": "https://openlibrary.org/works/OL922430W/Sofies_verden",
+    "pdf": "",
     "epub": "",
     "cover": "",
     "kind": "Livro",
-    "source": "Acervo virtual do Instituto Superior Politécnico Sol Nascente — ISPSN",
+    "source": "Open Library — catálogo de edições internacionais",
     "checked": "27/10/2026",
     "full": false,
-    "format": "PDF — 494 páginas",
-    "accessLabel": "Abrir livro em PDF ↗",
-    "sourceNote": "Arquivo hospedado no acervo institucional do ISPSN. Não foi localizada autorização explícita de distribuição aberta; a hospedagem não comprova domínio público nem permissão para republicar. A biblioteca aponta para o arquivo externo e não o hospeda. A disponibilização pública de um PDF não comprova autorização dos titulares dos direitos. Priorizar empréstimo digital ou acesso autorizado quando localizado.",
-    "accessScope": "Disponibilidade de arquivo externo informada; integridade da edição e licença de distribuição gratuita ainda não comprovadas."
+    "format": "Catálogo e prévias — leitura integral em português não confirmada",
+    "accessLabel": "Consultar edições na Open Library ↗",
+    "sourceNote": "O PDF de tradução comercial anteriormente listado não tinha licença aberta comprovada; substituído por referência catalográfica.",
+    "accessScope": "Ficha e edições bibliográficas. Sem leitura integral gratuita em português verificada."
   },
   {
     "id": "ispsn_codigo_vinci",
@@ -235,18 +235,18 @@
     ],
     "desc": "Um assassinato no Louvre dá início a uma investigação entre obras de arte, símbolos e conspirações. Ficção de suspense: as interpretações históricas dos personagens não devem ser tomadas como fonte histórica.",
     "lang": "Português",
-    "note": "O botão abre diretamente o PDF de 652 páginas no acervo do ISPSN. Para salvar uma cópia no dispositivo, use a opção de download do leitor de PDF.",
-    "url": "https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/o-codigo-da-vinci-dan-brown.pdf",
-    "pdf": "https://www.ispsn.org/sites/default/files/documentos-virtuais/pdf/o-codigo-da-vinci-dan-brown.pdf",
+    "note": "Registros da Open Library incluem edições com prévia e algumas opções de empréstimo em outros idiomas. A disponibilidade da tradução brasileira não está confirmada.",
+    "url": "https://openlibrary.org/works/OL76837W/The_Da_Vinci_Code",
+    "pdf": "",
     "epub": "",
     "cover": "",
     "kind": "Livro",
-    "source": "Acervo virtual do Instituto Superior Politécnico Sol Nascente — ISPSN",
+    "source": "Open Library — catálogo de edições internacionais",
     "checked": "27/10/2026",
     "full": false,
-    "format": "PDF — 652 páginas",
-    "accessLabel": "Abrir livro em PDF ↗",
-    "sourceNote": "Arquivo hospedado no acervo institucional do ISPSN. Não foi localizada autorização explícita de distribuição aberta; a hospedagem não comprova domínio público nem permissão para republicar. A biblioteca aponta para o arquivo externo e não o hospeda. A disponibilização pública de um PDF não comprova autorização dos titulares dos direitos. Priorizar empréstimo digital ou acesso autorizado quando localizado.",
-    "accessScope": "Disponibilidade de arquivo externo informada; integridade da edição e licença de distribuição gratuita ainda não comprovadas."
+    "format": "Catálogo, prévias e empréstimos condicionais",
+    "accessLabel": "Consultar edições na Open Library ↗",
+    "sourceNote": "A antiga indicação de PDF de edição comercial foi removida por ausência de comprovação de licença de distribuição gratuita.",
+    "accessScope": "Consulta de catálogo e edições. Sem acesso integral autorizado em português verificado."
   }
 ]
