@@ -1,5 +1,5 @@
 {
-  "checked": "27/10/2026 — conferência editorial complementar",
+  "checked": "27/10/2026 — edição e documentação complementar",
   "stages": [
     {
       "stage": 1,
@@ -1884,9 +1884,11 @@
           "id": "pas3_teatro_1",
           "sourcePage": 8,
           "title": "Eles não usam Black- Tie",
-          "status": "Link abriu a página do Moodle USP; PDF da peça não obtido.",
+          "status": "Página do Moodle USP localizada, mas PDF integral exige acesso não disponível nesta sessão. Texto da peça não conferido.",
           "url": "https://edisciplinas.usp.br/pluginfile.php/5012806/mod_resource/content/2/ELES%20N%C3%83O%20USAM%20BLACK-TIE%20-%20GUARNIERI.pdf",
-          "note": "Na UnB foi localizado o estudo Eles não usam black-tie: da profecia cênica ao documentário fílmico (https://repositorio.unb.br/handle/10482/8349). É análise acadêmica, não substitui a peça integral."
+          "note": "A USP mantém estudos acadêmicos sobre a peça, mas tais análises não substituem a obra integral. A obra é protegida por direitos autorais; eventual reprodução deve observar a licença da edição utilizada.",
+          "alternateUrl": "https://revistas.usp.br/discurso/en/article/view/37961",
+          "alternateLabel": "Ler análise acadêmica de Iná Camargo Costa na USP ↗"
         },
         {
           "stage": 3,
@@ -1895,9 +1897,11 @@
           "id": "pas3_teatro_2",
           "sourcePage": 8,
           "title": "Vestido de Noiva",
-          "status": "Página de destino acessível; leitura integral ainda não confirmada.",
+          "status": "Oficina de Teatro apresenta ficha e botão 'Baixar a peça' (168,5 KB), mas o arquivo e a licença da obra integral não foram confirmados.",
           "url": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/viewdownload/5-pecas-diversas/101-vestido-de-noiva",
-          "note": "Estudo complementar localizado na Unespar: Vestido de Noiva — o texto fundador (https://periodicos.unespar.edu.br/revistacientifica/article/view/1743). Não substitui a peça integral."
+          "note": "A página de terceiros possui campo 'Licença' sem especificação. Nelson Rodrigues tem direitos autorais vigentes. Há bibliografia da peça no acervo teatral da USP; não se deve afirmar distribuição autorizada do texto.",
+          "alternateUrl": "https://bctb.eca.usp.br/obra.php?cod=9743",
+          "alternateLabel": "Consultar ficha bibliográfica da peça na USP ↗"
         },
         {
           "stage": 3,
