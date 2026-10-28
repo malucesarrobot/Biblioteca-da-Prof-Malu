@@ -2878,8 +2878,8 @@
           "id": "pas3_artes_visuais_3",
           "sourcePage": 9,
           "title": "Ciclos Econômicos Cândido Portinari - Complexo arquitetônico do Palácio Capanema, Rio de Janeiro",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1-FGEVnpsgl-XJp1QjwgKd4sE4SpK_sEy/view",
+          "status": "Fonte institucional ou do artista aberta em 28/10/2026; identificação textual conferida.",
+          "url": "https://www.portinari.org.br/acervo/obras/20463/gustavo-capanema-palace-economic-cycles",
           "technicalReview": {
             "id": "pas3_artes_visuais_3",
             "date": "2026-10-28",
@@ -2887,6 +2887,16 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "officialListUrl": "https://drive.google.com/file/d/1-FGEVnpsgl-XJp1QjwgKd4sE4SpK_sEy/view",
+          "note": "Catálogo do conjunto de doze afrescos Ciclos Econômicos no Palácio Gustavo Capanema. Identificação e histórico conferidos; inspeção individual das doze reproduções ainda pendente. Acesso complementar da curadoria; endereço da lista oficial preservado. Consulta no site de origem, sem republicação das imagens.",
+          "institutionalReview": {
+            "date": "2026-10-28",
+            "url": "https://www.portinari.org.br/acervo/obras/20463/gustavo-capanema-palace-economic-cycles",
+            "title": "Projeto Portinari — OC-4",
+            "scope": "Catálogo do conjunto de doze afrescos Ciclos Econômicos no Palácio Gustavo Capanema. Identificação e histórico conferidos; inspeção individual das doze reproduções ainda pendente.",
+            "verification": "Conteúdo textual e identificação da obra conferidos.",
+            "rights": "Link externo; não autoriza republicação das obras."
           }
         },
         {
@@ -2940,8 +2950,8 @@
           "id": "pas3_artes_visuais_6",
           "sourcePage": 9,
           "title": "Vacine COVID-19",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1vwxeuYidPdrkTt02w9velAntYm9QNgb-/view?usp=sharing",
+          "status": "Fonte institucional ou do artista aberta em 28/10/2026; identificação textual conferida.",
+          "url": "https://jornal.usp.br/universidade/arte-em-apoio-as-vacinas-butantan-e-fiocruz-ganham-obra-do-muralista-kobra/",
           "technicalReview": {
             "id": "pas3_artes_visuais_6",
             "date": "2026-10-28",
@@ -2949,6 +2959,16 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "officialListUrl": "https://drive.google.com/file/d/1vwxeuYidPdrkTt02w9velAntYm9QNgb-/view?usp=sharing",
+          "note": "Matéria institucional de 24/02/2021 com imagens identificadas dos painéis doados ao Butantan e à Fiocruz. Registra produção em 2020 e doação em 2021; o ano de 2021 da referência do PAS foi preservado. Conferência visual detalhada ainda pendente. Acesso complementar da curadoria; endereço da lista oficial preservado. Consulta no site de origem, sem republicação das imagens.",
+          "institutionalReview": {
+            "date": "2026-10-28",
+            "url": "https://jornal.usp.br/universidade/arte-em-apoio-as-vacinas-butantan-e-fiocruz-ganham-obra-do-muralista-kobra/",
+            "title": "Jornal da USP — Arte em apoio às vacinas",
+            "scope": "Matéria institucional de 24/02/2021 com imagens identificadas dos painéis doados ao Butantan e à Fiocruz. Registra produção em 2020 e doação em 2021; o ano de 2021 da referência do PAS foi preservado. Conferência visual detalhada ainda pendente.",
+            "verification": "Conteúdo textual e identificação da obra conferidos.",
+            "rights": "Link externo; não autoriza republicação das obras."
           }
         },
         {
@@ -2958,8 +2978,8 @@
           "id": "pas3_artes_visuais_7",
           "sourcePage": 9,
           "title": "Genial andar de bike",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1hF5KqBEeGWl1VHWV_3QyGIMEZZvAEeW2/view?usp=sharing",
+          "status": "Fonte institucional ou do artista aberta em 28/10/2026; identificação textual conferida.",
+          "url": "https://eduardokobra.com/projeto/30/genial-andar-de-bike",
           "technicalReview": {
             "id": "pas3_artes_visuais_7",
             "date": "2026-10-28",
@@ -2967,6 +2987,16 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "officialListUrl": "https://drive.google.com/file/d/1hF5KqBEeGWl1VHWV_3QyGIMEZZvAEeW2/view?usp=sharing",
+          "note": "Página do próprio artista com descrição e galeria identificada do mural de Einstein na rua Oscar Freire. Texto e destino conferidos; inspeção visual detalhada ainda pendente. Acesso complementar da curadoria; endereço da lista oficial preservado. Consulta no site de origem, sem republicação das imagens.",
+          "institutionalReview": {
+            "date": "2026-10-28",
+            "url": "https://eduardokobra.com/projeto/30/genial-andar-de-bike",
+            "title": "Eduardo Kobra — Genial Andar de Bike",
+            "scope": "Página do próprio artista com descrição e galeria identificada do mural de Einstein na rua Oscar Freire. Texto e destino conferidos; inspeção visual detalhada ainda pendente.",
+            "verification": "Conteúdo textual e identificação da obra conferidos.",
+            "rights": "Link externo; não autoriza republicação das obras."
           }
         }
       ]
