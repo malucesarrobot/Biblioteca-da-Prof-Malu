@@ -1798,7 +1798,7 @@
           "id": "pas2_musica_1",
           "sourcePage": 8,
           "title": "Frevo Mulher, Zé Ramalho, 2017.",
-          "status": "Correspondência com a referência do PAS pendente.",
+          "status": "Referência e intérpretes conferidos na lista oficial em 28/10/2026; reprodução integral não verificada.",
           "url": "https://www.youtube.com/watch?v=uzBYDbVq_Yk",
           "technicalReview": {
             "id": "pas2_musica_1",
@@ -1812,7 +1812,14 @@
             "channel": "GrandeEncontroVEVO",
             "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
           },
-          "note": "Divergência a conferir: a lista identifica Zé Ramalho (2017), mas o título do vídeo vinculado apresenta Alceu Valença, Elba Ramalho e Geraldo Azevedo — Frevo Mulher (Ao Vivo)."
+          "note": "Zé Ramalho é o compositor. A página 8 da lista oficial identifica Alceu Valença, Elba Ramalho e Geraldo Azevedo como intérpretes em O Grande Encontro: 20 anos (Vevo, 21/02/2017), compatíveis com o título e o canal do vídeo vinculado. A suspeita anterior de divergência de intérpretes foi esclarecida; link mantido.",
+          "referenceReview": {
+            "date": "2026-10-28",
+            "source": "https://pas.unb.br/images/pas/obras_de_referencia_pas_2.pdf",
+            "page": 8,
+            "result": "Correspondência bibliográfica de compositor e intérpretes confirmada.",
+            "playbackVerified": false
+          }
         },
         {
           "stage": 2,
@@ -2488,7 +2495,7 @@
           "id": "pas3_audiovisual_3",
           "sourcePage": 6,
           "title": "A mágica do GPS: Professor Albert e a Ciência da Natureza",
-          "status": "Correspondência com a referência do PAS pendente.",
+          "status": "Vínculo histórico entre título e endereço confirmado em 28/10/2026; reprodução integral não verificada.",
           "url": "https://www.youtube.com/watch?app=desktop&v=OsYU0xPXsgA",
           "technicalReview": {
             "id": "pas3_audiovisual_3",
@@ -2502,7 +2509,15 @@
             "channel": "Professor Albert",
             "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
           },
-          "note": "Divergência a conferir: o vídeo vinculado se intitula Como o GPS Sabe Onde Você Está? | Vídeo Educativo de Geografia e Tecnologia, diferente do título da lista."
+          "note": "O endereço OsYU0xPXsgA permanece no canal Professor Albert, com o título atual Como o GPS Sabe Onde Você Está? | Vídeo Educativo de Geografia e Tecnologia. O produto educacional de Luís Fernando Esteves Campos (2020), p. 29 impressa / página 31 do PDF, cita esse mesmo endereço sob o título A mágica do GPS: Professor Albert e a Ciência da Natureza. Isso esclarece a divergência de título; não comprova que o conteúdo permaneça integralmente inalterado. Link original mantido.",
+          "referenceReview": {
+            "date": "2026-10-28",
+            "source": "https://educapes.capes.gov.br/bitstream/capes/716540/2/T2018-Luis%20Fernando%20Esteves%20Campos-Produto.pdf",
+            "page": 31,
+            "printedPage": 29,
+            "result": "Mesmo identificador de vídeo documentado sob o título antigo em fonte acadêmica de 2020.",
+            "playbackVerified": false
+          }
         },
         {
           "stage": 3,
