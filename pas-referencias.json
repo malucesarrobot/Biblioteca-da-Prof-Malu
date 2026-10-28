@@ -15,8 +15,20 @@
           "id": "pas1_musica_1",
           "sourcePage": 2,
           "title": "O Rubor Sanguinis, Hildegard Von Bingen",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=WDeR9MeGNPg&list=RDWDeR9MeGNPg&start_radio=1"
+          "status": "Título e canal consultados em 28/10/2026: Hildegard von Bingen, O rubor sanguinis (with score). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=WDeR9MeGNPg&list=RDWDeR9MeGNPg&start_radio=1",
+          "technicalReview": {
+            "id": "pas1_musica_1",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=WDeR9MeGNPg&list=RDWDeR9MeGNPg&start_radio=1",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWDeR9MeGNPg%26list%3DRDWDeR9MeGNPg%26start_radio%3D1",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Hildegard von Bingen, O rubor sanguinis (with score)",
+            "channel": "huakinthoi",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -25,8 +37,20 @@
           "id": "pas1_musica_2",
           "sourcePage": 2,
           "title": "Concerto Grosso G minor - op. 06 – II Allegro, Arcangelo Corelli",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=e68h3Qwm2OA&t=2s"
+          "status": "Título e canal consultados em 28/10/2026: Corelli: Concerto grosso g-Moll op. 6 Nr. 8 (»Weihnachtskonzert«) ∙ hr-Sinfonieorchester. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=e68h3Qwm2OA&t=2s",
+          "technicalReview": {
+            "id": "pas1_musica_2",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=e68h3Qwm2OA&t=2s",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De68h3Qwm2OA%26t%3D2s",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Corelli: Concerto grosso g-Moll op. 6 Nr. 8 (»Weihnachtskonzert«) ∙ hr-Sinfonieorchester",
+            "channel": "hr-Sinfonieorchester – Frankfurt Radio Symphony",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -35,8 +59,20 @@
           "id": "pas1_musica_3",
           "sourcePage": 2,
           "title": "Ópera Dido e Eneias - When I am laid in earth - Dido’s lamente, Henry Purcell",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=3jPiYzUhGDo"
+          "status": "Título e canal consultados em 28/10/2026: The Best version of 'When i am laid in earth'  -Dido's lament (Purcell) - HD. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=3jPiYzUhGDo",
+          "technicalReview": {
+            "id": "pas1_musica_3",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=3jPiYzUhGDo",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3jPiYzUhGDo",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "The Best version of 'When i am laid in earth'  -Dido's lament (Purcell) - HD",
+            "channel": "Timeless Musica",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -45,8 +81,20 @@
           "id": "pas1_musica_4",
           "sourcePage": 2,
           "title": "Obrigado Darcy (O Brasil que vai além), Emicida",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=YvQLw8XRBKQ&t=3s"
+          "status": "Título e canal consultados em 28/10/2026: Emicida Feat. Rael - Obrigado, Darcy! (O Brasil que vai além). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=YvQLw8XRBKQ&t=3s",
+          "technicalReview": {
+            "id": "pas1_musica_4",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=YvQLw8XRBKQ&t=3s",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYvQLw8XRBKQ%26t%3D3s",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Emicida Feat. Rael - Obrigado, Darcy! (O Brasil que vai além)",
+            "channel": "Emicida",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -55,8 +103,20 @@
           "id": "pas1_musica_5",
           "sourcePage": 2,
           "title": "Tiro ao Álvaro (versão dos Demônios da Garoa), Adoniran Barbosa",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=73Pq5QcSZmA"
+          "status": "Título e canal consultados em 28/10/2026: Demônios da Garoa - Tiro ao Álvaro (Ao Vivo no Estúdio Showlivre 2016). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=73Pq5QcSZmA",
+          "technicalReview": {
+            "id": "pas1_musica_5",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=73Pq5QcSZmA",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D73Pq5QcSZmA",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Demônios da Garoa - Tiro ao Álvaro (Ao Vivo no Estúdio Showlivre 2016)",
+            "channel": "Showlivre",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -65,8 +125,20 @@
           "id": "pas1_musica_6",
           "sourcePage": 2,
           "title": "Canto dos Escravos - Canto I, Clementina de Jesus",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=9xcdwP6YxYk&t=3s"
+          "status": "Título e canal consultados em 28/10/2026: Canto I. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=9xcdwP6YxYk&t=3s",
+          "technicalReview": {
+            "id": "pas1_musica_6",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=9xcdwP6YxYk&t=3s",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9xcdwP6YxYk%26t%3D3s",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Canto I",
+            "channel": "Clementina De Jesus - Topic",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -75,8 +147,20 @@
           "id": "pas1_musica_7",
           "sourcePage": 2,
           "title": "Libras, Banda Surdodum",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=FcqaeXOwK8E"
+          "status": "Título e canal consultados em 28/10/2026: Libras-Banda Surdodum. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=FcqaeXOwK8E",
+          "technicalReview": {
+            "id": "pas1_musica_7",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=FcqaeXOwK8E",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFcqaeXOwK8E",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Libras-Banda Surdodum",
+            "channel": "Banda Surdodum",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -85,8 +169,20 @@
           "id": "pas1_musica_8",
           "sourcePage": 2,
           "title": "Sinfonia das Florestas, Ricardo Tacuchian",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=J9kAG6Za-j0&t=8s"
+          "status": "Título e canal consultados em 28/10/2026: Ricardo Tacuchian: Sinfonia das Florestas | OSN UFF | Marianna Lima (sop.) | Tobias Volkmann (reg.). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=J9kAG6Za-j0&t=8s",
+          "technicalReview": {
+            "id": "pas1_musica_8",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=J9kAG6Za-j0&t=8s",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ9kAG6Za-j0%26t%3D8s",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Ricardo Tacuchian: Sinfonia das Florestas | OSN UFF | Marianna Lima (sop.) | Tobias Volkmann (reg.)",
+            "channel": "Academia Brasileira de Música ABM",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -95,8 +191,20 @@
           "id": "pas1_musica_9",
           "sourcePage": 2,
           "title": "Saga da Amazônia (versão Socorro Lira), Vital Farias",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=4B8q5xoVl_I"
+          "status": "Título e canal consultados em 28/10/2026: SAGA DA AMAZÔNIA por SOCORRO LIRA. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=4B8q5xoVl_I",
+          "technicalReview": {
+            "id": "pas1_musica_9",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=4B8q5xoVl_I",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4B8q5xoVl_I",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "SAGA DA AMAZÔNIA por SOCORRO LIRA",
+            "channel": "Socorro Lira",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -105,8 +213,20 @@
           "id": "pas1_musica_10",
           "sourcePage": 2,
           "title": "Quatro Contas, Dona Onete",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=9anwu-nTcqQ&t=2s"
+          "status": "Título e canal consultados em 28/10/2026: Dona Onete - Quatro Contas ( videoclipe oficial ). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=9anwu-nTcqQ&t=2s",
+          "technicalReview": {
+            "id": "pas1_musica_10",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=9anwu-nTcqQ&t=2s",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9anwu-nTcqQ%26t%3D2s",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Dona Onete - Quatro Contas ( videoclipe oficial )",
+            "channel": "Dona Onete",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -115,8 +235,20 @@
           "id": "pas1_musica_11",
           "sourcePage": 2,
           "title": "Sinfonia 2 - Brasília - II mov. - Presto - Trabalho, César Guerra Peixe (15;27)",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=x7E6f7pUD6E&t=4s"
+          "status": "Título e canal consultados em 28/10/2026: Sinfonia Nº 2 “Brasília” - C. Guerra- Peixe - Harmonia. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=x7E6f7pUD6E&t=4s",
+          "technicalReview": {
+            "id": "pas1_musica_11",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=x7E6f7pUD6E&t=4s",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx7E6f7pUD6E%26t%3D4s",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Sinfonia Nº 2 “Brasília” - C. Guerra- Peixe - Harmonia",
+            "channel": "Programa Harmonia",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -125,8 +257,20 @@
           "id": "pas1_musica_12",
           "sourcePage": 2,
           "title": "Ondas do mar de Vigo, Martin Codax",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=xRFyGDTaHD0&list=RDxRFyGDTaHD0&start_radio=1"
+          "status": "Título e canal consultados em 28/10/2026: Martín Códax -Ondas do mar de Vigo (con letra). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=xRFyGDTaHD0&list=RDxRFyGDTaHD0&start_radio=1",
+          "technicalReview": {
+            "id": "pas1_musica_12",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=xRFyGDTaHD0&list=RDxRFyGDTaHD0&start_radio=1",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxRFyGDTaHD0%26list%3DRDxRFyGDTaHD0%26start_radio%3D1",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Martín Códax -Ondas do mar de Vigo (con letra)",
+            "channel": "clasica2videos",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -135,8 +279,20 @@
           "id": "pas1_musica_13",
           "sourcePage": 2,
           "title": "Palmares 1999, Natiruts",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=ZcXTJhliAgY"
+          "status": "Título e canal consultados em 28/10/2026: Natiruts - Palmares 1999 (Video Ao Vivo). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=ZcXTJhliAgY",
+          "technicalReview": {
+            "id": "pas1_musica_13",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=ZcXTJhliAgY",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZcXTJhliAgY",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Natiruts - Palmares 1999 (Video Ao Vivo)",
+            "channel": "NatirutsVEVO",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -146,7 +302,15 @@
           "sourcePage": 2,
           "title": "Manto tupinambá, Museu Nacional do Rio de Janeiro",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/Manto_tupinamb%C3%A1#/media/Ficheiro:12.09.2024_-_Cerim%C3%B4nia_de_celebra%C3%A7%C3%A3o_do_retorno_do_Manto_Tupinamb%C3%A1_ao_Brasil_(53990802551).jpg"
+          "url": "https://pt.wikipedia.org/wiki/Manto_tupinamb%C3%A1#/media/Ficheiro:12.09.2024_-_Cerim%C3%B4nia_de_celebra%C3%A7%C3%A3o_do_retorno_do_Manto_Tupinamb%C3%A1_ao_Brasil_(53990802551).jpg",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_1",
+            "date": "2026-10-28",
+            "requestedUrl": "https://pt.wikipedia.org/wiki/Manto_tupinamb%C3%A1#/media/Ficheiro:12.09.2024_-_Cerim%C3%B4nia_de_celebra%C3%A7%C3%A3o_do_retorno_do_Manto_Tupinamb%C3%A1_ao_Brasil_(53990802551).jpg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 403: Forbidden"
+          }
         },
         {
           "stage": 1,
@@ -156,7 +320,15 @@
           "sourcePage": 2,
           "title": "Universidade de Sankore, Mesquita/Madraça, Mali",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://blackpast.org/wp-content/uploads/2024/09/sankore-mosque.jpg"
+          "url": "https://blackpast.org/wp-content/uploads/2024/09/sankore-mosque.jpg",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_2",
+            "date": "2026-10-28",
+            "requestedUrl": "https://blackpast.org/wp-content/uploads/2024/09/sankore-mosque.jpg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 403: Forbidden"
+          }
         },
         {
           "stage": 1,
@@ -166,7 +338,18 @@
           "sourcePage": 2,
           "title": "Forró Pé de Serra, J. Borges",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gk3LzxdAD7_GkZpEx_yQaMIstXlYjGfzg7d4vGWKXWcVn2d4-FrMCogSXXon28iea4Z9MjKEgrKCJK99JTDY8OZooVqbPkZ_C9-rNGWUh_kz5SmAKGwX_rZnxc60VPbUwXljlXMVWNz_/s640/j-borges-forro-pe-de-serra-66x48-cm-xilo.jpg"
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gk3LzxdAD7_GkZpEx_yQaMIstXlYjGfzg7d4vGWKXWcVn2d4-FrMCogSXXon28iea4Z9MjKEgrKCJK99JTDY8OZooVqbPkZ_C9-rNGWUh_kz5SmAKGwX_rZnxc60VPbUwXljlXMVWNz_/s640/j-borges-forro-pe-de-serra-66x48-cm-xilo.jpg",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_3",
+            "date": "2026-10-28",
+            "requestedUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gk3LzxdAD7_GkZpEx_yQaMIstXlYjGfzg7d4vGWKXWcVn2d4-FrMCogSXXon28iea4Z9MjKEgrKCJK99JTDY8OZooVqbPkZ_C9-rNGWUh_kz5SmAKGwX_rZnxc60VPbUwXljlXMVWNz_/s640/j-borges-forro-pe-de-serra-66x48-cm-xilo.jpg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gk3LzxdAD7_GkZpEx_yQaMIstXlYjGfzg7d4vGWKXWcVn2d4-FrMCogSXXon28iea4Z9MjKEgrKCJK99JTDY8OZooVqbPkZ_C9-rNGWUh_kz5SmAKGwX_rZnxc60VPbUwXljlXMVWNz_/s640/j-borges-forro-pe-de-serra-66x48-cm-xilo.jpg",
+            "httpStatus": 200,
+            "contentType": "image/jpeg",
+            "destinationTitle": "",
+            "access": "Imagem acessível; atribuição e correspondência ainda requerem conferência visual."
+          }
         },
         {
           "stage": 1,
@@ -176,7 +359,15 @@
           "sourcePage": 2,
           "title": "Toca da Entrada do Baixão da Vaca, Parque Nacional da Serra da Capivara, Piauí",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.researchgate.net/profile/Daniela-Cisneiros/publication/344785200/figure/fig2/AS:949062585032705@1603285561319/Figura-5-Toca-da-Entrada-do-Baixao-da-Vaca-Parque-Nacional-Serra-da-Capivara-PI-Foto.jpg"
+          "url": "https://www.researchgate.net/profile/Daniela-Cisneiros/publication/344785200/figure/fig2/AS:949062585032705@1603285561319/Figura-5-Toca-da-Entrada-do-Baixao-da-Vaca-Parque-Nacional-Serra-da-Capivara-PI-Foto.jpg",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_4",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.researchgate.net/profile/Daniela-Cisneiros/publication/344785200/figure/fig2/AS:949062585032705@1603285561319/Figura-5-Toca-da-Entrada-do-Baixao-da-Vaca-Parque-Nacional-Serra-da-Capivara-PI-Foto.jpg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 403: Forbidden"
+          }
         },
         {
           "stage": 1,
@@ -186,7 +377,15 @@
           "sourcePage": 2,
           "title": "Ourives trabalhando, Tumba 181, Vale dos Nobres, Sheikh Abd el-Qurna, Egito",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://commons.wikimedia.org/wiki/File:Maler_der_Grabkammer_der_Bildhauer_Nebamun_und_Ipuki_004.jpg#mw-jump-to-license"
+          "url": "https://commons.wikimedia.org/wiki/File:Maler_der_Grabkammer_der_Bildhauer_Nebamun_und_Ipuki_004.jpg#mw-jump-to-license",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_5",
+            "date": "2026-10-28",
+            "requestedUrl": "https://commons.wikimedia.org/wiki/File:Maler_der_Grabkammer_der_Bildhauer_Nebamun_und_Ipuki_004.jpg#mw-jump-to-license",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 403: Forbidden"
+          }
         },
         {
           "stage": 1,
@@ -196,7 +395,15 @@
           "sourcePage": 2,
           "title": "Laocoonte e seus filhos, autoria atribuída a Agesandro, Atenodoro e Polidoro, Vaticano, Itália.",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/Grupo_de_Laocoonte#/media/Ficheiro:Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg"
+          "url": "https://pt.wikipedia.org/wiki/Grupo_de_Laocoonte#/media/Ficheiro:Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_6",
+            "date": "2026-10-28",
+            "requestedUrl": "https://pt.wikipedia.org/wiki/Grupo_de_Laocoonte#/media/Ficheiro:Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 403: Forbidden"
+          }
         },
         {
           "stage": 1,
@@ -206,7 +413,15 @@
           "sourcePage": 3,
           "title": "Coliseu ou Anfiteatro Flaviano, Roma, Itália",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/Coliseu#/media/Ficheiro:Colosseo_2020.jpg"
+          "url": "https://pt.wikipedia.org/wiki/Coliseu#/media/Ficheiro:Colosseo_2020.jpg",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_7",
+            "date": "2026-10-28",
+            "requestedUrl": "https://pt.wikipedia.org/wiki/Coliseu#/media/Ficheiro:Colosseo_2020.jpg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 403: Forbidden"
+          }
         },
         {
           "stage": 1,
@@ -216,7 +431,15 @@
           "sourcePage": 3,
           "title": "Mosaico de Teodora, Basílica de San Vitale, Ravena, Itália",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/Ficheiro:Mosaic_of_Theodora_-_Basilica_San_Vitale_%28Ravenna,_Italy%29.jpg"
+          "url": "https://pt.wikipedia.org/wiki/Ficheiro:Mosaic_of_Theodora_-_Basilica_San_Vitale_%28Ravenna,_Italy%29.jpg",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_8",
+            "date": "2026-10-28",
+            "requestedUrl": "https://pt.wikipedia.org/wiki/Ficheiro:Mosaic_of_Theodora_-_Basilica_San_Vitale_%28Ravenna,_Italy%29.jpg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 403: Forbidden"
+          }
         },
         {
           "stage": 1,
@@ -226,7 +449,15 @@
           "sourcePage": 3,
           "title": "Juízo Final, Giorgio Vasari e Federico Zuccari - afresco na cúpula da Catedral de Santa Maria del Fiore, Florença, Itália",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://en.wikipedia.org/wiki/The_Last_Judgement_(Vasari_and_Zuccari)#/media/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg"
+          "url": "https://en.wikipedia.org/wiki/The_Last_Judgement_(Vasari_and_Zuccari)#/media/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_9",
+            "date": "2026-10-28",
+            "requestedUrl": "https://en.wikipedia.org/wiki/The_Last_Judgement_(Vasari_and_Zuccari)#/media/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 403: Forbidden"
+          }
         },
         {
           "stage": 1,
@@ -236,7 +467,15 @@
           "sourcePage": 3,
           "title": "Cúpula da Catedral Santa Maria del Fiori, Filippo Brunelleschi, Florença, Itália",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/C%C3%BApula_de_Santa_Maria_del_Fiore#/media/Ficheiro:Florence_duomo_fc10.jpg"
+          "url": "https://pt.wikipedia.org/wiki/C%C3%BApula_de_Santa_Maria_del_Fiore#/media/Ficheiro:Florence_duomo_fc10.jpg",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_10",
+            "date": "2026-10-28",
+            "requestedUrl": "https://pt.wikipedia.org/wiki/C%C3%BApula_de_Santa_Maria_del_Fiore#/media/Ficheiro:Florence_duomo_fc10.jpg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 403: Forbidden"
+          }
         },
         {
           "stage": 1,
@@ -246,7 +485,15 @@
           "sourcePage": 3,
           "title": "Igreja de São Jorge, Lalibela, Etiópia",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Jorge_(Lalibela)"
+          "url": "https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Jorge_(Lalibela)",
+          "technicalReview": {
+            "id": "pas1_artes_visuais_11",
+            "date": "2026-10-28",
+            "requestedUrl": "https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Jorge_(Lalibela)",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 403: Forbidden"
+          }
         },
         {
           "stage": 1,
@@ -255,8 +502,20 @@
           "id": "pas1_audiovisual_1",
           "sourcePage": 3,
           "title": "Guerras do Brasil – Episódio 1: as guerras de conquista, Luiz Bolognesi",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=1C7eQBl6_pk"
+          "status": "Título e canal consultados em 28/10/2026: GUERRAS DO BRASIL.DOC - Ep. 1: As guerras da conquista. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=1C7eQBl6_pk",
+          "technicalReview": {
+            "id": "pas1_audiovisual_1",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=1C7eQBl6_pk",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1C7eQBl6_pk",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "GUERRAS DO BRASIL.DOC - Ep. 1: As guerras da conquista",
+            "channel": "MPA Brasil",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -265,8 +524,20 @@
           "id": "pas1_audiovisual_2",
           "sourcePage": 3,
           "title": "Abuela Grillo, Denis Chacon",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=hSltkjA9I_c"
+          "status": "Título e canal consultados em 28/10/2026: 🦗💧🌱Abuela Grillo. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=hSltkjA9I_c",
+          "technicalReview": {
+            "id": "pas1_audiovisual_2",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=hSltkjA9I_c",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhSltkjA9I_c",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "🦗💧🌱Abuela Grillo",
+            "channel": "FNAB Morelos",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -275,8 +546,20 @@
           "id": "pas1_audiovisual_3",
           "sourcePage": 3,
           "title": "América Latina, Fábio Brazz",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=a0nz2Gm9BPY"
+          "status": "Título e canal consultados em 28/10/2026: Fabio Brazza - América Latina (DVD Colírio da Cólera). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=a0nz2Gm9BPY",
+          "technicalReview": {
+            "id": "pas1_audiovisual_3",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=a0nz2Gm9BPY",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da0nz2Gm9BPY",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Fabio Brazza - América Latina (DVD Colírio da Cólera)",
+            "channel": "Fabio Brazza",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -285,8 +568,20 @@
           "id": "pas1_audiovisual_4",
           "sourcePage": 3,
           "title": "Nego Bispo, roteiro de Victor Dias, série Trajetórias, Itaú Cultural",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=Tqt9BnrolFg"
+          "status": "Título e canal consultados em 28/10/2026: Nego Bispo – Trajetórias. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=Tqt9BnrolFg",
+          "technicalReview": {
+            "id": "pas1_audiovisual_4",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=Tqt9BnrolFg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTqt9BnrolFg",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Nego Bispo – Trajetórias",
+            "channel": "Itaú Cultural",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -295,8 +590,20 @@
           "id": "pas1_audiovisual_5",
           "sourcePage": 3,
           "title": "Clima de Risco, Eduardo Rajabally, TV Cultura",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=G0_mdo4w3WI&t=450s"
+          "status": "Título e canal consultados em 28/10/2026: Documentário | CLIMA DE RISCO - 22/01/2025. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=G0_mdo4w3WI&t=450s",
+          "technicalReview": {
+            "id": "pas1_audiovisual_5",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=G0_mdo4w3WI&t=450s",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG0_mdo4w3WI%26t%3D450s",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Documentário | CLIMA DE RISCO - 22/01/2025",
+            "channel": "TV Cultura",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -305,8 +612,20 @@
           "id": "pas1_audiovisual_6",
           "sourcePage": 3,
           "title": "GPS, como funciona, JAES Company Português",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=qzOA41vA8Qw"
+          "status": "Título e canal consultados em 28/10/2026: GPS, Como funciona?. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=qzOA41vA8Qw",
+          "technicalReview": {
+            "id": "pas1_audiovisual_6",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=qzOA41vA8Qw",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqzOA41vA8Qw",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "GPS, Como funciona?",
+            "channel": "JAES Company Português",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -315,8 +634,20 @@
           "id": "pas1_audiovisual_7",
           "sourcePage": 3,
           "title": "A física da corrida (Nerdologia), Átila Iamarino",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=KHpPlcy4o4w"
+          "status": "Título e canal consultados em 28/10/2026: A Física da Corrida | Nerdologia. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=KHpPlcy4o4w",
+          "technicalReview": {
+            "id": "pas1_audiovisual_7",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=KHpPlcy4o4w",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKHpPlcy4o4w",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "A Física da Corrida | Nerdologia",
+            "channel": "Nerdologia",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -325,8 +656,20 @@
           "id": "pas1_audiovisual_8",
           "sourcePage": 3,
           "title": "Falas da Terra, roteiro de Antonia Prado, Felipe Herzog, Daniel Munduruku, Micheline Alves e Veronica Debom, Globo Filmes",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=BdDpp6USz5Y"
+          "status": "Título e canal consultados em 28/10/2026: Falas da Terra  - Documentário Completo (HD). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=BdDpp6USz5Y",
+          "technicalReview": {
+            "id": "pas1_audiovisual_8",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=BdDpp6USz5Y",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBdDpp6USz5Y",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Falas da Terra  - Documentário Completo (HD)",
+            "channel": "Rubens Rocha",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -335,8 +678,20 @@
           "id": "pas1_audiovisual_9",
           "sourcePage": 3,
           "title": "Terraplanismo, pós-verdade e as promessas não cumpridas da modernidade, Mariana Alvim, TEDx Goiânia",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=wiBJkDO2qlM"
+          "status": "Título e canal consultados em 28/10/2026: Terraplanismo, Pós-Verdade e as promessas não cumpridas da modernidade | Mariana Alvim | TEDxGoiânia. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=wiBJkDO2qlM",
+          "technicalReview": {
+            "id": "pas1_audiovisual_9",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=wiBJkDO2qlM",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwiBJkDO2qlM",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Terraplanismo, Pós-Verdade e as promessas não cumpridas da modernidade | Mariana Alvim | TEDxGoiânia",
+            "channel": "TEDx Talks",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 1,
@@ -379,7 +734,18 @@
           "sourcePage": 4,
           "title": "Biólogo e quadrinista transformam artigo científico sobre o ciclo de vida dos insetos em história em quadrinhos, Ana Carolina Moreno; Luciano Queiroz e Marco Merlin (Reportagem e HQ)",
           "status": "Link indicado pela lista oficial; portal G1 não permitiu abertura nesta consulta. Conferência via navegador pendente.",
-          "url": "https://g1.globo.com/ciencia-e-saude/noticia/2019/02/20/biologo-e-quadrinista-transformam-artigo-cientifico-sobre-o-ciclo-de-vida-dos-insetos-em-historia-em-quadrinhos.ghtml"
+          "url": "https://g1.globo.com/ciencia-e-saude/noticia/2019/02/20/biologo-e-quadrinista-transformam-artigo-cientifico-sobre-o-ciclo-de-vida-dos-insetos-em-historia-em-quadrinhos.ghtml",
+          "technicalReview": {
+            "id": "pas1_textos_4",
+            "date": "2026-10-28",
+            "requestedUrl": "https://g1.globo.com/ciencia-e-saude/noticia/2019/02/20/biologo-e-quadrinista-transformam-artigo-cientifico-sobre-o-ciclo-de-vida-dos-insetos-em-historia-em-quadrinhos.ghtml",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://g1.globo.com/ciencia-e-saude/noticia/2019/02/20/biologo-e-quadrinista-transformam-artigo-cientifico-sobre-o-ciclo-de-vida-dos-insetos-em-historia-em-quadrinhos.ghtml",
+            "httpStatus": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "destinationTitle": "Biólogo e quadrinista transformam artigo científico sobre o ciclo de vida dos insetos em história em quadrinhos | G1",
+            "access": "Página de bloqueio ou verificação; acesso não confirmado."
+          }
         },
         {
           "stage": 1,
@@ -493,7 +859,15 @@
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
           "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
           "catalogId": "cf88_atual",
-          "catalogNote": "Referência disponível na estante."
+          "catalogNote": "Referência disponível na estante.",
+          "technicalReview": {
+            "id": "pas1_textos_14",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "The read operation timed out"
+          }
         },
         {
           "stage": 1,
@@ -1039,7 +1413,15 @@
           "url": "https://drive.google.com/file/d/1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD/view",
           "collection": true,
           "catalogId": "original_2",
-          "catalogNote": "Texto em coletânea do catálogo; confira o sumário e o recorte."
+          "catalogNote": "Texto em coletânea do catálogo; confira o sumário e o recorte.",
+          "technicalReview": {
+            "id": "pas2_literatura_10",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD/view",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         },
         {
           "stage": 2,
@@ -1052,7 +1434,15 @@
           "url": "https://drive.google.com/file/d/1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD/view",
           "collection": true,
           "catalogId": "cam_memorias-postumas-de-bras-cubas",
-          "catalogNote": "Referência disponível na estante."
+          "catalogNote": "Referência disponível na estante.",
+          "technicalReview": {
+            "id": "pas2_literatura_11",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD/view",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         },
         {
           "stage": 2,
@@ -1078,7 +1468,15 @@
           "url": "https://drive.google.com/file/d/1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD/view",
           "collection": true,
           "catalogId": "original_2",
-          "catalogNote": "Texto em coletânea do catálogo; confira o sumário e o recorte."
+          "catalogNote": "Texto em coletânea do catálogo; confira o sumário e o recorte.",
+          "technicalReview": {
+            "id": "pas2_literatura_13",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD/view",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         },
         {
           "stage": 2,
@@ -1091,7 +1489,17 @@
           "url": "https://drive.google.com/file/d/1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD/view",
           "collection": true,
           "catalogId": "cam_ursula-e-outras-obras",
-          "catalogNote": "Texto em coletânea do catálogo; confira o sumário e o recorte."
+          "catalogNote": "Texto em coletânea do catálogo; confira o sumário e o recorte.",
+          "technicalReview": {
+            "id": "pas2_literatura_14",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD/view",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          },
+          "alternateUrl": "https://bd.camara.leg.br/bd/items/960f005d-58f7-448b-bc6e-f11fc774023a",
+          "note": "Alternativa oficial: Úrsula e outras obras, Edições Câmara, cujo registro confirma a inclusão de A escrava. https://bd.camara.leg.br/bd/items/960f005d-58f7-448b-bc6e-f11fc774023a"
         },
         {
           "stage": 2,
@@ -1102,7 +1510,18 @@
           "title": "A cidade é uma só? Adirley Queirós, 2020",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
           "url": "https://vimeo.com/37568402",
-          "note": "O documento oficial informa a senha de acesso: FOGONELESCEI."
+          "note": "O documento oficial informa a senha de acesso: FOGONELESCEI.",
+          "technicalReview": {
+            "id": "pas2_audiovisual_1",
+            "date": "2026-10-28",
+            "requestedUrl": "https://vimeo.com/37568402",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://vimeo.com/37568402",
+            "httpStatus": 200,
+            "contentType": "text/html; charset=utf-8",
+            "destinationTitle": "Video on Vimeo",
+            "access": "Página de bloqueio ou verificação; acesso não confirmado."
+          }
         },
         {
           "stage": 2,
@@ -1111,8 +1530,20 @@
           "id": "pas2_audiovisual_2",
           "sourcePage": 6,
           "title": "Quilombos do século XXI, Rádio e TV Justiça, 2019.",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=CNhqvWJjGII"
+          "status": "Título e canal consultados em 28/10/2026: 🎥 Documentário - Quilombos do século XXI. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=CNhqvWJjGII",
+          "technicalReview": {
+            "id": "pas2_audiovisual_2",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=CNhqvWJjGII",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCNhqvWJjGII",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "🎥 Documentário - Quilombos do século XXI",
+            "channel": "Rádio e TV Justiça",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1121,8 +1552,20 @@
           "id": "pas2_audiovisual_3",
           "sourcePage": 6,
           "title": "Histórias da fome no Brasil, ONU Brasil, 2019.",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=k-dnlpn1erQ"
+          "status": "Título e canal consultados em 28/10/2026: Documentário: Histórias da Fome no Brasil. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=k-dnlpn1erQ",
+          "technicalReview": {
+            "id": "pas2_audiovisual_3",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=k-dnlpn1erQ",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk-dnlpn1erQ",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Documentário: Histórias da Fome no Brasil",
+            "channel": "ONU Brasil",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1131,8 +1574,20 @@
           "id": "pas2_audiovisual_4",
           "sourcePage": 6,
           "title": "Amazônia sem garimpo Animação (Narração em Yanomami). Canal ciência e poesia (Direção, produção e roteiro: ThiagoCarvalho)",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=6o_fyNphgMU"
+          "status": "Título e canal consultados em 28/10/2026: Amazônia Sem Garimpo - Animação (Narração em Yanomami). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=6o_fyNphgMU",
+          "technicalReview": {
+            "id": "pas2_audiovisual_4",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=6o_fyNphgMU",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6o_fyNphgMU",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Amazônia Sem Garimpo - Animação (Narração em Yanomami)",
+            "channel": "Ciência e Poesia",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1141,8 +1596,20 @@
           "id": "pas2_audiovisual_5",
           "sourcePage": 6,
           "title": "Eu só peço a Deus, Inquérito, 2015",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=GJpvK7CjIvo"
+          "status": "Título e canal consultados em 28/10/2026: INQUÉRITO | Eu Só Peço a Deus - CLIPE OFICIAL. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=GJpvK7CjIvo",
+          "technicalReview": {
+            "id": "pas2_audiovisual_5",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=GJpvK7CjIvo",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGJpvK7CjIvo",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "INQUÉRITO | Eu Só Peço a Deus - CLIPE OFICIAL",
+            "channel": "Renan Inquérito",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1151,8 +1618,20 @@
           "id": "pas2_audiovisual_6",
           "sourcePage": 6,
           "title": "Vinte ideias para girar o mundo, Ailton Krenak, 2012",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=f48HAu0bNPc&feature=youtu.be"
+          "status": "Título e canal consultados em 28/10/2026: 20 ideias para girar o mundo -- Ailton Krenak. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=f48HAu0bNPc&feature=youtu.be",
+          "technicalReview": {
+            "id": "pas2_audiovisual_6",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=f48HAu0bNPc&feature=youtu.be",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Df48HAu0bNPc%26feature%3Dyoutu.be",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "20 ideias para girar o mundo -- Ailton Krenak",
+            "channel": "20ideias",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1161,8 +1640,20 @@
           "id": "pas2_audiovisual_7",
           "sourcePage": 6,
           "title": "Como se espalham as notícias falsas, Noah Tavlin, 2015",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=cSKGa_7XJkg"
+          "status": "Título e canal consultados em 28/10/2026: How false news can spread - Noah Tavlin. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=cSKGa_7XJkg",
+          "technicalReview": {
+            "id": "pas2_audiovisual_7",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=cSKGa_7XJkg",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcSKGa_7XJkg",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "How false news can spread - Noah Tavlin",
+            "channel": "TED-Ed",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1171,8 +1662,20 @@
           "id": "pas2_audiovisual_8",
           "sourcePage": 6,
           "title": "Artes & Matemática - Música nas esferas, TV Escola.",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?app=desktop&v=lVmuC9w8Iis&list=PL-j7c0qbu3cfR5VTdcsHu_t7kN3kK_Dvh&index=7"
+          "status": "Título e canal consultados em 28/10/2026: Arte & Matemática - 07 - Música Nas Esferas. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?app=desktop&v=lVmuC9w8Iis&list=PL-j7c0qbu3cfR5VTdcsHu_t7kN3kK_Dvh&index=7",
+          "technicalReview": {
+            "id": "pas2_audiovisual_8",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?app=desktop&v=lVmuC9w8Iis&list=PL-j7c0qbu3cfR5VTdcsHu_t7kN3kK_Dvh&index=7",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fapp%3Ddesktop%26v%3DlVmuC9w8Iis%26list%3DPL-j7c0qbu3cfR5VTdcsHu_t7kN3kK_Dvh%26index%3D7",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Arte & Matemática - 07 - Música Nas Esferas",
+            "channel": "somatematicaa",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1181,8 +1684,20 @@
           "id": "pas2_audiovisual_9",
           "sourcePage": 7,
           "title": "Como se calcula a taxa de eficácia de uma vacina, e por que não devemos compará-las, 2021.",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=cXAmON3su64"
+          "status": "Título e canal consultados em 28/10/2026: Como se calcula a taxa de eficácia de uma vacina, e por que não devemos compará-las | FOLHA EXPLICA. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=cXAmON3su64",
+          "technicalReview": {
+            "id": "pas2_audiovisual_9",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=cXAmON3su64",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcXAmON3su64",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Como se calcula a taxa de eficácia de uma vacina, e por que não devemos compará-las | FOLHA EXPLICA",
+            "channel": "Folha de S.Paulo",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1191,8 +1706,20 @@
           "id": "pas2_audiovisual_10",
           "sourcePage": 7,
           "title": "Entenda de vez como funciona o motor do carro! Manual do mundo, 2015.",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=Ul1XuiJE0Dw"
+          "status": "Título e canal consultados em 28/10/2026: Entenda de vez COMO FUNCIONA O MOTOR DO CARRO!. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=Ul1XuiJE0Dw",
+          "technicalReview": {
+            "id": "pas2_audiovisual_10",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=Ul1XuiJE0Dw",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUl1XuiJE0Dw",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Entenda de vez COMO FUNCIONA O MOTOR DO CARRO!",
+            "channel": "Manual do Mundo",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1201,8 +1728,21 @@
           "id": "pas2_musica_1",
           "sourcePage": 8,
           "title": "Frevo Mulher, Zé Ramalho, 2017.",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=uzBYDbVq_Yk"
+          "status": "Correspondência com a referência do PAS pendente.",
+          "url": "https://www.youtube.com/watch?v=uzBYDbVq_Yk",
+          "technicalReview": {
+            "id": "pas2_musica_1",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=uzBYDbVq_Yk",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuzBYDbVq_Yk",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Alceu Valença, Elba Ramalho, Geraldo Azevedo - Frevo Mulher (Ao Vivo)",
+            "channel": "GrandeEncontroVEVO",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          },
+          "note": "Divergência a conferir: a lista identifica Zé Ramalho (2017), mas o título do vídeo vinculado apresenta Alceu Valença, Elba Ramalho e Geraldo Azevedo — Frevo Mulher (Ao Vivo)."
         },
         {
           "stage": 2,
@@ -1211,8 +1751,20 @@
           "id": "pas2_musica_2",
           "sourcePage": 8,
           "title": "O Rappa. Súplica Cearense (Clipe Oficial),2012",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=F19PnbWigSA"
+          "status": "Título e canal consultados em 28/10/2026: O Rappa - Súplica Cearense (Clipe Oficial). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=F19PnbWigSA",
+          "technicalReview": {
+            "id": "pas2_musica_2",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=F19PnbWigSA",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DF19PnbWigSA",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "O Rappa - Súplica Cearense (Clipe Oficial)",
+            "channel": "O Rappa",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1221,8 +1773,20 @@
           "id": "pas2_musica_3",
           "sourcePage": 8,
           "title": "Ária Habanera da Ópera Carmen, Janette Dornellas, 2022",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=29t094KGoSU"
+          "status": "Título e canal consultados em 28/10/2026: Janette Dornellas - ária Habanera da ópera Carmen. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=29t094KGoSU",
+          "technicalReview": {
+            "id": "pas2_musica_3",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=29t094KGoSU",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D29t094KGoSU",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Janette Dornellas - ária Habanera da ópera Carmen",
+            "channel": "Janette Dornellas - Casa da Cultura Brasilia",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1231,8 +1795,20 @@
           "id": "pas2_musica_4",
           "sourcePage": 8,
           "title": "Matança, 2020.",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=Jp-88dzs1bM"
+          "status": "Título e canal consultados em 28/10/2026: MATANÇA - Xangai e Geraldo Azevedo. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=Jp-88dzs1bM",
+          "technicalReview": {
+            "id": "pas2_musica_4",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=Jp-88dzs1bM",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJp-88dzs1bM",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "MATANÇA - Xangai e Geraldo Azevedo",
+            "channel": "Kuarup Produtora",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1241,8 +1817,20 @@
           "id": "pas2_musica_5",
           "sourcePage": 8,
           "title": "Concerto para violoncelo nº 1 em dó maior - 1º movimento música",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=JGBZIfaxfrM"
+          "status": "Título e canal consultados em 28/10/2026: Haydn: 1. Cellokonzert C-Dur ∙ hr-Sinfonieorchester ∙ Bruno Philippe ∙ Christoph Eschenbach. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=JGBZIfaxfrM",
+          "technicalReview": {
+            "id": "pas2_musica_5",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=JGBZIfaxfrM",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJGBZIfaxfrM",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Haydn: 1. Cellokonzert C-Dur ∙ hr-Sinfonieorchester ∙ Bruno Philippe ∙ Christoph Eschenbach",
+            "channel": "hr-Sinfonieorchester – Frankfurt Radio Symphony",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1251,8 +1839,20 @@
           "id": "pas2_musica_6",
           "sourcePage": 8,
           "title": "A queda, Gloria Groove, 2021.",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=BpxrvcYDnf4"
+          "status": "Título e canal consultados em 28/10/2026: GLORIA GROOVE - A QUEDA (CLIPE OFICIAL). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=BpxrvcYDnf4",
+          "technicalReview": {
+            "id": "pas2_musica_6",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=BpxrvcYDnf4",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBpxrvcYDnf4",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "GLORIA GROOVE - A QUEDA (CLIPE OFICIAL)",
+            "channel": "Gloria Groove",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 2,
@@ -1286,7 +1886,15 @@
           "sourcePage": 10,
           "title": "Estação Capela da Santa Ceia, Aleijadinho",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1piZUvKkl6Ro-OQo5Fm3vx_c-1DtwMX6p/view"
+          "url": "https://drive.google.com/file/d/1piZUvKkl6Ro-OQo5Fm3vx_c-1DtwMX6p/view",
+          "technicalReview": {
+            "id": "pas2_artes_visuais_1",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1piZUvKkl6Ro-OQo5Fm3vx_c-1DtwMX6p/view",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         },
         {
           "stage": 2,
@@ -1296,7 +1904,15 @@
           "sourcePage": 10,
           "title": "Suzana e os anciãos, Artemisia Gentileschi , 1610.",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1GPnIMfvfOVg5EmH6O2mOB5cHZi0yyJ-T/view"
+          "url": "https://drive.google.com/file/d/1GPnIMfvfOVg5EmH6O2mOB5cHZi0yyJ-T/view",
+          "technicalReview": {
+            "id": "pas2_artes_visuais_2",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1GPnIMfvfOVg5EmH6O2mOB5cHZi0yyJ-T/view",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         },
         {
           "stage": 2,
@@ -1306,7 +1922,15 @@
           "sourcePage": 10,
           "title": "Execução de punição e açoitamento, Jean-Baptiste Debret,1830",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1OVp8rhP1KOv4D5CL04ZaIYZC7oHdEWlI/view"
+          "url": "https://drive.google.com/file/d/1OVp8rhP1KOv4D5CL04ZaIYZC7oHdEWlI/view",
+          "technicalReview": {
+            "id": "pas2_artes_visuais_3",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1OVp8rhP1KOv4D5CL04ZaIYZC7oHdEWlI/view",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         },
         {
           "stage": 2,
@@ -1316,7 +1940,15 @@
           "sourcePage": 10,
           "title": "Torre Eiffel, Georges Seraut, 1889.",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1K87oQoadSWw9VZwR-Zpzs_oZ9xKhQzwB/view"
+          "url": "https://drive.google.com/file/d/1K87oQoadSWw9VZwR-Zpzs_oZ9xKhQzwB/view",
+          "technicalReview": {
+            "id": "pas2_artes_visuais_4",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1K87oQoadSWw9VZwR-Zpzs_oZ9xKhQzwB/view",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         },
         {
           "stage": 2,
@@ -1326,7 +1958,15 @@
           "sourcePage": 10,
           "title": "A balsa da medusa, Théodore Géricault.",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1xSgJ0RFADv2IoNYtgtLbX4bHoAPfOY0m/view"
+          "url": "https://drive.google.com/file/d/1xSgJ0RFADv2IoNYtgtLbX4bHoAPfOY0m/view",
+          "technicalReview": {
+            "id": "pas2_artes_visuais_5",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1xSgJ0RFADv2IoNYtgtLbX4bHoAPfOY0m/view",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         }
       ]
     },
@@ -1734,8 +2374,20 @@
           "id": "pas3_audiovisual_1",
           "sourcePage": 6,
           "title": "Eclipse de Sobral: O dia em que o Brasil ajudou a confirmar a teoria da relatividade de Einstein",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=upkhZui15nk"
+          "status": "Título e canal consultados em 28/10/2026: Eclipse de Sobral: O dia em que o Brasil ajudou a confirmar a teoria da relatividade de Einstein. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=upkhZui15nk",
+          "technicalReview": {
+            "id": "pas3_audiovisual_1",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=upkhZui15nk",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DupkhZui15nk",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Eclipse de Sobral: O dia em que o Brasil ajudou a confirmar a teoria da relatividade de Einstein",
+            "channel": "BBC News Brasil",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1744,8 +2396,20 @@
           "id": "pas3_audiovisual_2",
           "sourcePage": 6,
           "title": "Como funciona o algoritmo Matemático do Google",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?app=desktop&v=y4ArAo8c73Y"
+          "status": "Título e canal consultados em 28/10/2026: PageRank: COMO funciona o ALGORITMO Matemático do GOOGLE. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?app=desktop&v=y4ArAo8c73Y",
+          "technicalReview": {
+            "id": "pas3_audiovisual_2",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?app=desktop&v=y4ArAo8c73Y",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fapp%3Ddesktop%26v%3Dy4ArAo8c73Y",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "PageRank: COMO funciona o ALGORITMO Matemático do GOOGLE",
+            "channel": "Tem Ciência",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1754,8 +2418,21 @@
           "id": "pas3_audiovisual_3",
           "sourcePage": 6,
           "title": "A mágica do GPS: Professor Albert e a Ciência da Natureza",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?app=desktop&v=OsYU0xPXsgA"
+          "status": "Correspondência com a referência do PAS pendente.",
+          "url": "https://www.youtube.com/watch?app=desktop&v=OsYU0xPXsgA",
+          "technicalReview": {
+            "id": "pas3_audiovisual_3",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?app=desktop&v=OsYU0xPXsgA",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fapp%3Ddesktop%26v%3DOsYU0xPXsgA",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Como o GPS Sabe Onde Você Está? | Vídeo Educativo de Geografia e Tecnologia",
+            "channel": "Professor Albert",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          },
+          "note": "Divergência a conferir: o vídeo vinculado se intitula Como o GPS Sabe Onde Você Está? | Vídeo Educativo de Geografia e Tecnologia, diferente do título da lista."
         },
         {
           "stage": 3,
@@ -1764,8 +2441,20 @@
           "id": "pas3_audiovisual_4",
           "sourcePage": 6,
           "title": "A (verdadeira) origem dos números complexos",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=rApYX4n8ut4"
+          "status": "Título e canal consultados em 28/10/2026: A (VERDADEIRA) ORIGEM dos NÚMEROS COMPLEXOS. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=rApYX4n8ut4",
+          "technicalReview": {
+            "id": "pas3_audiovisual_4",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=rApYX4n8ut4",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrApYX4n8ut4",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "A (VERDADEIRA) ORIGEM dos NÚMEROS COMPLEXOS",
+            "channel": "Tem Ciência",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1774,8 +2463,20 @@
           "id": "pas3_audiovisual_5",
           "sourcePage": 6,
           "title": "Barra 68: Sem Perder a Ternura",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://youtu.be/nzq9l3Eu7i4?si=exB3wEZmT1JGNLU3"
+          "status": "Título e canal consultados em 28/10/2026: Barra 68 - Sem Perder a Ternura. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://youtu.be/nzq9l3Eu7i4?si=exB3wEZmT1JGNLU3",
+          "technicalReview": {
+            "id": "pas3_audiovisual_5",
+            "date": "2026-10-28",
+            "requestedUrl": "https://youtu.be/nzq9l3Eu7i4?si=exB3wEZmT1JGNLU3",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fyoutu.be%2Fnzq9l3Eu7i4%3Fsi%3DexB3wEZmT1JGNLU3",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Barra 68 - Sem Perder a Ternura",
+            "channel": "Disciplina Darcy Ribeiro UnB - Darcyflix",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1784,8 +2485,20 @@
           "id": "pas3_audiovisual_6",
           "sourcePage": 6,
           "title": "Unicef: algumas histórias nunca foram feitas para crianças",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://youtu.be/TC2HgC_ecjg?si=mpPHSrfbqJCnzhFl"
+          "status": "Título e canal consultados em 28/10/2026: UNICEF: Algumas histórias nunca foram feitas para crianças. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://youtu.be/TC2HgC_ecjg?si=mpPHSrfbqJCnzhFl",
+          "technicalReview": {
+            "id": "pas3_audiovisual_6",
+            "date": "2026-10-28",
+            "requestedUrl": "https://youtu.be/TC2HgC_ecjg?si=mpPHSrfbqJCnzhFl",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fyoutu.be%2FTC2HgC_ecjg%3Fsi%3DmpPHSrfbqJCnzhFl",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "UNICEF: Algumas histórias nunca foram feitas para crianças",
+            "channel": "ONU Brasil",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1794,8 +2507,20 @@
           "id": "pas3_audiovisual_7",
           "sourcePage": 6,
           "title": "Mulamba.",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=353TNXIcUrA"
+          "status": "Título e canal consultados em 28/10/2026: Mulamba - Mulamba (Videoclipe Oficial). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=353TNXIcUrA",
+          "technicalReview": {
+            "id": "pas3_audiovisual_7",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=353TNXIcUrA",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D353TNXIcUrA",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Mulamba - Mulamba (Videoclipe Oficial)",
+            "channel": "Mulamba Oficial",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1804,8 +2529,20 @@
           "id": "pas3_audiovisual_8",
           "sourcePage": 6,
           "title": "Racismo ambiental: entenda essa luta",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=RcW865uK1L8&t=3s"
+          "status": "Título e canal consultados em 28/10/2026: RACISMO AMBIENTAL - ENTENDA ESSA LUTA. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=RcW865uK1L8&t=3s",
+          "technicalReview": {
+            "id": "pas3_audiovisual_8",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=RcW865uK1L8&t=3s",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRcW865uK1L8%26t%3D3s",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "RACISMO AMBIENTAL - ENTENDA ESSA LUTA",
+            "channel": "Canal Preto",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1814,8 +2551,20 @@
           "id": "pas3_musica_1",
           "sourcePage": 7,
           "title": "Caravanas Chico Buarque",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=6TtjniGQqAc"
+          "status": "Título e canal consultados em 28/10/2026: Chico Buarque - \"As Caravanas\" (Vídeo Oficial). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=6TtjniGQqAc",
+          "technicalReview": {
+            "id": "pas3_musica_1",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=6TtjniGQqAc",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6TtjniGQqAc",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Chico Buarque - \"As Caravanas\" (Vídeo Oficial)",
+            "channel": "Biscoito Fino",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1824,8 +2573,20 @@
           "id": "pas3_musica_2",
           "sourcePage": 7,
           "title": "Negro Drama Racionais MC’s",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=u4lcUooNNLY"
+          "status": "Título e canal consultados em 28/10/2026: Negro Drama - Nada Como Um Dia Após O Outro Dia (Chora Agora). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=u4lcUooNNLY",
+          "technicalReview": {
+            "id": "pas3_musica_2",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=u4lcUooNNLY",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Du4lcUooNNLY",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Negro Drama - Nada Como Um Dia Após O Outro Dia (Chora Agora)",
+            "channel": "Racionais TV",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1834,8 +2595,20 @@
           "id": "pas3_musica_3",
           "sourcePage": 7,
           "title": "Sagração da Primavera Stravinsky, versão Pina Bausch",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=nd_ZCuqYdVE"
+          "status": "Título e canal consultados em 28/10/2026: \"A Sagração da Primavera\", por Pina Bausch. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=nd_ZCuqYdVE",
+          "technicalReview": {
+            "id": "pas3_musica_3",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=nd_ZCuqYdVE",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dnd_ZCuqYdVE",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "\"A Sagração da Primavera\", por Pina Bausch",
+            "channel": "Aplauso Brasil TV",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1844,8 +2617,20 @@
           "id": "pas3_musica_4",
           "sourcePage": 7,
           "title": "Perfume dela Martinha do Coco",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=tQ2gi71V-Uo"
+          "status": "Título e canal consultados em 28/10/2026: Martinha do Coco - Perfume Dela | Sofar Brasilia. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=tQ2gi71V-Uo",
+          "technicalReview": {
+            "id": "pas3_musica_4",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=tQ2gi71V-Uo",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtQ2gi71V-Uo",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Martinha do Coco - Perfume Dela | Sofar Brasilia",
+            "channel": "Sofar Global Communities",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1854,8 +2639,20 @@
           "id": "pas3_musica_5",
           "sourcePage": 7,
           "title": "Girl from Rio Anitta",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=CuyTC8FLICY"
+          "status": "Título e canal consultados em 28/10/2026: Anitta - Girl From Rio (Official Music Video). Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=CuyTC8FLICY",
+          "technicalReview": {
+            "id": "pas3_musica_5",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=CuyTC8FLICY",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCuyTC8FLICY",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Anitta - Girl From Rio (Official Music Video)",
+            "channel": "Anitta",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1864,8 +2661,20 @@
           "id": "pas3_musica_6",
           "sourcePage": 7,
           "title": "Meu Guri Chico Buarque, versão Elza Soares",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=SjxqOX5K4R8"
+          "status": "Título e canal consultados em 28/10/2026: Elza Soares - Meu Guri. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=SjxqOX5K4R8",
+          "technicalReview": {
+            "id": "pas3_musica_6",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=SjxqOX5K4R8",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSjxqOX5K4R8",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Elza Soares - Meu Guri",
+            "channel": "Elza Soares",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1874,8 +2683,20 @@
           "id": "pas3_musica_7",
           "sourcePage": 7,
           "title": "Ilumina o Mundo Detonautas",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=znXKYIj_BUs"
+          "status": "Título e canal consultados em 28/10/2026: Detonautas - Ilumina o Mundo (ft. Pelé MilFlows) | ASIGLA. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=znXKYIj_BUs",
+          "technicalReview": {
+            "id": "pas3_musica_7",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=znXKYIj_BUs",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DznXKYIj_BUs",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Detonautas - Ilumina o Mundo (ft. Pelé MilFlows) | ASIGLA",
+            "channel": "Detonautas ",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1888,7 +2709,18 @@
           "url": "https://edisciplinas.usp.br/pluginfile.php/5012806/mod_resource/content/2/ELES%20N%C3%83O%20USAM%20BLACK-TIE%20-%20GUARNIERI.pdf",
           "note": "A USP mantém estudos acadêmicos sobre a peça, mas tais análises não substituem a obra integral. A obra é protegida por direitos autorais; eventual reprodução deve observar a licença da edição utilizada.",
           "alternateUrl": "https://revistas.usp.br/discurso/en/article/view/37961",
-          "alternateLabel": "Ler análise acadêmica de Iná Camargo Costa na USP ↗"
+          "alternateLabel": "Ler análise acadêmica de Iná Camargo Costa na USP ↗",
+          "technicalReview": {
+            "id": "pas3_teatro_1",
+            "date": "2026-10-28",
+            "requestedUrl": "https://edisciplinas.usp.br/pluginfile.php/5012806/mod_resource/content/2/ELES%20N%C3%83O%20USAM%20BLACK-TIE%20-%20GUARNIERI.pdf",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://edisciplinas.usp.br/acessar/",
+            "httpStatus": 200,
+            "contentType": "text/html; charset=utf-8",
+            "destinationTitle": "Moodle USP: e-Disciplinas",
+            "access": "Destino respondeu; conteúdo integral ainda requer conferência."
+          }
         },
         {
           "stage": 3,
@@ -1909,6 +2741,17 @@
             "access": "sem acesso",
             "rights": "Licença de distribuição não identificada; campo Licença vazio na ficha.",
             "error": "Após expandir Baixar a peça e clicar em Download, o navegador exibiu página vazia."
+          },
+          "technicalReview": {
+            "id": "pas3_teatro_2",
+            "date": "2026-10-28",
+            "requestedUrl": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/viewdownload/5-pecas-diversas/101-vestido-de-noiva",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/viewdownload/5-pecas-diversas/101-vestido-de-noiva",
+            "httpStatus": 200,
+            "contentType": "text/html; charset=utf-8",
+            "destinationTitle": "- Peças Diversas - Vestido de Noiva",
+            "access": "Destino respondeu; conteúdo integral ainda requer conferência."
           }
         },
         {
@@ -1930,7 +2773,18 @@
           "sourcePage": 9,
           "title": "Complexo arquitetônico do Palácio Capanema, Rio de Janeiro",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://docs.google.com/document/d/1Vbm61wai5U61i4LqmA6cRKLwb_4jcXIoR7p7Xe74goI/edit?usp=sharing"
+          "url": "https://docs.google.com/document/d/1Vbm61wai5U61i4LqmA6cRKLwb_4jcXIoR7p7Xe74goI/edit?usp=sharing",
+          "technicalReview": {
+            "id": "pas3_artes_visuais_2",
+            "date": "2026-10-28",
+            "requestedUrl": "https://docs.google.com/document/d/1Vbm61wai5U61i4LqmA6cRKLwb_4jcXIoR7p7Xe74goI/edit?usp=sharing",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://docs.google.com/document/d/1Vbm61wai5U61i4LqmA6cRKLwb_4jcXIoR7p7Xe74goI/edit?usp=sharing",
+            "httpStatus": 200,
+            "contentType": "text/html; charset=utf-8",
+            "destinationTitle": "Complexo arquitetônico do Palácio Capanema: arte mural de Portinari, Rio de Janeiro, 1939- 1943 - Google Docs",
+            "access": "Destino respondeu; conteúdo integral ainda requer conferência."
+          }
         },
         {
           "stage": 3,
@@ -1940,7 +2794,15 @@
           "sourcePage": 9,
           "title": "Ciclos Econômicos Cândido Portinari - Complexo arquitetônico do Palácio Capanema, Rio de Janeiro",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1-FGEVnpsgl-XJp1QjwgKd4sE4SpK_sEy/view"
+          "url": "https://drive.google.com/file/d/1-FGEVnpsgl-XJp1QjwgKd4sE4SpK_sEy/view",
+          "technicalReview": {
+            "id": "pas3_artes_visuais_3",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1-FGEVnpsgl-XJp1QjwgKd4sE4SpK_sEy/view",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         },
         {
           "stage": 3,
@@ -1949,8 +2811,20 @@
           "id": "pas3_artes_visuais_4",
           "sourcePage": 9,
           "title": "Transfiguração",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=-MLIcnua1is"
+          "status": "Título e canal consultados em 28/10/2026: Samsara - The angst of Sagazan (Olivier de Sagazan) [HD]. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=-MLIcnua1is",
+          "technicalReview": {
+            "id": "pas3_artes_visuais_4",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=-MLIcnua1is",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-MLIcnua1is",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Samsara - The angst of Sagazan (Olivier de Sagazan) [HD]",
+            "channel": "HΣΛRTS ϴF SPΛCΣ",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1959,8 +2833,20 @@
           "id": "pas3_artes_visuais_5",
           "sourcePage": 9,
           "title": "Sikka Magnum",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://www.youtube.com/watch?v=Oe9GLb7pF5A&t=8s"
+          "status": "Título e canal consultados em 28/10/2026: Sikka Magnum, 2013. Reprodução integral e correspondência da versão ainda não confirmadas.",
+          "url": "https://www.youtube.com/watch?v=Oe9GLb7pF5A&t=8s",
+          "technicalReview": {
+            "id": "pas3_artes_visuais_5",
+            "date": "2026-10-28",
+            "requestedUrl": "https://www.youtube.com/watch?v=Oe9GLb7pF5A&t=8s",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "finalUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOe9GLb7pF5A%26t%3D8s",
+            "httpStatus": 200,
+            "contentType": "application/json",
+            "destinationTitle": "Sikka Magnum, 2013",
+            "channel": "Studio Daniel Canogar",
+            "access": "Metadados disponíveis; reprodução e versão exata ainda não validadas."
+          }
         },
         {
           "stage": 3,
@@ -1970,7 +2856,15 @@
           "sourcePage": 9,
           "title": "Vacine COVID-19",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1vwxeuYidPdrkTt02w9velAntYm9QNgb-/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/1vwxeuYidPdrkTt02w9velAntYm9QNgb-/view?usp=sharing",
+          "technicalReview": {
+            "id": "pas3_artes_visuais_6",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1vwxeuYidPdrkTt02w9velAntYm9QNgb-/view?usp=sharing",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         },
         {
           "stage": 3,
@@ -1980,7 +2874,15 @@
           "sourcePage": 9,
           "title": "Genial andar de bike",
           "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://drive.google.com/file/d/1hF5KqBEeGWl1VHWV_3QyGIMEZZvAEeW2/view?usp=sharing"
+          "url": "https://drive.google.com/file/d/1hF5KqBEeGWl1VHWV_3QyGIMEZZvAEeW2/view?usp=sharing",
+          "technicalReview": {
+            "id": "pas3_artes_visuais_7",
+            "date": "2026-10-28",
+            "requestedUrl": "https://drive.google.com/file/d/1hF5KqBEeGWl1VHWV_3QyGIMEZZvAEeW2/view?usp=sharing",
+            "rights": "Não conferidos; não autoriza republicação.",
+            "access": "Não confirmado nesta sessão",
+            "error": "HTTP Error 429: Too Many Requests"
+          }
         }
       ]
     }
