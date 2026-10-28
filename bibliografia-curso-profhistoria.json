@@ -1,5 +1,5 @@
 {
-  "checked": "28/10/2026 — segunda rodada: apenas leituras gratuitas conferidas",
+  "checked": "28/10/2026 — ampliação curricular: somente materiais gratuitos",
   "notice": "Esta seção mostra exclusivamente obras e artigos disponíveis para leitura gratuita nas fontes indicadas. Referências sem acesso gratuito confirmado ficam fora da biblioteca pública. O programa do exame não estabelece uma lista obrigatória de livros.",
   "method": "Referências exatas do catálogo institucional com acesso digital gratuito localizado nas fontes editoriais e universitárias. Não incluir obras sem acesso, nem apresentar textos correlatos como se fossem a edição originalmente indicada.",
   "disciplines": [
@@ -15,6 +15,18 @@
         "nadai_ensino_historia_brasil"
       ],
       "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_5",
+      "number": 5,
+      "title": "Cidade, patrimônio urbano e ensino de história",
+      "type": "optativa",
+      "page": 8,
+      "referenceIds": [
+        "meneses_morfologia_cidades",
+        "pesavento_cidade_espaco_tempo"
+      ],
+      "review": "textos-exatos-acesso-gratuito"
     },
     {
       "id": "curso_8",
@@ -88,6 +100,19 @@
         "grinberg_almeida_detetives"
       ],
       "review": "referencias-exatas-verificadas"
+    },
+    {
+      "id": "curso_21",
+      "number": 21,
+      "title": "O ensino de história e as relações de gênero",
+      "type": "optativa",
+      "page": 25,
+      "referenceIds": [
+        "haraway_genero_dicionario_marxista",
+        "scott_usos_abusos_genero",
+        "stolke_enigma_intersecoes"
+      ],
+      "review": "textos-exatos-acesso-gratuito"
     }
   ],
   "references": [
@@ -268,6 +293,66 @@
       "note": "Artigo exato do catálogo e disponível gratuitamente na Revista História Hoje (PDF). A data de indexação do portal difere da edição original.",
       "relation": "bibliografia-curricular-exata",
       "access": "leitura-gratuita"
+    },
+    {
+      "id": "meneses_morfologia_cidades",
+      "author": "Ulpiano T. Bezerra de Meneses",
+      "title": "Morfologia das cidades brasileiras: introdução ao estudo histórico da iconografia urbana",
+      "kind": "artigo",
+      "url": "https://revistas.usp.br/revusp/pt_BR/article/view/25914",
+      "source": "Revista USP, n. 30, 1996",
+      "note": "Referência presente na optativa Cidade, patrimônio urbano e ensino de história. Página do periódico oferece PDF gratuito; o artigo usa iconografia urbana como fonte.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "Página institucional e oferta de PDF conferidas; a abertura do arquivo integral não foi testada nesta ferramenta."
+    },
+    {
+      "id": "pesavento_cidade_espaco_tempo",
+      "author": "Sandra Jatahy Pesavento",
+      "title": "Cidade, espaço e tempo: reflexões sobre a memória e o patrimônio urbano",
+      "kind": "artigo",
+      "url": "https://seer.ufrgs.br/revistaihgrgs/article/view/109697",
+      "source": "Revista IHGRGS (republicação autorizada de texto dos Cadernos do LEPAARQ)",
+      "note": "Título exato indicado no catálogo curricular. Reedição institucional do artigo originalmente publicado nos Cadernos do LEPAARQ; aviso editorial registra cessão do texto pelos editores.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "Texto de republicação institucional conferido; edição original do LEPAARQ bloqueou acesso à ferramenta."
+    },
+    {
+      "id": "haraway_genero_dicionario_marxista",
+      "author": "Donna Haraway",
+      "title": "Gênero para um dicionário marxista: a política sexual de uma palavra",
+      "kind": "artigo",
+      "url": "https://www.scielo.br/j/cpa/a/cVkRgkCBftnpY7qgHmzYCgd/",
+      "source": "Cadernos Pagu, n. 22, 2004",
+      "note": "Texto indicado nominalmente no catálogo da disciplina 21; publicado integralmente na SciELO, com versão em português. A autoria da tradução está no artigo.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "Texto completo e autoria em SciELO conferidos."
+    },
+    {
+      "id": "scott_usos_abusos_genero",
+      "author": "Joan W. Scott",
+      "title": "Os usos e abusos do gênero",
+      "kind": "artigo",
+      "url": "https://revistas.pucsp.br/index.php/revph/article/download/15018/11212/36258",
+      "source": "Projeto História/PUC-SP, n. 45, 2012",
+      "note": "Texto exato da bibliografia da disciplina 21, em tradução de Ana Carolina E. C. Soares, disponível em PDF integral no periódico.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "PDF com 25 páginas e identificação do periódico conferidos."
+    },
+    {
+      "id": "stolke_enigma_intersecoes",
+      "author": "Verena Stolke",
+      "title": "O enigma das interseções: classe, raça, sexo, sexualidade — a formação dos impérios transatlânticos do século XVI ao XIX",
+      "kind": "artigo",
+      "url": "https://www.scielo.br/j/ref/a/CmtTSC5w3Tf5tqcFS4bmwBd/",
+      "source": "Revista Estudos Feministas, v.14, n.1, 2006",
+      "note": "Texto integral gratuito do periódico, presente na disciplina 21. Catálogo registra a autora como Verena Stolcke; periódico identifica como Stolke.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "SciELO confirmou artigo, autoria, volume e texto."
     }
   ],
   "publicScope": "Somente materiais disponíveis; nenhuma referência bibliográfica sem acesso confirmado é oferecida como leitura."
