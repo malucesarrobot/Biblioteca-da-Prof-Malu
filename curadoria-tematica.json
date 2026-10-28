@@ -798,7 +798,7 @@
     },
     {
       "id": "pas_kant_esclarecimento",
-      "title": "Resposta à pergunta: o que é o esclarecimento? — referência do PAS 2",
+      "title": "Resposta à pergunta: o que é o esclarecimento? — tradução alternativa",
       "author": "Immanuel Kant",
       "url": "https://drive.google.com/file/d/1cCyWeLp8hP64XVHSd0LiYEjO82udLQ-p/view",
       "pdf": "",
@@ -813,11 +813,11 @@
       "note": "PDF público aberto: 9 páginas, tradução de Luiz Paulo Rouanet, conforme o próprio arquivo. Há divergência com a tradução de Floriano de Souza Fernandes mencionada na lista de referência; conferir a edição exigida para a prova.",
       "lang": "Português",
       "source": "UnB / Cebraspe — link indicado na lista oficial",
-      "checked": "27/10/2026",
+      "checked": "28/10/2026",
       "full": true,
-      "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗",
-      "accessScope": "PDF público aberto: 9 páginas, tradução de Luiz Paulo Rouanet, conforme o próprio arquivo. Há divergência com a tradução de Floriano de Souza Fernandes mencionada na lista de referência; conferir a edição exigida para a prova."
+      "format": "PDF — tradução alternativa",
+      "accessLabel": "Ler versão alternativa ↗",
+      "accessScope": "Versão alternativa em português: tradução de Luiz Paulo Rouanet, 9 páginas. A referência bibliográfica do PAS cita Floriano de Souza Fernandes."
     },
     {
       "id": "pas_sueli_epistemicidio",
