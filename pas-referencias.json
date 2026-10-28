@@ -1,5 +1,5 @@
 {
-  "checked": "28/10/2026 — 83 acessos auditados anteriormente; 8 referências prioritárias complementadas com fontes acadêmicas, alternativas legais e alertas sobre versões de encenação",
+  "checked": "28/10/2026 — 83 acessos auditados; revisão de 8 prioridades; removidos links de e-books pagos das referências PAS",
   "stages": [
     {
       "stage": 1,
@@ -2898,11 +2898,11 @@
           "id": "pas3_teatro_1",
           "sourcePage": 8,
           "title": "Eles não usam Black- Tie",
-          "status": "PDF da USP remete ao login e não comprova leitura integral. Identificados e-book comercial licenciado e materiais acadêmicos complementares; não é uma obra integral gratuita na biblioteca.",
+          "status": "Texto integral gratuito e autorizado não localizado. PDF do Moodle USP exige autenticação; há somente fontes acadêmicas gratuitas de apoio, que não substituem a peça.",
           "url": "https://edisciplinas.usp.br/pluginfile.php/5012806/mod_resource/content/2/ELES%20N%C3%83O%20USAM%20BLACK-TIE%20-%20GUARNIERI.pdf",
-          "note": "A USP mantém estudos acadêmicos sobre a peça, mas tais análises não substituem a obra integral. A obra é protegida por direitos autorais; eventual reprodução deve observar a licença da edição utilizada.",
-          "alternateUrl": "https://books.apple.com/br/book/eles-n%C3%A3o-usam-black-tie/id1302194787",
-          "alternateLabel": "E-book LICENCIADO (pago) — Apple Books ↗",
+          "note": "Acesso integral gratuito ainda pendente. Não exibir links comerciais ou pagos.",
+          "alternateUrl": "https://revistas.usp.br/discurso/en/article/view/37961",
+          "alternateLabel": "Análise acadêmica gratuita — USP ↗",
           "technicalReview": {
             "id": "pas3_teatro_1",
             "date": "2026-10-28",
@@ -2923,25 +2923,19 @@
           },
           "supportLinks": [
             {
-              "label": "Editora Record — edição impressa ↗",
-              "url": "https://www.record.com.br/products/eles-nao-usam-black-tie"
-            },
-            {
-              "label": "Estudo e vídeo — Biblioteca Brasiliana USP ↗",
+              "label": "Estudo em vídeo — Biblioteca Brasiliana USP ↗",
               "url": "https://bbm.usp.br/pt-br/videos/eles-n%C3%A3o-usam-black-tie/"
-            },
-            {
-              "label": "Análise acadêmica — USP ↗",
-              "url": "https://revistas.usp.br/discurso/en/article/view/37961"
             }
           ],
           "researchSupplement": {
             "date": "2026-10-28",
-            "source": "https://books.apple.com/br/book/eles-n%C3%A3o-usam-black-tie/id1302194787",
-            "access": "E-book comercial em português (112 páginas na ficha da loja); prévia não equivale à íntegra gratuita.",
-            "publisher": "Civilização Brasileira / Record",
-            "rights": "Licença comercial; não autoriza redistribuir o arquivo.",
-            "freeFullTextConfirmed": false
+            "scope": "Alternativas gratuitas de estudo; não substituem a obra integral.",
+            "sources": [
+              "https://revistas.usp.br/discurso/en/article/view/37961",
+              "https://bbm.usp.br/pt-br/videos/eles-n%C3%A3o-usam-black-tie/"
+            ],
+            "freeFullTextConfirmed": false,
+            "rights": "Material protegido; só disponibilizar se houver autorização de distribuição."
           }
         },
         {
@@ -2951,11 +2945,11 @@
           "id": "pas3_teatro_2",
           "sourcePage": 8,
           "title": "Vestido de Noiva",
-          "status": "Download integral de terceiros ainda não obtido; autorização não indicada. Encontrado e-book licenciado da Nova Fronteira via Kobo; acesso comercial, não gratuito.",
+          "status": "Texto integral gratuito e autorizado não localizado. Download de terceiros falhou anteriormente e não comprova licença; fontes acadêmicas gratuitas disponíveis como apoio.",
           "url": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/viewdownload/5-pecas-diversas/101-vestido-de-noiva",
-          "note": "A página de terceiros possui campo 'Licença' sem especificação. Nelson Rodrigues tem direitos autorais vigentes. Há bibliografia da peça no acervo teatral da USP; não se deve afirmar distribuição autorizada do texto.",
-          "alternateUrl": "https://www.kobo.com/br/pt/ebook/vestido-de-noiva-2",
-          "alternateLabel": "E-book LICENCIADO (pago) — Kobo ↗",
+          "note": "Acesso integral gratuito ainda pendente; ficha bibliográfica e estudo acadêmico não substituem a peça. Não exibir lojas.",
+          "alternateUrl": "https://bctb.eca.usp.br/obra.php?cod=9743",
+          "alternateLabel": "Ficha bibliográfica gratuita — USP ↗",
           "accessReview": {
             "date": "2026-10-28",
             "finalUrl": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/finish/5-pecas-diversas/101-vestido-de-noiva",
@@ -2984,24 +2978,19 @@
           },
           "supportLinks": [
             {
-              "label": "Editora Nova Fronteira — livro impresso ↗",
-              "url": "https://www.novafronteira.com.br/vestido-de-noiva"
-            },
-            {
-              "label": "Ficha bibliográfica — acervo de teatro USP ↗",
-              "url": "https://bctb.eca.usp.br/obra.php?cod=9743"
-            },
-            {
-              "label": "Análise acadêmica — UNEMAT ↗",
+              "label": "Estudo acadêmico gratuito — UNEMAT ↗",
               "url": "https://periodicos.unemat.br/index.php/ecos/article/view/732"
             }
           ],
           "researchSupplement": {
             "date": "2026-10-28",
-            "source": "https://www.kobo.com/br/pt/ebook/vestido-de-noiva-2",
-            "access": "E-book comercial EPUB, Nova Fronteira, 2019, não gratuito.",
-            "rights": "Protegida por direitos autorais; acesso público em site de terceiros não prova licença.",
-            "freeFullTextConfirmed": false
+            "scope": "Referências acadêmicas gratuitas; não substituem a obra integral.",
+            "sources": [
+              "https://bctb.eca.usp.br/obra.php?cod=9743",
+              "https://periodicos.unemat.br/index.php/ecos/article/view/732"
+            ],
+            "freeFullTextConfirmed": false,
+            "rights": "Material protegido; só disponibilizar se houver autorização de distribuição."
           }
         },
         {
@@ -3166,5 +3155,6 @@
         }
       ]
     }
-  ]
+  ],
+  "studentContributionNotice": "Você tem ou conhece um acesso gratuito e autorizado a alguma obra que ainda não está disponível na Biblioteca? Informe à professora Malu o título e a fonte. Após a conferência dos direitos de compartilhamento, o material poderá ser incluído aqui."
 }
