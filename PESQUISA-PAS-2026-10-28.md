@@ -13,16 +13,16 @@
 | `pas2_textos_2` | Texto em português disponível em tradução **Luiz Paulo Rouanet** | [PDF já cadastrado](https://drive.google.com/file/d/1cCyWeLp8hP64XVHSd0LiYEjO82udLQ-p/view), [referência bibliográfica da tradução de Floriano de Sousa Fernandes em SciELO](https://www.scielo.br/j/trans/a/b5LGjhyvFjRQFqFHhtK8TLB/?lang=pt) | Localizar **a íntegra da tradução Floriano de Sousa Fernandes**, indicada na lista oficial; bibliografia não é o texto |
 | `pas2_teatro_1` | **Montagem oficial da Cia. Código identificada** com ficha e trailer; PDF original da peça é material diferente | [Grupo Código — Inimigo do Povo](https://grupocodigo.org.br/inimigo-do-povo-2009/) | Conferir a gravação de 4/6/2019 exata e sua reprodução integral; trailer não equivale ao espetáculo |
 | `pas2_teatro_2` | Montagem de **Ribeirão Preto, 13/04/2014**, citada pelo PAS, **não localizada com segurança**; outra montagem claramente sinalizada | [Parlapatões 2013 — alternativa](https://parlapatoes.com.br/site/o-burgues-fidalgo/), [lista oficial PAS 2, p. 9](https://pas.unb.br/images/pas/obras_de_referencia_pas_2.pdf#page=9) | Localizar o registro de **André Maurício Silva** correspondente ao Teatro Municipal de Ribeirão Preto; não substituir silenciosamente pela montagem de 2013 |
-| `pas3_teatro_1` | PDF Moodle USP exige login; edição licenciada identificada | [Apple Books — e-book comercial](https://books.apple.com/br/book/eles-n%C3%A3o-usam-black-tie/id1302194787), [Record — editora](https://www.record.com.br/products/eles-nao-usam-black-tie), [BBM USP — vídeo de análise](https://bbm.usp.br/pt-br/videos/eles-n%C3%A3o-usam-black-tie/) | Acesso legítimo à íntegra (compra/empréstimo) ou autorização do arquivo; **não redistribuir** a obra protegida |
-| `pas3_teatro_2` | Download de terceiro falhou; edição licenciada identificada | [Kobo — e-book comercial](https://www.kobo.com/br/pt/ebook/vestido-de-noiva-2), [Nova Fronteira — editora](https://www.novafronteira.com.br/vestido-de-noiva), [USP — ficha bibliográfica](https://bctb.eca.usp.br/obra.php?cod=9743) | Acesso legítimo ao texto completo; não assumir que arquivo de terceiro tem licença de distribuição |
+| `pas3_teatro_1` | PDF Moodle USP exige autenticação; texto integral gratuito não confirmado | [USP — análise acadêmica gratuita](https://revistas.usp.br/discurso/en/article/view/37961), [BBM USP — estudo em vídeo](https://bbm.usp.br/pt-br/videos/eles-n%C3%A3o-usam-black-tie/) | Buscar empréstimo institucional ou acesso digital integral gratuito autorizado; **não redistribuir** a obra protegida |
+| `pas3_teatro_2` | Download de terceiro falhou; acesso integral gratuito não confirmado | [USP — ficha bibliográfica](https://bctb.eca.usp.br/obra.php?cod=9743), [UNEMAT — estudo acadêmico](https://periodicos.unemat.br/index.php/ecos/article/view/732) | Encontrar acesso integral gratuito autorizado; os materiais acadêmicos não equivalem à peça |
 
 ## Decisões editoriais aplicadas
 
 1. URLs e fichas originais preservadas em `pas-referencias.json`, com notas e fontes alternativas.
-2. Foram diferenciados **texto dramático**, **montagem específica**, **trailer**, **estudo acadêmico**, **amostra**, **e-book comercial** e **obra integral**.
+2. Foram diferenciados **texto dramático**, **montagem específica**, **trailer**, **estudo acadêmico**, **amostra** e **obra integral**.
 3. A página `index.html` passou a renderizar `supportLinks` para uma referência do PAS ter vários caminhos qualificados, sem confundir a fonte oficial com versões complementares.
 4. A versão de cache de `pas-referencias.json` passou de 4 para 5 para estimular o recarregamento dos novos registros.
-5. Nenhum PDF protegido foi baixado ou republicado no GitHub.
+5. Nenhum PDF protegido foi baixado ou republicado no GitHub. Não divulgar links pagos aos estudantes: somente fontes públicas gratuitas e materiais autorizados.
 
 ## Atenções
 
@@ -38,3 +38,9 @@
 - [Jornal da USP: notícia sobre a HQ Ciclos](https://jornal.usp.br/ciencias/cientistas-e-cartunistas-se-unem-para-divulgar-ciencia-em-quadrinhos/).
 - [Editora Peirópolis: curadoria Clássicos em HQ](https://blog.editorapeiropolis.com.br/curadoria-classicos-em-hq/).
 - [Biblioteca de Teatro da USP: Vestido de noiva](https://bctb.eca.usp.br/obra.php?cod=9743).
+
+## Aviso de colaboração para estudantes
+
+> Você tem ou conhece um acesso gratuito e autorizado a alguma obra que ainda não está disponível na Biblioteca? Informe à professora Malu o título e a fonte. Após a conferência dos direitos de compartilhamento, o material poderá ser incluído aqui.
+
+A posse de exemplar adquirido não autoriza, por si só, sua digitalização e distribuição. O aviso serve para identificar acessos institucionais, obras em domínio público, licenças abertas e demais opções que permitam compartilhar legalmente.
