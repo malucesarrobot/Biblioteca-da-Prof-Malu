@@ -860,7 +860,18 @@
           "title": "Discurso no Concílio de Clermont, Papa Urbano II",
           "status": "Texto acessível no Internet Medieval Sourcebook da Universidade Fordham.",
           "url": "https://sourcebooks.web.fordham.edu/source/urban2-5vers.asp",
-          "note": "Acesso alternativo em inglês, com diferentes relatos do discurso e uma carta de Urbano II. A versão exata indicada pelo PAS deve ser comparada; não é transcrição literal única do discurso."
+          "note": "Acesso alternativo em inglês, com diferentes relatos do discurso e uma carta de Urbano II. A versão exata indicada pelo PAS deve ser comparada; não é transcrição literal única do discurso. Apoio em português: dissertação de Thiago de Souza Ribeiro Chaves, UnB (2015), https://repositorio.unb.br/handle/10482/18802. Registro conferido em 28/10/2026; PDF retornou erro 503. Não substitui a versão do discurso exigida pelo PAS.",
+          "researchReview": {
+            "date": "2026-10-28",
+            "source": "https://repositorio.unb.br/handle/10482/18802",
+            "title": "Urbano II em Clermont-Ferrand: a pregação da Primeira Cruzada",
+            "author": "Thiago de Souza Ribeiro Chaves",
+            "year": 2015,
+            "type": "Dissertação de mestrado — apoio bibliográfico, não substituição do discurso",
+            "access": "Registro institucional aberto; PDF retornou HTTP 503 na consulta.",
+            "rights": "Registro da UnB informa autorização do autor para disponibilização pela instituição.",
+            "resolved": false
+          }
         },
         {
           "stage": 1,
@@ -1252,7 +1263,12 @@
           "url": "https://drive.google.com/file/d/1cCyWeLp8hP64XVHSd0LiYEjO82udLQ-p/view",
           "catalogId": "pas_kant_esclarecimento",
           "catalogNote": "Referência disponível na estante.",
-          "note": "PDF público aberto: 9 páginas, tradução de Luiz Paulo Rouanet, conforme o próprio arquivo. Há divergência com a tradução de Floriano de Souza Fernandes mencionada na lista de referência; conferir a edição exigida para a prova."
+          "note": "PDF público aberto: 9 páginas, tradução de Luiz Paulo Rouanet, conforme o próprio arquivo. Há divergência com a tradução de Floriano de Souza Fernandes mencionada na lista de referência; conferir a edição exigida para a prova.",
+          "researchReview": {
+            "date": "2026-10-28",
+            "result": "Busca em fontes acadêmicas encontrou referências bibliográficas e outras traduções, mas não confirmou cópia integral institucional da tradução de Floriano de Souza Fernandes.",
+            "resolved": false
+          }
         },
         {
           "stage": 2,
