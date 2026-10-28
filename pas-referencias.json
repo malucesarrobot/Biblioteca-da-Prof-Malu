@@ -1,5 +1,5 @@
 {
-  "checked": "27/10/2026 — edição e documentação complementar",
+  "checked": "28/10/2026 — auditoria técnica de 83 acessos e fontes institucionais em sete referências de artes visuais",
   "stages": [
     {
       "stage": 1,
@@ -301,8 +301,8 @@
           "id": "pas1_artes_visuais_1",
           "sourcePage": 2,
           "title": "Manto tupinambá, Museu Nacional do Rio de Janeiro",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/Manto_tupinamb%C3%A1#/media/Ficheiro:12.09.2024_-_Cerim%C3%B4nia_de_celebra%C3%A7%C3%A3o_do_retorno_do_Manto_Tupinamb%C3%A1_ao_Brasil_(53990802551).jpg",
+          "status": "Fonte institucional aberta e descrição conferida em 28/10/2026; conferência visual detalhada pendente.",
+          "url": "https://ufrj.br/2024/09/cerimonia-oficial-marca-chegada-do-manto-tupinamba-ao-museu-nacional-da-ufrj/",
           "technicalReview": {
             "id": "pas1_artes_visuais_1",
             "date": "2026-10-28",
@@ -310,6 +310,16 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 403: Forbidden"
+          },
+          "officialListUrl": "https://pt.wikipedia.org/wiki/Manto_tupinamb%C3%A1#/media/Ficheiro:12.09.2024_-_Cerim%C3%B4nia_de_celebra%C3%A7%C3%A3o_do_retorno_do_Manto_Tupinamb%C3%A1_ao_Brasil_(53990802551).jpg",
+          "note": "Contexto institucional sobre o manto devolvido em 2024; não é a réplica de 2021. A fotografia da matéria registra a cerimônia, não substitui a reprodução da peça. Acesso complementar escolhido pela curadoria; o endereço da lista oficial foi preservado. Consulta gratuita no site de origem; imagens não foram republicadas.",
+          "institutionalReview": {
+            "date": "2026-10-28",
+            "url": "https://ufrj.br/2024/09/cerimonia-oficial-marca-chegada-do-manto-tupinamba-ao-museu-nacional-da-ufrj/",
+            "title": "UFRJ — chegada do Manto Tupinambá",
+            "scope": "Contexto institucional sobre o manto devolvido em 2024; não é a réplica de 2021. A fotografia da matéria registra a cerimônia, não substitui a reprodução da peça.",
+            "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
+            "rights": "Link externo; licença de reprodução não verificada."
           }
         },
         {
@@ -394,8 +404,8 @@
           "id": "pas1_artes_visuais_6",
           "sourcePage": 2,
           "title": "Laocoonte e seus filhos, autoria atribuída a Agesandro, Atenodoro e Polidoro, Vaticano, Itália.",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/Grupo_de_Laocoonte#/media/Ficheiro:Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg",
+          "status": "Fonte institucional aberta e descrição conferida em 28/10/2026; conferência visual detalhada pendente.",
+          "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-clementino/Cortile-Ottagono/laocoonte.html",
           "technicalReview": {
             "id": "pas1_artes_visuais_6",
             "date": "2026-10-28",
@@ -403,6 +413,16 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 403: Forbidden"
+          },
+          "officialListUrl": "https://pt.wikipedia.org/wiki/Grupo_de_Laocoonte#/media/Ficheiro:Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg",
+          "note": "Página institucional da escultura; descrição consultada. Acesso complementar escolhido pela curadoria; o endereço da lista oficial foi preservado. Consulta gratuita no site de origem; imagens não foram republicadas.",
+          "institutionalReview": {
+            "date": "2026-10-28",
+            "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-clementino/Cortile-Ottagono/laocoonte.html",
+            "title": "Museus Vaticanos — Laocoön",
+            "scope": "Página institucional da escultura; descrição consultada.",
+            "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
+            "rights": "Link externo; licença de reprodução não verificada."
           }
         },
         {
@@ -412,8 +432,8 @@
           "id": "pas1_artes_visuais_7",
           "sourcePage": 3,
           "title": "Coliseu ou Anfiteatro Flaviano, Roma, Itália",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/Coliseu#/media/Ficheiro:Colosseo_2020.jpg",
+          "status": "Fonte institucional aberta e descrição conferida em 28/10/2026; conferência visual detalhada pendente.",
+          "url": "https://colosseo.it/en/area/colosseo/",
           "technicalReview": {
             "id": "pas1_artes_visuais_7",
             "date": "2026-10-28",
@@ -421,6 +441,16 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 403: Forbidden"
+          },
+          "officialListUrl": "https://pt.wikipedia.org/wiki/Coliseu#/media/Ficheiro:Colosseo_2020.jpg",
+          "note": "Página institucional do monumento; descrição consultada. Acesso complementar escolhido pela curadoria; o endereço da lista oficial foi preservado. Consulta gratuita no site de origem; imagens não foram republicadas.",
+          "institutionalReview": {
+            "date": "2026-10-28",
+            "url": "https://colosseo.it/en/area/colosseo/",
+            "title": "Parco archeologico del Colosseo — The Colosseum",
+            "scope": "Página institucional do monumento; descrição consultada.",
+            "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
+            "rights": "Link externo; licença de reprodução não verificada."
           }
         },
         {
@@ -430,8 +460,8 @@
           "id": "pas1_artes_visuais_8",
           "sourcePage": 3,
           "title": "Mosaico de Teodora, Basílica de San Vitale, Ravena, Itália",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/Ficheiro:Mosaic_of_Theodora_-_Basilica_San_Vitale_%28Ravenna,_Italy%29.jpg",
+          "status": "Fonte institucional aberta e descrição conferida em 28/10/2026; conferência visual detalhada pendente.",
+          "url": "https://www.turismo.ra.it/en/myravenna/city-of-art/procession-justinian-theodora-san-vitale/",
           "technicalReview": {
             "id": "pas1_artes_visuais_8",
             "date": "2026-10-28",
@@ -439,6 +469,16 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 403: Forbidden"
+          },
+          "officialListUrl": "https://pt.wikipedia.org/wiki/Ficheiro:Mosaic_of_Theodora_-_Basilica_San_Vitale_%28Ravenna,_Italy%29.jpg",
+          "note": "Artigo institucional com descrição e fotografias identificadas dos mosaicos; inclui o cortejo de Teodora. Acesso complementar escolhido pela curadoria; o endereço da lista oficial foi preservado. Consulta gratuita no site de origem; imagens não foram republicadas.",
+          "institutionalReview": {
+            "date": "2026-10-28",
+            "url": "https://www.turismo.ra.it/en/myravenna/city-of-art/procession-justinian-theodora-san-vitale/",
+            "title": "Ravenna Turismo — Procession of Justinian and Theodora",
+            "scope": "Artigo institucional com descrição e fotografias identificadas dos mosaicos; inclui o cortejo de Teodora.",
+            "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
+            "rights": "Link externo; licença de reprodução não verificada."
           }
         },
         {
@@ -448,8 +488,8 @@
           "id": "pas1_artes_visuais_9",
           "sourcePage": 3,
           "title": "Juízo Final, Giorgio Vasari e Federico Zuccari - afresco na cúpula da Catedral de Santa Maria del Fiore, Florença, Itália",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://en.wikipedia.org/wiki/The_Last_Judgement_(Vasari_and_Zuccari)#/media/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg",
+          "status": "Fonte institucional aberta e descrição conferida em 28/10/2026; conferência visual detalhada pendente.",
+          "url": "https://duomo.firenze.it/en/opera-magazine/post/11216/the-last-judgment-in-brunelleschi-s-dome",
           "technicalReview": {
             "id": "pas1_artes_visuais_9",
             "date": "2026-10-28",
@@ -457,6 +497,16 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 403: Forbidden"
+          },
+          "officialListUrl": "https://en.wikipedia.org/wiki/The_Last_Judgement_(Vasari_and_Zuccari)#/media/File:Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_(Florence).jpg",
+          "note": "Artigo da instituição responsável, com descrição e imagens identificadas do afresco de Vasari e Zuccari. Acesso complementar escolhido pela curadoria; o endereço da lista oficial foi preservado. Consulta gratuita no site de origem; imagens não foram republicadas.",
+          "institutionalReview": {
+            "date": "2026-10-28",
+            "url": "https://duomo.firenze.it/en/opera-magazine/post/11216/the-last-judgment-in-brunelleschi-s-dome",
+            "title": "Opera di Santa Maria del Fiore — The Last Judgment",
+            "scope": "Artigo da instituição responsável, com descrição e imagens identificadas do afresco de Vasari e Zuccari.",
+            "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
+            "rights": "Link externo; licença de reprodução não verificada."
           }
         },
         {
@@ -466,8 +516,8 @@
           "id": "pas1_artes_visuais_10",
           "sourcePage": 3,
           "title": "Cúpula da Catedral Santa Maria del Fiori, Filippo Brunelleschi, Florença, Itália",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/C%C3%BApula_de_Santa_Maria_del_Fiore#/media/Ficheiro:Florence_duomo_fc10.jpg",
+          "status": "Fonte institucional aberta e descrição conferida em 28/10/2026; conferência visual detalhada pendente.",
+          "url": "https://duomo.firenze.it/en/discover/dome",
           "technicalReview": {
             "id": "pas1_artes_visuais_10",
             "date": "2026-10-28",
@@ -475,6 +525,16 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 403: Forbidden"
+          },
+          "officialListUrl": "https://pt.wikipedia.org/wiki/C%C3%BApula_de_Santa_Maria_del_Fiore#/media/Ficheiro:Florence_duomo_fc10.jpg",
+          "note": "Página institucional da cúpula de Brunelleschi, com descrição arquitetônica. Acesso complementar escolhido pela curadoria; o endereço da lista oficial foi preservado. Consulta gratuita no site de origem; imagens não foram republicadas.",
+          "institutionalReview": {
+            "date": "2026-10-28",
+            "url": "https://duomo.firenze.it/en/discover/dome",
+            "title": "Opera di Santa Maria del Fiore — Dome",
+            "scope": "Página institucional da cúpula de Brunelleschi, com descrição arquitetônica.",
+            "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
+            "rights": "Link externo; licença de reprodução não verificada."
           }
         },
         {
@@ -484,8 +544,8 @@
           "id": "pas1_artes_visuais_11",
           "sourcePage": 3,
           "title": "Igreja de São Jorge, Lalibela, Etiópia",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
-          "url": "https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Jorge_(Lalibela)",
+          "status": "Fonte institucional aberta e descrição conferida em 28/10/2026; conferência visual detalhada pendente.",
+          "url": "https://whc.unesco.org/en/list/18/",
           "technicalReview": {
             "id": "pas1_artes_visuais_11",
             "date": "2026-10-28",
@@ -493,6 +553,16 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 403: Forbidden"
+          },
+          "officialListUrl": "https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Jorge_(Lalibela)",
+          "note": "Página do conjunto de igrejas de Lalibela; fonte de contexto, não uma reprodução isolada da Igreja de São Jorge. Acesso complementar escolhido pela curadoria; o endereço da lista oficial foi preservado. Consulta gratuita no site de origem; imagens não foram republicadas.",
+          "institutionalReview": {
+            "date": "2026-10-28",
+            "url": "https://whc.unesco.org/en/list/18/",
+            "title": "UNESCO — Rock-Hewn Churches, Lalibela",
+            "scope": "Página do conjunto de igrejas de Lalibela; fonte de contexto, não uma reprodução isolada da Igreja de São Jorge.",
+            "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
+            "rights": "Link externo; licença de reprodução não verificada."
           }
         },
         {
