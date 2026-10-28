@@ -1040,6 +1040,38 @@
       "full": true,
       "format": "Arquivo indicado na lista oficial",
       "accessLabel": "Abrir referência do PAS ↗"
+    },
+    {
+      "id": "cur_reed_dez_dias",
+      "title": "Dez dias que abalaram o mundo",
+      "author": "John Reed",
+      "tags": [
+        "História",
+        "Historiografia",
+        "Pensamento político",
+        "Geopolítica"
+      ],
+      "desc": "Relato jornalístico de testemunha participante dos acontecimentos revolucionários russos de 1917. Leitura comparativa para discutir fontes, testemunho, posição política e Revolução Russa.",
+      "lang": "Português",
+      "kind": "Livro histórico — testemunho",
+      "source": "PSTU — digitalização da tradução de José Octávio, edição Círculo do Livro; apoio: Marxists Internet Archive",
+      "format": "PDF — 270 páginas (edição disponibilizada por terceiro)",
+      "url": "https://www.pstu.org.br/wp-content/uploads/2020/05/Os-dez-dias-que-abalaram-o-mundo-John-Reed.pdf",
+      "pdf": "https://www.pstu.org.br/wp-content/uploads/2020/05/Os-dez-dias-que-abalaram-o-mundo-John-Reed.pdf",
+      "epub": "",
+      "cover": "",
+      "checked": "27/10/2026",
+      "full": true,
+      "accessLabel": "Abrir PDF do livro ↗",
+      "accessScope": "Edição integral de 270 páginas identificada e texto inicial conferido; tradução de José Octávio. A autorização de republicação dessa tradução pelo site hospedeiro não foi localizada.",
+      "note": "A obra original é de 1919. A versão portuguesa/galega organizada no Marxists Internet Archive traz declaração de licença GFDL, mas seu índice não disponibiliza todos os capítulos por links ativos nesta conferência. Para reutilização, distinguir os direitos do original e os da tradução digitalizada.",
+      "accessLinks": [
+        {
+          "label": "Consultar edição portuguesa do MIA (índice e informações de licença) ↗",
+          "url": "https://www.marxists.org/portugues/reed/1919/dias/index.htm"
+        }
+      ],
+      "sourceNote": "Acesso público ao PDF não comprova licença de reprodução. A fonte vinculada é externa e mantida como opção de leitura, não como arquivo redistribuído pela biblioteca."
     }
   ],
   "articles": [
@@ -1199,7 +1231,8 @@
       "desc": "História africana em diálogo com uma interpretação marxista produzida no contexto da Primeira Guerra.",
       "books": [
         "hga_VII",
-        "cur_lenin_imperialismo"
+        "cur_lenin_imperialismo",
+        "cur_reed_dez_dias"
       ],
       "articles": [],
       "resources": [],
@@ -1310,17 +1343,13 @@
   ],
   "pending": [
     {
-      "title": "Dez dias que abalaram o mundo",
-      "author": "John Reed",
-      "theme": "imperialismo",
-      "reason": "O endereço localizado oferece um índice sem acesso aos capítulos. Aguardando conferência do texto completo."
-    },
-    {
       "title": "Darwinismo e racismo científico no Brasil",
       "author": "Cláudia Sepúlveda; Yaci Farias; Ricardo Machado; Juanma Sánchez Arteaga",
       "theme": "colonialidade",
       "url": "https://books.scielo.org/id/2qpn8",
-      "reason": "Título e pertinência localizados. Página do SciELO retorna 403 nesta conferência; acesso gratuito integral ainda não verificado. Não incluído no acervo publicado."
+      "reason": "Dados editoriais conferidos: UEFS Editora, 2023, 98 páginas, ISBN 9786589524489; registro e sumário de capítulos localizados no SciELO Livros. O portal SciELO bloqueia a abertura nesta sessão (403), e não há confirmação de PDF integral gratuito. A editora também apresenta exemplar impresso. Permanece como referência bibliográfica em avaliação, não como livro integral de acesso aberto.",
+      "publisherUrl": "https://editora.uefs.br/educacao-2/",
+      "accessStatus": "Referência e sumário conferidos; leitura integral gratuita não confirmada"
     }
   ]
 }
