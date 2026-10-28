@@ -320,6 +320,13 @@
             "scope": "Contexto institucional sobre o manto devolvido em 2024; não é a réplica de 2021. A fotografia da matéria registra a cerimônia, não substitui a reprodução da peça.",
             "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
             "rights": "Link externo; licença de reprodução não verificada."
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Página informativa pública retornou conteúdo legível; imagem específica, licença e fidelidade à referência do PAS ainda exigem inspeção visual.",
+            "pageTitle": "Manto tupinambá",
+            "checkedPage": "https://pt.wikipedia.org/wiki/Manto_tupinamb%C3%A1",
+            "originalUrl": "https://ufrj.br/2024/09/cerimonia-oficial-marca-chegada-do-manto-tupinamba-ao-museu-nacional-da-ufrj/"
           }
         },
         {
@@ -395,6 +402,13 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 403: Forbidden"
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Página informativa pública retornou conteúdo legível; imagem específica, licença e fidelidade à referência do PAS ainda exigem inspeção visual.",
+            "pageTitle": "Wikimedia Commons — imagem de Nebamun e Ipuki",
+            "checkedPage": "https://commons.wikimedia.org/wiki/File:Maler_der_Grabkammer_der_Bildhauer_Nebamun_und_Ipuki_004.jpg",
+            "originalUrl": "https://commons.wikimedia.org/wiki/File:Maler_der_Grabkammer_der_Bildhauer_Nebamun_und_Ipuki_004.jpg#mw-jump-to-license"
           }
         },
         {
@@ -423,6 +437,13 @@
             "scope": "Página institucional da escultura; descrição consultada.",
             "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
             "rights": "Link externo; licença de reprodução não verificada."
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Página informativa pública retornou conteúdo legível; imagem específica, licença e fidelidade à referência do PAS ainda exigem inspeção visual.",
+            "pageTitle": "Grupo de Laocoonte",
+            "checkedPage": "https://pt.wikipedia.org/wiki/Grupo_de_Laocoonte",
+            "originalUrl": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-clementino/Cortile-Ottagono/laocoonte.html"
           }
         },
         {
@@ -451,6 +472,13 @@
             "scope": "Página institucional do monumento; descrição consultada.",
             "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
             "rights": "Link externo; licença de reprodução não verificada."
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Página informativa pública retornou conteúdo legível; imagem específica, licença e fidelidade à referência do PAS ainda exigem inspeção visual.",
+            "pageTitle": "Coliseu",
+            "checkedPage": "https://pt.wikipedia.org/wiki/Coliseu",
+            "originalUrl": "https://colosseo.it/en/area/colosseo/"
           }
         },
         {
@@ -507,6 +535,13 @@
             "scope": "Artigo da instituição responsável, com descrição e imagens identificadas do afresco de Vasari e Zuccari.",
             "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
             "rights": "Link externo; licença de reprodução não verificada."
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Página informativa pública retornou conteúdo legível; imagem específica, licença e fidelidade à referência do PAS ainda exigem inspeção visual.",
+            "pageTitle": "The Last Judgement",
+            "checkedPage": "https://en.wikipedia.org/wiki/The_Last_Judgement_(Vasari_and_Zuccari)",
+            "originalUrl": "https://duomo.firenze.it/en/opera-magazine/post/11216/the-last-judgment-in-brunelleschi-s-dome"
           }
         },
         {
@@ -535,6 +570,13 @@
             "scope": "Página institucional da cúpula de Brunelleschi, com descrição arquitetônica.",
             "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
             "rights": "Link externo; licença de reprodução não verificada."
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Página informativa pública retornou conteúdo legível; imagem específica, licença e fidelidade à referência do PAS ainda exigem inspeção visual.",
+            "pageTitle": "Cúpula de Santa Maria del Fiore",
+            "checkedPage": "https://pt.wikipedia.org/wiki/C%C3%BApula_de_Santa_Maria_del_Fiore",
+            "originalUrl": "https://duomo.firenze.it/en/discover/dome"
           }
         },
         {
@@ -563,6 +605,13 @@
             "scope": "Página do conjunto de igrejas de Lalibela; fonte de contexto, não uma reprodução isolada da Igreja de São Jorge.",
             "verification": "Página aberta e conteúdo textual conferido; não equivale à inspeção visual da reprodução.",
             "rights": "Link externo; licença de reprodução não verificada."
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Página informativa pública retornou conteúdo legível; imagem específica, licença e fidelidade à referência do PAS ainda exigem inspeção visual.",
+            "pageTitle": "Igreja de São Jorge (Lalibela)",
+            "checkedPage": "https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Jorge_(Lalibela)",
+            "originalUrl": "https://whc.unesco.org/en/list/18/"
           }
         },
         {
@@ -1004,6 +1053,15 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "The read operation timed out"
+          },
+          "alternateUrl": "https://www2.camara.leg.br/a-camara/atividade-legislativa/legislacao/constituicao1988",
+          "alternateLabel": "Constituição Federal — texto gratuito atualizado na Câmara ↗",
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "originalUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+            "originalResult": "Acesso negado nesta ferramenta à página Planalto; não se trata de comprovação de bloqueio para todos os alunos.",
+            "officialAlternative": "https://www2.camara.leg.br/a-camara/atividade-legislativa/legislacao/constituicao1988",
+            "alternativeResult": "Página HTML da Câmara aberta sem autenticação nesta consulta e apresentando versões HTML, DOCX e PDF; declaração de atualização da própria Câmara até EC 141/2026."
           }
         },
         {
@@ -1573,6 +1631,15 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD",
+            "fileTitle": "Obras Textuais PAS 2 .pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         },
         {
@@ -1594,6 +1661,15 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD",
+            "fileTitle": "Obras Textuais PAS 2 .pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         },
         {
@@ -1628,6 +1704,15 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD",
+            "fileTitle": "Obras Textuais PAS 2 .pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         },
         {
@@ -1651,7 +1736,16 @@
             "error": "HTTP Error 429: Too Many Requests"
           },
           "alternateUrl": "https://bd.camara.leg.br/bd/items/960f005d-58f7-448b-bc6e-f11fc774023a",
-          "note": "Alternativa oficial: Úrsula e outras obras, Edições Câmara, cujo registro confirma a inclusão de A escrava. https://bd.camara.leg.br/bd/items/960f005d-58f7-448b-bc6e-f11fc774023a"
+          "note": "Alternativa oficial: Úrsula e outras obras, Edições Câmara, cujo registro confirma a inclusão de A escrava. https://bd.camara.leg.br/bd/items/960f005d-58f7-448b-bc6e-f11fc774023a",
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1FkqfP15W9BEbzPok8DSeI_abwXPAPUkD",
+            "fileTitle": "Obras Textuais PAS 2 .pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
+          }
         },
         {
           "stage": 2,
@@ -2079,6 +2173,15 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1piZUvKkl6Ro-OQo5Fm3vx_c-1DtwMX6p",
+            "fileTitle": "mg_ceia_01.pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         },
         {
@@ -2097,6 +2200,15 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1GPnIMfvfOVg5EmH6O2mOB5cHZi0yyJ-T",
+            "fileTitle": "Susanna_and_the_Elders_(1610),_Artemisia_Gentileschi.pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         },
         {
@@ -2115,6 +2227,15 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1OVp8rhP1KOv4D5CL04ZaIYZC7oHdEWlI",
+            "fileTitle": "Execução-de-punição-por-flagelo-de-Jean-Baptiste-Debret.pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         },
         {
@@ -2133,6 +2254,15 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1K87oQoadSWw9VZwR-Zpzs_oZ9xKhQzwB",
+            "fileTitle": "Georges Seurat 043 - Torre Eiffel (Seurat) – Wikipédia, a enciclopédia livre.pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         },
         {
@@ -2151,6 +2281,15 @@
             "rights": "Não conferidos; não autoriza republicação.",
             "access": "Não confirmado nesta sessão",
             "error": "HTTP Error 429: Too Many Requests"
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1xSgJ0RFADv2IoNYtgtLbX4bHoAPfOY0m",
+            "fileTitle": "JEAN_LOUIS_THÉODORE_GÉRICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre,_1818-19).jpg",
+            "mimeType": "image/jpeg",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         }
       ]
@@ -3051,6 +3190,15 @@
             "scope": "Catálogo do conjunto de doze afrescos Ciclos Econômicos no Palácio Gustavo Capanema. Identificação e histórico conferidos; inspeção individual das doze reproduções ainda pendente.",
             "verification": "Conteúdo textual e identificação da obra conferidos.",
             "rights": "Link externo; não autoriza republicação das obras."
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1-FGEVnpsgl-XJp1QjwgKd4sE4SpK_sEy",
+            "fileTitle": "portinari.pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         },
         {
@@ -3123,6 +3271,15 @@
             "scope": "Matéria institucional de 24/02/2021 com imagens identificadas dos painéis doados ao Butantan e à Fiocruz. Registra produção em 2020 e doação em 2021; o ano de 2021 da referência do PAS foi preservado. Conferência visual detalhada ainda pendente.",
             "verification": "Conteúdo textual e identificação da obra conferidos.",
             "rights": "Link externo; não autoriza republicação das obras."
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1vwxeuYidPdrkTt02w9velAntYm9QNgb-",
+            "fileTitle": "Vacine Covid Eduardo Kobra.pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         },
         {
@@ -3151,6 +3308,15 @@
             "scope": "Página do próprio artista com descrição e galeria identificada do mural de Einstein na rua Oscar Freire. Texto e destino conferidos; inspeção visual detalhada ainda pendente.",
             "verification": "Conteúdo textual e identificação da obra conferidos.",
             "rights": "Link externo; não autoriza republicação das obras."
+          },
+          "followUpTechnicalReview": {
+            "date": "2026-10-28",
+            "access": "Metadados disponíveis na conta Google Drive conectada; acesso por estudantes sem autenticação e conteúdo visual não testados.",
+            "fileId": "1hF5KqBEeGWl1VHWV_3QyGIMEZZvAEeW2",
+            "fileTitle": "KOBRA, EDUARDO.pdf",
+            "mimeType": "application/pdf",
+            "sharedFlag": true,
+            "rights": "Permissão de distribuição não verificada."
           }
         }
       ]
