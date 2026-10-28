@@ -701,7 +701,8 @@
       "checked": "27/10/2026",
       "full": true,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "PDF público aberto: 206 páginas, organizado por Daniel R. N. Lopes, com Eutífron, Apologia de Sócrates e Críton. Para o PAS 1, a referência é Apologia de Sócrates."
     },
     {
       "id": "pas_gilgamesh",
@@ -723,7 +724,8 @@
       "checked": "27/10/2026",
       "full": true,
       "format": "PDF — seleção do PAS",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "PDF de 47 páginas baixado da UnB; capa inspecionada. A edição é uma adaptação de Rosana Rios, não uma tradução integral anônima das tábuas. A fonte oficial utiliza a designação A Epopeia de Gilgamesh."
     },
     {
       "id": "pas_literatura_1",
@@ -814,7 +816,8 @@
       "checked": "27/10/2026",
       "full": true,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "PDF público aberto: 9 páginas, tradução de Luiz Paulo Rouanet, conforme o próprio arquivo. Há divergência com a tradução de Floriano de Souza Fernandes mencionada na lista de referência; conferir a edição exigida para a prova."
     },
     {
       "id": "pas_sueli_epistemicidio",
@@ -858,7 +861,7 @@
       "source": "UnB / Cebraspe — acesso indicado na lista",
       "checked": "27/10/2026",
       "full": false,
-      "format": "Arquivo indicado na lista oficial",
+      "format": "Seleção / recorte indicado pelo PAS",
       "accessLabel": "Abrir referência do PAS ↗",
       "accessScope": "Recorte de Ideias para adiar o fim do mundo, não o livro integral."
     },
@@ -881,7 +884,7 @@
       "source": "UnB / Cebraspe — acesso indicado na lista",
       "checked": "27/10/2026",
       "full": false,
-      "format": "Arquivo indicado na lista oficial",
+      "format": "Seleção / recorte indicado pelo PAS",
       "accessLabel": "Abrir referência do PAS ↗",
       "accessScope": "Texto/seleção do PAS; não corresponde à edição integral da obra de origem."
     },
@@ -905,7 +908,8 @@
       "checked": "27/10/2026",
       "full": true,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "PDF de 50 páginas. Tradução não identificada nesta conferência; consultar os créditos da edição."
     },
     {
       "id": "pas_inimigo_povo",
@@ -927,7 +931,8 @@
       "checked": "27/10/2026",
       "full": true,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "PDF de 80 páginas. Tradução não identificada nesta conferência."
     },
     {
       "id": "pas_necropolitica",
@@ -949,7 +954,8 @@
       "checked": "27/10/2026",
       "full": true,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "Ensaio em Arte & Ensaios, nº 32 (2016), disponível na UFRJ. O PDF indicado pelo PAS tem 30 páginas. Não confundir com outras edições em livro."
     },
     {
       "id": "pas_sociedade_cansaco",
@@ -979,7 +985,7 @@
       "title": "O que tem debaixo da Terra?",
       "author": "Erica Miranda Suckow",
       "kind": "História em quadrinhos",
-      "desc": "Leitura indicada no PAS 1.",
+      "desc": "História em quadrinhos de Erica Miranda Suckow indicada no PAS 1, sobre o que existe abaixo da superfície terrestre.",
       "note": "PDF de 17 páginas. Capa conferida visualmente, com título e autoria.",
       "url": "https://drive.google.com/file/d/16VEADzmy087-S7A14Nq0LEiYV3X7vC4a/view",
       "pdf": "",
@@ -994,14 +1000,15 @@
       "checked": "27/10/2026",
       "full": true,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "PDF de 17 páginas. Capa conferida visualmente, com título e autoria."
     },
     {
       "id": "pas_auto_virtude",
       "title": "Auto da Virtude e da Esperança — terceiro ato de A Pena e a Lei",
       "author": "Ariano Suassuna",
       "kind": "Teatro — recorte",
-      "desc": "Leitura indicada no PAS 1.",
+      "desc": "Terceiro ato de A Pena e a Lei, de Ariano Suassuna, indicado no PAS 1. Ficha específica do recorte Auto da Virtude e da Esperança.",
       "note": "PDF de 48 páginas. Página inicial conferida: Terceiro Ato. Recorte indicado pela lista oficial; não é a peça completa.",
       "url": "https://drive.google.com/file/d/15U3ZSUo1J9sWS-xI65XQxadYQqEVquZ1/view?usp=drive_link",
       "pdf": "",
@@ -1015,7 +1022,7 @@
       "source": "UnB / Cebraspe — acesso indicado na lista",
       "checked": "27/10/2026",
       "full": false,
-      "format": "Arquivo indicado na lista oficial",
+      "format": "Seleção / recorte indicado pelo PAS",
       "accessLabel": "Abrir referência do PAS ↗",
       "accessScope": "Terceiro ato de A Pena e a Lei; não é a peça completa."
     },
@@ -1024,7 +1031,7 @@
       "title": "O burguês fidalgo",
       "author": "Molière",
       "kind": "Teatro",
-      "desc": "Leitura indicada no PAS 2.",
+      "desc": "Comédia-bailado de Molière indicada no PAS 2, sobre a aspiração de um burguês à condição de nobre.",
       "note": "PDF de 61 páginas. Página inicial conferida visualmente: O Burguês Fidalgo — Comédia-bailado. Tradução não identificada nesta conferência.",
       "url": "https://drive.google.com/file/d/1gkJramDGntiGE1oA91Mw0POZXyQOx1Vg/view",
       "pdf": "",
@@ -1039,7 +1046,8 @@
       "checked": "27/10/2026",
       "full": true,
       "format": "Arquivo indicado na lista oficial",
-      "accessLabel": "Abrir referência do PAS ↗"
+      "accessLabel": "Abrir referência do PAS ↗",
+      "accessScope": "PDF de 61 páginas. Página inicial conferida visualmente: O Burguês Fidalgo — Comédia-bailado. Tradução não identificada nesta conferência."
     },
     {
       "id": "cur_reed_dez_dias",
