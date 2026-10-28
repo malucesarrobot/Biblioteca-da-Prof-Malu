@@ -1,11 +1,11 @@
 # Checklist de testes no ChatGPT Work — Biblioteca da Prof. Malu
-Atualizado em 27/10/2026. Documento para execução interativa; a automação das 23h55 é um lembrete e não executa o Work.
+Atualizado em 28/10/2026. Documento para execução interativa; a automação das 23h55 é um lembrete e não executa o Work.
 
 ## Atualização feita neste chat em 28/10/2026
 
 **Documentação detalhada:** [PESQUISA-PAS-2026-10-28.md](PESQUISA-PAS-2026-10-28.md). Política editorial: apresentar aos alunos somente acessos gratuitos; quando não houver obra integral, sinalizar e convidar quem conhecer fonte autorizada a comunicar à professora.
 
-- Fichas atualizadas no `pas-referencias.json` para 8 referências prioritárias; `index.html` agora apresenta `supportLinks` (múltiplos links por item) e consulta `pas-referencias.json?v=5`.
+- Fichas atualizadas no `pas-referencias.json` para 8 referências prioritárias; `index.html` agora apresenta `supportLinks` (múltiplos links por item) e consulta `pas-referencias.json?v=7`.
 - **PAS 1 — insetos:** reportagem alternativa Superinteressante e notícia institucional da USP localizadas; HQ *Ciclos* atribuída a Luciano Queiroz/Marco Merlin; URL do autor identificada, mas seu carregamento expirou. Não considerar íntegra conferida.
 - **PAS 1 — Divina Comédia HQ:** duas amostras oficiais documentadas; íntegra continua aguardando acesso de professores.
 - **PAS 1 — Clermont e PAS 2 — Kant:** versões alternativas continuam expressamente sinalizadas; Clermont conta com fonte historiográfica universitária italiana; tradução de Floriano de Sousa Fernandes de Kant não localizada integralmente.
@@ -14,6 +14,20 @@ Atualizado em 27/10/2026. Documento para execução interativa; a automação da
 - **PAS 3 — Eles não usam Black-Tie / Vestido de Noiva:** links comerciais removidos das fichas; permanecem materiais acadêmicos gratuitos; texto integral gratuito e autorizado não confirmado e não redistribuído.
 - **Não realizado neste chat:** inspeção de páginas de HQ que não carregaram, exibição integral das duas montagens, testes interativos reais em celular e computador e acesso de professores.
 - **Atenção:** o PDF da UnB para PAS 2 e PAS 3 consultado no repositório está identificado como **versão preliminar de junho de 2024**; manter alerta editorial ao comparar com atualizações futuras.
+
+## Testes adicionais de 28/10/2026 (segunda rodada)
+
+**Registro detalhado:** [AUDITORIA-TECNICA-2026-10-28.md](AUDITORIA-TECNICA-2026-10-28.md).
+
+- Integridade estrutural validada: **540 registros únicos**, sem IDs duplicados, URLs principais malformadas ou vínculos internos faltantes; mantidos 174 itens PAS e 4 módulos ProfHistória.
+- GitHub Actions Pages: implantação do commit de referência `45f77ad4ccfbc67d4324e270f247c4ef7c0d83db` concluiu com `success`, run `40668052629`. O endereço público ainda não foi inspecionado em navegador real.
+- **12 referências PAS com arquivos no Drive (9 arquivos distintos):** nomes, formatos e tamanhos localizados com conta autenticada; não foi testado acesso anônimo e não se conferiram conteúdo e licença. Identificação registrada nas fichas por `followUpTechnicalReview`.
+- **7 referências PAS 1 de artes visuais:** páginas informativas Wikimedia/Wikipédia responderam; faltam inspeção exata de imagem e licença; não classificar como obra visual comprovada.
+- **Constituição Federal PAS 1:** Planalto bloqueou a ferramenta de consulta, mas portal oficial da Câmara abriu e foi acrescentado como alternativa gratuita.
+- **ENEM — Quarto de despejo:** removido link secundário para PDF sem autorização comprovada; empréstimo gratuito BibliON preservado.
+- **Faltaram ao teste externo:** 3 referências de arte PAS 1 (Sankore, Serra da Capivara e mosaico de Teodora), Vimeo, reportagem G1 e verificação do Drive em navegador não autenticado. A amostra de links da Livraria da Câmara mostra opção de PDF gratuito mesmo quando a versão impressa é vendida; não orientar a compra.
+- **Cache:** `leituras-enem.json?v=8` e `pas-referencias.json?v=7`.
+- **Obras faltantes:** manter a busca suspensa nesta rodada por solicitação da usuária; retomar em alguns dias.
 
 ## 1. Site publicado
 URL: https://malucesarrobot.github.io/Biblioteca-da-Prof-Malu/
