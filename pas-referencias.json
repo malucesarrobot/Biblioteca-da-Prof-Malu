@@ -1,12 +1,12 @@
 {
-  "checked": "27/10/2026",
+  "checked": "27/10/2026 — conferência editorial complementar",
   "stages": [
     {
       "stage": 1,
       "subprogram": "2026–2028",
       "source": "https://cdn.cebraspe.org.br/Files_WP/Uploads/2026/Obras%20pas%201%20novo-1.pdf",
       "preliminary": false,
-      "note": "Lista atualizada para PAS 1 2026–2028.",
+      "note": "Lista atualizada para PAS 1 2026–2028. Esta edição de 2026 substitui a versão divulgada em 2025 (com mudanças em audiovisual, artes visuais, o movimento de César Guerra-Peixe e recortes textuais). Não confundir as duas listas.",
       "items": [
         {
           "stage": 1,
@@ -357,8 +357,9 @@
           "id": "pas1_textos_2",
           "sourcePage": 3,
           "title": "Linguagem humana existe há pelo menos 135 mil anos, Laura Segovia Tercic",
-          "status": "Página de destino acessível; leitura integral ainda não confirmada.",
-          "url": "https://revistapesquisa.fapesp.br/linguagem-humana-existe-ha-pelo-menos-135-mil-anos/"
+          "status": "Reportagem integral acessível no portal da Pesquisa FAPESP; autoria exibida como Laura Tercic. Conferido em 27/10/2026.",
+          "url": "https://revistapesquisa.fapesp.br/linguagem-humana-existe-ha-pelo-menos-135-mil-anos/",
+          "note": "A lista oficial de 2026 registra Laura Segovia Tercic; na página consultada, a assinatura aparece como Laura Tercic."
         },
         {
           "stage": 1,
@@ -367,7 +368,7 @@
           "id": "pas1_textos_3",
           "sourcePage": 3,
           "title": "Garimpo de ouro na Amazônia: a origem da crise sanitária Yanomami, Paulo Cesar Basta",
-          "status": "Página de destino acessível; leitura integral ainda não confirmada.",
+          "status": "Texto integral em HTML e PDF disponibilizado pelo periódico Cadernos de Saúde Pública (SciELO). Conferido em 27/10/2026.",
           "url": "https://www.scielo.br/j/csp/a/JDwXXTYwsWLctRkBV4vghXR/?lang=pt"
         },
         {
@@ -377,7 +378,7 @@
           "id": "pas1_textos_4",
           "sourcePage": 4,
           "title": "Biólogo e quadrinista transformam artigo científico sobre o ciclo de vida dos insetos em história em quadrinhos, Ana Carolina Moreno; Luciano Queiroz e Marco Merlin (Reportagem e HQ)",
-          "status": "Página de destino acessível; leitura integral ainda não confirmada.",
+          "status": "Link indicado pela lista oficial; portal G1 não permitiu abertura nesta consulta. Conferência via navegador pendente.",
           "url": "https://g1.globo.com/ciencia-e-saude/noticia/2019/02/20/biologo-e-quadrinista-transformam-artigo-cientifico-sobre-o-ciclo-de-vida-dos-insetos-em-historia-em-quadrinhos.ghtml"
         },
         {
@@ -411,7 +412,7 @@
           "id": "pas1_textos_7",
           "sourcePage": 4,
           "title": "As redes sociais são uma armadilha, Zygmunt Bauman",
-          "status": "Página de destino acessível; leitura integral ainda não confirmada.",
+          "status": "Entrevista completa acessível no El País Brasil; consulta realizada em 27/10/2026.",
           "url": "https://brasil.elpais.com/brasil/2015/12/30/cultura/1451504427_675885.html"
         },
         {
@@ -444,10 +445,11 @@
           "id": "pas1_textos_10",
           "sourcePage": 4,
           "title": "A categoria político-cultural de amefricanidade, Lélia Gonzalez",
-          "status": "Link indicado na lista oficial; destino não conferido individualmente",
+          "status": "PDF da Revista de Estudos e Pesquisas sobre as Américas (UnB) conferido: 24 páginas, texto original português e tradução espanhola.",
           "url": "https://periodicos.unb.br/index.php/repam/article/view/40454/31497",
           "catalogId": "apoio_4",
-          "catalogNote": "Referência disponível na estante."
+          "catalogNote": "Referência disponível na estante.",
+          "note": "Edição bilíngue da revista da UnB; publicação original do ensaio em 1988."
         },
         {
           "stage": 1,
@@ -456,7 +458,7 @@
           "id": "pas1_textos_11",
           "sourcePage": 4,
           "title": "Chuvas, erosão e represas moldaram o rio São Francisco nos últimos 90 mil anos. Antes tortuoso e raso, o Velho Chico alinhou-se e aprofundou-se, Carlos Fioravanti",
-          "status": "Página de destino acessível; leitura integral ainda não confirmada.",
+          "status": "Reportagem integral acessível no portal da Pesquisa FAPESP, com opção de PDF. Conferido em 27/10/2026.",
           "url": "https://revistapesquisa.fapesp.br/chuvas-erosao-e-represas-moldaram-o-rio-sao-francisco-nos-ultimos-90-mil-anos/"
         },
         {
@@ -476,8 +478,10 @@
           "id": "pas1_textos_13",
           "sourcePage": 4,
           "title": "Atividade antioxidante de frutas do cerrado, Roberta RoeslerI, Luciana Gomes MaltaI, Luciana Cristina CarrascoI, Roseane Barata HolandaI, Clélia Alves Socorro SousaII e Glaucia Maria PastoreI",
-          "status": "Página de destino acessível; leitura integral ainda não confirmada.",
-          "url": "https://www.scielo.br/j/cta/a/JL5qH3Jtr4NNnXRJkphMVNG/?format=html&lang=pt"
+          "status": "Artigo integral de 2007 localizado e conferido no SciELO; URL complementar do portal antigo preservada.",
+          "url": "https://www.scielo.br/j/cta/a/JL5qH3Jtr4NNnXRJkphMVNG/?format=html&lang=pt",
+          "alternateUrl": "https://www.scielo.br/scielo.php?pid=S0101-20612007000100010&script=sci_arttext",
+          "alternateLabel": "Ler em SciELO — página alternativa"
         },
         {
           "stage": 1,
