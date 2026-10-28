@@ -119,5 +119,11 @@
         "kind": "levantamento editorial"
       }
     ]
+  },
+  "examAnalysis": {
+    "year": 2025,
+    "title": "Análise crítica da prova de 2025 — 20 questões e discursiva",
+    "url": "https://github.com/malucesarrobot/Biblioteca-da-Prof-Malu/blob/main/ANALISE-PROVA-PROFHISTORIA-2025.md",
+    "note": "Análise editorial com matriz das questões, bibliografia efetivamente citada, temas e estratégias de estudo; não é caderno oficial nem gabarito homologado."
   }
 }
