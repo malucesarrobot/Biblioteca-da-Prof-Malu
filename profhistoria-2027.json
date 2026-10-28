@@ -127,7 +127,7 @@
     "note": "Análise editorial com matriz das questões, bibliografia efetivamente citada, temas e estratégias de estudo; não é caderno oficial nem gabarito homologado."
   },
   "selectionReadings": {
-    "checked": "28/10/2026 — ampliação por autores e temas do programa",
+    "checked": "28/10/2026 — consulta adicional em repositórios universitários",
     "notice": "Leituras completas gratuitas para preparação da seleção. Cada ficha diferencia texto citado na prova, texto de um autor e estudo sobre outro autor. Nenhuma é declarada bibliografia obrigatória de 2027. Não substituímos livros comerciais do currículo por artigos distintos sem avisar.",
     "items": [
       {
@@ -259,6 +259,26 @@
         "relation": "Leitura complementar de gênero e ensino; título distinto da referência do catálogo curricular",
         "source": "História (São Paulo) / SciELO, 2005",
         "note": "Artigo integral gratuito que historiciza categorias de mulher, gênero e sexo; título encontrado é diferente da entrada do catálogo do curso."
+      },
+      {
+        "id": "ena_chartier_historia_hoje_ufsc",
+        "title": "A história hoje: dúvidas, desafios, propostas",
+        "author": "Roger Chartier",
+        "year": 1994,
+        "url": "https://repositorio.ufsc.br/handle/123456789/219713",
+        "relation": "Texto original de Chartier, em tradução de Dora Rocha, hospedado na UFSC; não é o livro À beira da falésia",
+        "source": "Repositório Institucional da UFSC; texto apresentado no seminário CPDOC 20 Anos",
+        "note": "Registro universitário disponibiliza PDF do texto em português, com autoria, tradução e data. Não copiar a tradução para o GitHub."
+      },
+      {
+        "id": "ena_monteiro_rossato_profhistoria",
+        "title": "ProfHistória: formação docente, demandas do presente e novas perspectivas para o Ensino de História",
+        "author": "Ana Maria Monteiro; Luciana Rossato",
+        "year": 2023,
+        "url": "https://www.e-publicacoes.uerj.br/maracanan/article/view/71053",
+        "relation": "Artigo original de docentes vinculadas à rede ProfHistória; não é livro da bibliografia curricular",
+        "source": "Revista Maracanan / UERJ, 2023, CC BY 4.0",
+        "note": "Estudo em acesso aberto da produção acadêmica, dos temas de pesquisa e da formação docente no próprio ProfHistória."
       }
     ],
     "officialPractice": [
@@ -273,6 +293,133 @@
       {
         "label": "Acervo de provas oficiais anteriores",
         "url": "https://site.profhistoria.com.br/prepare-se/"
+      }
+    ]
+  },
+  "networkResearch": {
+    "checked": "28/10/2026",
+    "notice": "Dissertações e produtos educacionais produzidos nas universidades da rede ProfHistória. São pesquisas gratuitas disponíveis nos acervos institucionais; NÃO são os livros originais da bibliografia curricular nem materiais obrigatórios da prova de ingresso.",
+    "items": [
+      {
+        "id": "rede_uerj_historical_thinking_2025",
+        "university": "UERJ",
+        "program": "ProfHistória",
+        "year": 2025,
+        "author": "José Cordeiro Menezes Netto",
+        "title": "Teoria da História em sala de aula: o historical thinking como possibilidade metodológica para o ensino de história na escola",
+        "url": "https://educapes.capes.gov.br/handle/capes/1134102",
+        "type": "Dissertação com proposta metodológica",
+        "axis": "conhecimento",
+        "relevance": "Pensamento histórico, temporalidades, investigação de fontes e mediação de conceitos no Ensino Fundamental",
+        "accessNote": "Página eduCAPES oferece PDF da dissertação, 1,71 MB"
+      },
+      {
+        "id": "rede_ufrj_linhas_tempo_2016",
+        "university": "UFRJ",
+        "program": "ProfHistória",
+        "year": 2016,
+        "author": "Mariana Mendes Lins",
+        "title": "Linhas do Tempo: trabalhando tempo e temporalidades com alunos do 6º ano",
+        "url": "https://educapes.capes.gov.br/handle/capes/174607",
+        "type": "Dissertação com proposta didática",
+        "axis": "tempos",
+        "relevance": "Tempo histórico, linhas de tempo e problematização da temporalidade com estudantes",
+        "accessNote": "Página eduCAPES oferece PDF da dissertação, 1,74 MB"
+      },
+      {
+        "id": "rede_unespar_antirracista_2024",
+        "university": "Unespar",
+        "program": "ProfHistória",
+        "year": 2024,
+        "author": "Francisco Lopes da Silva",
+        "title": "O Ensino de História e a Educação Antirracista: proposta de uma sequência didática a partir do uso de imagens",
+        "url": "https://educapes.capes.gov.br/handle/capes/973105",
+        "type": "Dissertação com sequência didática",
+        "axis": "ensino",
+        "relevance": "Racismo estrutural, fontes visuais, educação antirracista e planejamento pedagógico",
+        "accessNote": "Página eduCAPES oferece PDF da dissertação, 7,26 MB"
+      },
+      {
+        "id": "rede_ufmt_cidadania_voto_2021",
+        "university": "UFMT",
+        "program": "ProfHistória",
+        "year": 2021,
+        "author": "Ediomar Dallanora",
+        "title": "Cidadania, experiência democrática e voto: proposta de uma sequência didática para aulas de História",
+        "url": "https://educapes.capes.gov.br/handle/capes/699656",
+        "type": "Dissertação com sequência didática",
+        "axis": "ensino",
+        "relevance": "História política, cidadania, democracia e planejamento de aulas; relaciona-se ao tema da discursiva de 2025",
+        "accessNote": "Página eduCAPES oferece PDF da dissertação, 2,52 MB"
+      },
+      {
+        "id": "rede_ufrrj_samba_memoria_2019",
+        "university": "UFRRJ",
+        "program": "ProfHistória",
+        "year": 2019,
+        "author": "Fabricio Castilho Nunes de Andrade",
+        "title": "Samba de escola: o uso dos conceitos de memória e identidade para a educação das relações étnico-raciais",
+        "url": "https://educapes.capes.gov.br/handle/capes/580883",
+        "type": "Dissertação com proposta de ensino",
+        "axis": "memoria",
+        "relevance": "Samba-enredo como fonte histórica, memória, identidade e relações étnico-raciais",
+        "accessNote": "Página eduCAPES oferece PDF da dissertação, 2,49 MB"
+      },
+      {
+        "id": "rede_ufsc_performance_docente_2020",
+        "university": "UFSC",
+        "program": "ProfHistória",
+        "year": 2020,
+        "author": "Flávio Teixeira da Cunha",
+        "title": "Performance docente no Ensino de História",
+        "url": "https://educapes.capes.gov.br/handle/capes/600935",
+        "type": "Dissertação",
+        "axis": "ensino",
+        "relevance": "Saberes escolares, mediação didática, prática docente e ensino do Holocausto",
+        "accessNote": "Página eduCAPES oferece PDF da dissertação, 6,96 MB"
+      },
+      {
+        "id": "rede_ufg_fake_history_2025",
+        "university": "UFG",
+        "program": "ProfHistória",
+        "year": 2025,
+        "author": "Israel Ferreira dos Santos",
+        "title": "Anatomia da fake history: casos, características e motivações — infográficos didáticos para o ensino de História na Educação Básica",
+        "url": "https://repositorio.bc.ufg.br/tede/items/663cef19-b7b2-42b7-a431-04d3d1a90ba6",
+        "type": "Dissertação com infográficos didáticos",
+        "axis": "ensino",
+        "relevance": "Falsificações do passado, negacionismo, evidências, epistemologia histórica, cidadania digital",
+        "accessNote": "Repositório UFG oferece PDF da dissertação, 4,06 MB"
+      }
+    ]
+  },
+  "universityStudies": {
+    "checked": "28/10/2026",
+    "notice": "Estudos acadêmicos abertos da UFG sobre Paul Ricoeur. Seus autores NÃO são Paul Ricoeur e as dissertações pertencem ao Mestrado em História, e não ao ProfHistória.",
+    "items": [
+      {
+        "id": "ufg_sampaio_ricoeur_2021",
+        "university": "UFG",
+        "program": "Mestrado em História (não ProfHistória)",
+        "year": 2021,
+        "author": "Isanara Kethly Silva Sampaio",
+        "title": "Paul Ricoeur e a história: a verdade do discurso histórico como problema epistemológico",
+        "url": "https://repositorio.bc.ufg.br/tede/items/78d1e738-4a84-4922-a97b-a66870d2faa9",
+        "axis": "conhecimento",
+        "relevance": "Pretensão de verdade, representância, narrativa e memória em Tempo e narrativa e A memória, a história, o esquecimento",
+        "accessNote": "Dissertação de acesso aberto na UFG, PDF 1,31 MB; licença CC BY-NC-ND 4.0"
+      },
+      {
+        "id": "ufg_moraes_ricoeur_2020",
+        "university": "UFG",
+        "program": "Mestrado em História (não ProfHistória)",
+        "year": 2020,
+        "author": "Iury Ercolani Moraes",
+        "title": "A configuração da narrativa histórica segundo Paul Ricoeur (1913–2005)",
+        "url": "https://repositorio.bc.ufg.br/tede/items/0fbb4f3d-0709-4364-9c71-b30d5b57634a",
+        "axis": "tempos",
+        "relevance": "Tripla mímesis, narrativas, tempo histórico, calendário, testemunho e prova histórica",
+        "accessNote": "Dissertação de acesso aberto na UFG, PDF 996,75 KB; licença CC BY-NC-ND 4.0"
       }
     ]
   }
