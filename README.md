@@ -4,9 +4,10 @@ Conferência editorial e técnica: 27/10/2026.
 ## Fontes de dados ativas
 - `catalogo.json`: 288 livros/documentos, 102 artigos, 83 acervos/recursos e 7 apoios.
 - `leituras-enem.json`: 10 fichas adicionais de leitura, com acessos comerciais não licenciados substituídos por empréstimo ou referência bibliográfica, integradas sem mudar a lista de obras obrigatórias do Enem (que não existe).
-- `curadoria-tematica.json`: 45 fichas de livros/obras, 3 artigos, 1 recurso, 11 percursos temáticos, 3 patches de livros e 2 patches de artigos.
+- `curadoria-tematica.json`: 46 fichas de livros/obras, 3 artigos, 1 recurso, 11 percursos temáticos, 3 patches de livros e 2 patches de artigos.
 - `pas-referencias.json`: 174 referências, sendo 69 do PAS 1, 49 do PAS 2 e 56 do PAS 3. **Referência do PAS não equivale a obra integral disponível.**
-- Total exibido pelo catálogo: **343 livros/documentos/volumes + 105 artigos + 91 recursos/apoios = 540 fichas**. As 174 referências PAS são uma lista adicional, com vínculos a fichas existentes, não 174 novos livros.
+- `profhistoria-2027.json`: quatro eixos do Anexo 4 do Exame Nacional de Acesso 2027; vincula 15 livros/documentos e 18 artigos já cadastrados, sem duplicar fichas.
+- Total exibido pelo catálogo: **344 livros/documentos/volumes + 105 artigos + 91 recursos/apoios = 540 fichas**. As 174 referências PAS são uma lista adicional, com vínculos a fichas existentes, não 174 novos livros.
 
 ## Consolidação do cadastro antigo
 O antigo `leituras.json` reunia 14 registros. Treze já existiam no catálogo ativo com fichas correspondentes. O 14º era um registro genérico da coleção `História Geral da África`, hoje representada por nove volumes individuais (I–VIII, X). Para preservar a procedência sem manter uma segunda fonte de cadastro, o antigo conteúdo foi arquivado em `historico/leituras-2026-10.json` e o arquivo redundante da raiz foi retirado.
@@ -45,3 +46,19 @@ A UNESCO informa que os volumes IX e XI foram concluídos internacionalmente, ma
 ## Teatro do PAS 3 — acesso e direitos
 - *Eles não usam black-tie*: arquivo da USP não foi obtido; adicionada referência à análise de Iná Camargo Costa publicada no periódico acadêmico Discurso/USP, sem apresentá-la como texto dramático.
 - *Vestido de noiva*: o Oficina de Teatro publica um botão de download e indica um arquivo de 168,5 KB, mas o campo licença está vazio. Adicionada ficha bibliográfica da USP. A disponibilidade do download não prova autorização de distribuição da peça protegida.
+
+## ProfHistória 2027 — seção própria
+Página no site: `#profhistoria`. Baseada no Anexo 4 da seleção oficial: https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_anexo_4_-_conteu%CC%81dos_programa%CC%81ticos.pdf
+- (a) Construção do conhecimento histórico: fatos, documentos, narrativas e ensino;
+- (b) Tempos históricos: percepções do tempo, ritmos, rupturas e periodizações;
+- (c) História, memória e identidade: dever de memória, esquecimentos, patrimônio;
+- (d) Ensino de História, cidadania e diversidade cultural: currículo, política, mídias e formação docente.
+A bibliografia exibida é seleção editorial a partir do catálogo, não livros obrigatórios do edital.
+Organizadora: https://econrio.com.br/index.php/course/mestrado-profissional-em-ensino-de-historia-profhistoria-2027/ — inscrições 26/08 a 17/11/2026 e prova em 06/12/2026.
+
+## Limites da validação e tarefas para Work
+- Conferência de código e dados após as alterações: **540 fichas, 174 referências PAS, 4 eixos ProfHistória**; nenhum ID duplicado, ausência de campo essencial ou referência interna sem registro. Scripts JavaScript compilam sintaticamente. Esse resultado não equivale a teste de interface no navegador.
+- A lista de **83 links PAS ainda sujeitos a inspeção interativa**, incluindo vídeo, áudio, obras visuais, Google Drive e teatro, foi consolidada em `pas-pendentes-work.json`.
+- O procedimento com verificações visuais (desktop e celular), downloads, redirecionamentos, autenticação, filtros e licenças está descrito em `WORK-CHECKLIST.md`. A automação das 23h55 apenas lembra de usar o Work para executar esses testes.
+- O acesso ao domínio GitHub Pages publicado não foi comprovado nesta consulta; não confundir repositório atualizado com interface web renderizada e testada.
+- *Darwinismo e racismo científico no Brasil* continua registrado em `curadoria-tematica.json.pending`, com dados editoriais, mas sem PDF integral gratuito confirmado por fonte autorizada.
