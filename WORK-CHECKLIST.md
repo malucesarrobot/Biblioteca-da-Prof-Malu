@@ -1,6 +1,20 @@
 # Checklist de testes no ChatGPT Work — Biblioteca da Prof. Malu
 Atualizado em 27/10/2026. Documento para execução interativa; a automação das 23h55 é um lembrete e não executa o Work.
 
+## Atualização feita neste chat em 28/10/2026
+
+**Documentação detalhada:** [PESQUISA-PAS-2026-10-28.md](PESQUISA-PAS-2026-10-28.md).
+
+- Fichas atualizadas no `pas-referencias.json` para 8 referências prioritárias; `index.html` agora apresenta `supportLinks` (múltiplos links por item) e consulta `pas-referencias.json?v=5`.
+- **PAS 1 — insetos:** reportagem alternativa Superinteressante e notícia institucional da USP localizadas; HQ *Ciclos* atribuída a Luciano Queiroz/Marco Merlin; URL do autor identificada, mas seu carregamento expirou. Não considerar íntegra conferida.
+- **PAS 1 — Divina Comédia HQ:** duas amostras oficiais documentadas; íntegra continua aguardando acesso de professores.
+- **PAS 1 — Clermont e PAS 2 — Kant:** versões alternativas continuam expressamente sinalizadas; Clermont conta com fonte historiográfica universitária italiana; tradução de Floriano de Sousa Fernandes de Kant não localizada integralmente.
+- **PAS 2 — Um inimigo do povo:** localizado site da produção da Cia. Código com ficha técnica e trailer; reprodução integral ainda sem validação.
+- **PAS 2 — O burguês fidalgo:** sem gravação confirmada da apresentação indicada para Ribeirão Preto/2014; Parlapatões/2013 cadastrado apenas como **outra montagem**.
+- **PAS 3 — Eles não usam Black-Tie / Vestido de Noiva:** ebooks legais comerciais localizados, com links à editora e material acadêmico; PDF integral gratuito não confirmado e não redistribuído.
+- **Não realizado neste chat:** inspeção de páginas de HQ que não carregaram, exibição integral das duas montagens, testes interativos reais em celular e computador e acesso de professores.
+- **Atenção:** o PDF da UnB para PAS 2 e PAS 3 consultado no repositório está identificado como **versão preliminar de junho de 2024**; manter alerta editorial ao comparar com atualizações futuras.
+
 ## 1. Site publicado
 URL: https://malucesarrobot.github.io/Biblioteca-da-Prof-Malu/
 
