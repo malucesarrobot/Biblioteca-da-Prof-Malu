@@ -1,7 +1,7 @@
 {
-  "checked": "28/10/2026 — versão pública com apenas leituras disponíveis",
+  "checked": "28/10/2026 — segunda rodada: apenas leituras gratuitas conferidas",
   "notice": "Esta seção mostra exclusivamente obras e artigos disponíveis para leitura gratuita nas fontes indicadas. Referências sem acesso gratuito confirmado ficam fora da biblioteca pública. O programa do exame não estabelece uma lista obrigatória de livros.",
-  "method": "Seleção editorial das leituras efetivamente acessíveis e vinculadas às disciplinas do ProfHistória. Pesquisa de títulos faltantes mantida fora da interface pública; não mostrar disciplinas sem leitura disponível.",
+  "method": "Referências exatas do catálogo institucional com acesso digital gratuito localizado nas fontes editoriais e universitárias. Não incluir obras sem acesso, nem apresentar textos correlatos como se fossem a edição originalmente indicada.",
   "disciplines": [
     {
       "id": "curso_2",
@@ -11,7 +11,8 @@
       "page": 5,
       "referenceIds": [
         "cezar_licao",
-        "ferreira_fnfi"
+        "ferreira_fnfi",
+        "nadai_ensino_historia_brasil"
       ],
       "review": "amostra-bibliografica-conferida"
     },
@@ -62,6 +63,31 @@
         "rusen_didatica"
       ],
       "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_17",
+      "number": 17,
+      "title": "Narrativa, imagem e construção do fato histórico",
+      "type": "optativa",
+      "page": 22,
+      "referenceIds": [
+        "knauss_historia_arte_imagem"
+      ],
+      "review": "referencias-exatas-verificadas"
+    },
+    {
+      "id": "curso_19",
+      "number": 19,
+      "title": "Seminário especial linguagens e narrativas históricas: produção e difusão",
+      "type": "optativa",
+      "page": 23,
+      "referenceIds": [
+        "mauad_atraves_imagem",
+        "liebel_sentidos_interpretacoes",
+        "molina_ensino_historia_imagens",
+        "grinberg_almeida_detetives"
+      ],
+      "review": "referencias-exatas-verificadas"
     }
   ],
   "references": [
@@ -176,6 +202,72 @@
       "source": "SciELO / Revista Brasileira de Ciências Sociais, 2004",
       "license": "Artigo disponível para leitura gratuita no periódico",
       "note": "Texto exato indicado na bibliografia de Educação patrimonial e ensino de História."
+    },
+    {
+      "id": "nadai_ensino_historia_brasil",
+      "author": "Elza Nadai",
+      "title": "O ensino de história no Brasil: trajetória e perspectiva",
+      "kind": "artigo",
+      "url": "https://www.anpuh.org/arquivo/download?ID_ARQUIVO=30596",
+      "source": "Revista Brasileira de História / ANPUH, v. 13, n. 25/26, 1993",
+      "note": "Artigo completo de 20 páginas no site oficial da ANPUH. O catálogo curricular indica páginas 163–174, mas o PDF original apresenta 143–162; conferir divergência bibliográfica antes de citar.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita"
+    },
+    {
+      "id": "knauss_historia_arte_imagem",
+      "author": "Paulo Knauss",
+      "title": "Aproximações disciplinares: história, arte e imagem",
+      "kind": "artigo",
+      "url": "https://seer.ufrgs.br/index.php/anos90/article/download/7964/4752/0",
+      "source": "Anos 90 / UFRGS, v. 15, n. 28, 2008",
+      "note": "Artigo integral do periódico institucional sobre fontes visuais e cultura visual. Texto exato indicado na disciplina 17.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita"
+    },
+    {
+      "id": "mauad_atraves_imagem",
+      "author": "Ana Maria Mauad",
+      "title": "Através da imagem: fotografia e história — interfaces",
+      "kind": "artigo",
+      "url": "https://www2.historia.uff.br/tempo/wp-content/uploads/2024/11/artg2-4.pdf",
+      "source": "Tempo / Universidade Federal Fluminense, v. 1, n. 2, 1996",
+      "note": "Artigo original da revista Tempo/UFF, PDF com 15 páginas digitalizadas. Obra exata indicada na disciplina 19.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita"
+    },
+    {
+      "id": "liebel_sentidos_interpretacoes",
+      "author": "Vinícius Liebel",
+      "title": "Entre sentidos e interpretações: apontamentos sobre análise documentária de imagens",
+      "kind": "artigo",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/etd/article/view/1195",
+      "source": "ETD — Educação Temática Digital / Unicamp, 2011",
+      "note": "Artigo exato da bibliografia curricular, com PDF gratuito na revista da Unicamp.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita"
+    },
+    {
+      "id": "molina_ensino_historia_imagens",
+      "author": "Ana Heloisa Molina",
+      "title": "Ensino de História e imagens: possibilidades de pesquisa",
+      "kind": "artigo",
+      "url": "https://ojs.uel.br/revistas/uel/index.php/dominiosdaimagem/article/view/19265",
+      "source": "Domínios da Imagem / UEL, v. 1, n. 1, 2007",
+      "note": "Artigo indicado na disciplina 19; oferece PDF gratuito na revista da UEL. Metadados do portal foram migrados em data posterior à edição original.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita"
+    },
+    {
+      "id": "grinberg_almeida_detetives",
+      "author": "Keila Grinberg; Anita Almeida",
+      "title": "Detetives do passado no mundo do futuro: divulgação científica, ensino de História e internet",
+      "kind": "artigo",
+      "url": "https://rhhj.anpuh.org/RHHJ/article/view/8",
+      "source": "Revista História Hoje / ANPUH, v. 1, n. 1, 2012",
+      "note": "Artigo exato do catálogo e disponível gratuitamente na Revista História Hoje (PDF). A data de indexação do portal difere da edição original.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita"
     }
   ],
   "publicScope": "Somente materiais disponíveis; nenhuma referência bibliográfica sem acesso confirmado é oferecida como leitura."
