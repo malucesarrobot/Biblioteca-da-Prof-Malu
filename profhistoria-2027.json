@@ -93,5 +93,31 @@
       ],
       "studyGuidance": "Estude os debates sobre currículo, formação de professores, desigualdades e narrativas digitais. Construa um recurso didático e justifique seus objetivos e limites, sem confundir leituras complementares com obras oficiais exigidas."
     }
-  ]
+  ],
+  "bibliographyContext": {
+    "checked": "28/10/2026",
+    "warning": "O edital de ingresso 2027 não lista autores ou livros obrigatórios. O catálogo de disciplinas abaixo tem bibliografia curricular do mestrado; as provas antigas mostram leituras utilizadas em questões, sem prever a prova de 2027.",
+    "sources": [
+      {
+        "label": "Catálogo de disciplinas do Mestrado — bibliografias",
+        "url": "https://site.profhistoria.com.br/wp-content/uploads/2025/06/Catalogo-das-disciplinas-do-Mestrado.pdf",
+        "kind": "bibliografia curricular, não bibliografia do edital"
+      },
+      {
+        "label": "Prova de 2024 — textos e autores citados",
+        "url": "https://site.profhistoria.com.br/wp-content/uploads/2024/09/23048_prova.pdf",
+        "kind": "exame anterior"
+      },
+      {
+        "label": "Prova de 2016 — textos e autores citados",
+        "url": "https://site.profhistoria.com.br/wp-content/uploads/2023/08/2016-Prova.pdf",
+        "kind": "exame anterior"
+      },
+      {
+        "label": "Pesquisa bibliográfica comparada — Biblioteca da Prof. Malu",
+        "url": "https://github.com/malucesarrobot/Biblioteca-da-Prof-Malu/blob/main/PESQUISA-BIBLIOGRAFIA-PROFHISTORIA-2027.md",
+        "kind": "levantamento editorial"
+      }
+    ]
+  }
 }
