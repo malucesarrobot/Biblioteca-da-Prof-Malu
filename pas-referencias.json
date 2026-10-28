@@ -1897,11 +1897,19 @@
           "id": "pas3_teatro_2",
           "sourcePage": 8,
           "title": "Vestido de Noiva",
-          "status": "Oficina de Teatro apresenta ficha e botão 'Baixar a peça' (168,5 KB), mas o arquivo e a licença da obra integral não foram confirmados.",
+          "status": "Retestado em navegador em 28/10/2026: botão Download abre página vazia; arquivo integral não obtido.",
           "url": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/viewdownload/5-pecas-diversas/101-vestido-de-noiva",
           "note": "A página de terceiros possui campo 'Licença' sem especificação. Nelson Rodrigues tem direitos autorais vigentes. Há bibliografia da peça no acervo teatral da USP; não se deve afirmar distribuição autorizada do texto.",
           "alternateUrl": "https://bctb.eca.usp.br/obra.php?cod=9743",
-          "alternateLabel": "Consultar ficha bibliográfica da peça na USP ↗"
+          "alternateLabel": "Consultar ficha bibliográfica da peça na USP ↗",
+          "accessReview": {
+            "date": "2026-10-28",
+            "finalUrl": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/finish/5-pecas-diversas/101-vestido-de-noiva",
+            "destinationTitle": "Oficina de Teatro — download de Vestido de Noiva",
+            "access": "sem acesso",
+            "rights": "Licença de distribuição não identificada; campo Licença vazio na ficha.",
+            "error": "Após expandir Baixar a peça e clicar em Download, o navegador exibiu página vazia."
+          }
         },
         {
           "stage": 3,
