@@ -23,13 +23,7 @@
     "full": true,
     "format": "Empréstimo digital",
     "accessLabel": "Ler na BibliON ↗",
-    "accessLinks": [
-      {
-        "label": "PDF no portal educacional de Praia Grande ↗",
-        "url": "https://dpid.cidadaopg.sp.gov.br/pde/arquivos/1623677495235~Quarto%20de%20Despejo%20-%20Maria%20Carolina%20de%20Jesus.pdf.pdf"
-      }
-    ],
-    "sourceNote": "Alternativa hospedada em portal público. Não foi localizada autorização explícita para a distribuição aberta desse PDF; não o tratamos como domínio público."
+    "sourceNote": "A biblioteca oferece empréstimo pela BibliON. Um PDF avulso hospedado por terceiros foi removido por não haver licença de distribuição aberta comprovada; não tratá-lo como obra em domínio público."
   },
   {
     "id": "enem_vidas_secas",
