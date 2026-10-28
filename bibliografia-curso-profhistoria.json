@@ -1,0 +1,760 @@
+{
+  "checked": "28/10/2026",
+  "source": "https://site.profhistoria.com.br/wp-content/uploads/2025/06/Catalogo-das-disciplinas-do-Mestrado.pdf",
+  "sourceTitle": "Catálogo das disciplinas do mestrado ProfHistória — 53 páginas",
+  "notice": "Esta é a bibliografia curricular das disciplinas do mestrado, NÃO uma lista de livros obrigatórios do Exame Nacional de Acesso 2027. Links de leitura somente para acesso gratuito e autorizado. Obras sem esse acesso aparecem com referência bibliográfica e link ao catálogo oficial.",
+  "method": "Índice das 36 disciplinas transcrito do catálogo oficial. Primeira rodada de referências: duas obrigatórias, dois seminários e optativas prioritárias 7, 9, 10, 11, 12 e 19; outras referências ainda serão fichadas. Preserva-se a edição indicada e distingue-se obra idêntica de texto complementar.",
+  "disciplines": [
+    {
+      "id": "curso_1",
+      "number": 1,
+      "title": "Teoria da História",
+      "type": "obrigatoria-ou-seminario",
+      "page": 2,
+      "referenceIds": [
+        "ankersmit_representacao",
+        "arendt_conceito",
+        "burke_escrita",
+        "certeau_escrita",
+        "chartier_falesia",
+        "hartog_regimes",
+        "jenkins_repensada",
+        "koselleck_futuro",
+        "prost_12",
+        "ricoeur_memoria",
+        "rusen_razao",
+        "rusen_reconstrucao",
+        "rusen_historia_viva",
+        "white_tropicos",
+        "munslow"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_2",
+      "number": 2,
+      "title": "História do ensino de História",
+      "type": "obrigatoria-ou-seminario",
+      "page": 5,
+      "referenceIds": [
+        "bittencourt_saber",
+        "bittencourt_livro",
+        "fonseca_thais",
+        "monteiro_prof",
+        "fonseca_selva",
+        "nadai",
+        "cezar_licao",
+        "ferreira_fnfi"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_3",
+      "number": 3,
+      "title": "Seminário de Pesquisa",
+      "type": "obrigatoria-ou-seminario",
+      "page": 6,
+      "referenceIds": [
+        "abreu_soihet",
+        "carretero_construir",
+        "ferreira_franco",
+        "knauss_sala"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_4",
+      "number": 4,
+      "title": "Seminário Tutorial",
+      "type": "obrigatoria-ou-seminario",
+      "page": 6,
+      "referenceIds": [
+        "ankersmit_representacao",
+        "burke_escrita",
+        "certeau_escrita",
+        "chartier_falesia",
+        "hartog_regimes",
+        "jenkins_repensada",
+        "koselleck_futuro",
+        "prost_12",
+        "munslow"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_5",
+      "number": 5,
+      "title": "Cidade, patrimônio urbano e ensino de história",
+      "type": "optativa",
+      "page": 8,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_6",
+      "number": 6,
+      "title": "Currículo de História: memória e produção de identidade/diferença",
+      "type": "optativa",
+      "page": 8,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_7",
+      "number": 7,
+      "title": "Didática da história: trajetória, desafios e perspectivas",
+      "type": "optativa",
+      "page": 10,
+      "referenceIds": [
+        "abreu_soihet",
+        "karnal_sala",
+        "schmidt_cainelli",
+        "bittencourt_metodos"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_8",
+      "number": 8,
+      "title": "Educação patrimonial e ensino de história",
+      "type": "optativa",
+      "page": 10,
+      "referenceIds": [
+        "abreu_regina",
+        "anderson_comunidades",
+        "chagas_patrimonio"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_9",
+      "number": 9,
+      "title": "Ensino d(e) história indígena",
+      "type": "optativa",
+      "page": 11,
+      "referenceIds": [
+        "baniwa_indio"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_10",
+      "number": 10,
+      "title": "Ensino de história da África e da cultura afro-brasileira",
+      "type": "optativa",
+      "page": 13,
+      "referenceIds": [
+        "abreu_mattos",
+        "oliva_escolas"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_11",
+      "number": 11,
+      "title": "Ensino de história e a questão das temporalidades",
+      "type": "optativa",
+      "page": 14,
+      "referenceIds": [
+        "koselleck_futuro",
+        "prost_12",
+        "carretero_identidades",
+        "gontijo_escola",
+        "lego_histmem",
+        "sarlo_tempo",
+        "hartog_tempo",
+        "rusen_sentido",
+        "rusen_didatica"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_12",
+      "number": 12,
+      "title": "Historiografia e ensino de história",
+      "type": "optativa",
+      "page": 15,
+      "referenceIds": [
+        "burke_escrita",
+        "certeau_escrita",
+        "chartier_falesia",
+        "bittencourt_metodos",
+        "lego_histmem",
+        "bloch_apologia"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_13",
+      "number": 13,
+      "title": "História como diferença: história e cultura indígena",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_14",
+      "number": 14,
+      "title": "História do impresso",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_15",
+      "number": 15,
+      "title": "História e história pública",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_16",
+      "number": 16,
+      "title": "Metodologia no ensino de história: o pesquisador-professor e o professor-pesquisador",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_17",
+      "number": 17,
+      "title": "Narrativa, imagem e construção do fato histórico",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_18",
+      "number": 18,
+      "title": "Produção de material didático e o universo virtual",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_19",
+      "number": 19,
+      "title": "Seminário especial linguagens e narrativas históricas: produção e difusão",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [
+        "mauad_imagem"
+      ],
+      "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_20",
+      "number": 20,
+      "title": "Tecnologias da informação e comunicação e ensino de história",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_21",
+      "number": 21,
+      "title": "O ensino de história e as relações de gênero",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_22",
+      "number": 22,
+      "title": "Mito e ensino de história",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_23",
+      "number": 23,
+      "title": "Ensino de história: história oral e narrativa",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_24",
+      "number": 24,
+      "title": "Avaliação no ensino de história: para que, o que e como avaliar?",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_25",
+      "number": 25,
+      "title": "História e educação em direitos humanos",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_26",
+      "number": 26,
+      "title": "História local: usos e potencialidades pedagógicas",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_27",
+      "number": 27,
+      "title": "Usos do biográfico no ensino e na aprendizagem de história",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_28",
+      "number": 28,
+      "title": "A aprendizagem em história e a formação histórica",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_29",
+      "number": 29,
+      "title": "Ensino de história e educação para as relações étnico-raciais",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_30",
+      "number": 30,
+      "title": "Ensino de história e pensamento decolonial",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_31",
+      "number": 31,
+      "title": "Ensino de história e teorias de aprendizagem",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_32",
+      "number": 32,
+      "title": "História das infâncias e juventudes e o Ensino de História",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_33",
+      "number": 33,
+      "title": "Ensino de história e processos emancipatórios em espaços escolares e não escolares de educação",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_34",
+      "number": 34,
+      "title": "Ensino de história e cinema",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_35",
+      "number": 35,
+      "title": "Ensino de história e imagens",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    },
+    {
+      "id": "curso_36",
+      "number": 36,
+      "title": "História Intelectual de Mulheres Negras",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [],
+      "review": "a-conferir"
+    }
+  ],
+  "references": [
+    {
+      "id": "ankersmit_representacao",
+      "author": "Frank Ankersmit",
+      "title": "A escrita da história: natureza da representação histórica",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "arendt_conceito",
+      "author": "Hannah Arendt",
+      "title": "O conceito antigo e moderno de história (em Entre o passado e o futuro)",
+      "kind": "capitulo",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "burke_escrita",
+      "author": "Peter Burke (org.)",
+      "title": "A escrita da História: novas perspectivas",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "certeau_escrita",
+      "author": "Michel de Certeau",
+      "title": "A escrita da História",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "chartier_falesia",
+      "author": "Roger Chartier",
+      "title": "À beira da falésia: a história entre certezas e inquietude",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "hartog_regimes",
+      "author": "François Hartog",
+      "title": "Régimes d’historicité: présentisme et expériences du temps",
+      "kind": "livro",
+      "access": "referencia-bibliografica",
+      "language": "fr"
+    },
+    {
+      "id": "jenkins_repensada",
+      "author": "Keith Jenkins",
+      "title": "A história repensada",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "koselleck_futuro",
+      "author": "Reinhart Koselleck",
+      "title": "Futuro passado: contribuição à semântica dos tempos históricos",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "prost_12",
+      "author": "Antoine Prost",
+      "title": "Doze lições sobre a história",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "ricoeur_memoria",
+      "author": "Paul Ricoeur",
+      "title": "A memória, a história, o esquecimento",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "rusen_razao",
+      "author": "Jörn Rüsen",
+      "title": "Razão histórica: os fundamentos da ciência histórica",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "rusen_reconstrucao",
+      "author": "Jörn Rüsen",
+      "title": "Reconstrução do passado: os princípios da pesquisa histórica",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "rusen_historia_viva",
+      "author": "Jörn Rüsen",
+      "title": "História viva: formas e funções do conhecimento histórico",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "white_tropicos",
+      "author": "Hayden White",
+      "title": "O texto histórico como artefato literário (em Trópicos do discurso)",
+      "kind": "capitulo",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "munslow",
+      "author": "Alun Munslow",
+      "title": "Desconstruindo a história",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "bittencourt_saber",
+      "author": "Circe Bittencourt",
+      "title": "O saber histórico na sala de aula",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "bittencourt_livro",
+      "author": "Circe Bittencourt",
+      "title": "Livro didático e conhecimento histórico: uma história do saber escolar",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "fonseca_thais",
+      "author": "Thaís Nívia de Lima e Fonseca",
+      "title": "História e Ensino de História",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "monteiro_prof",
+      "author": "Ana Maria Monteiro",
+      "title": "Professores de História: entre saberes e práticas",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "fonseca_selva",
+      "author": "Selva Guimarães Fonseca",
+      "title": "Caminhos da história ensinada",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "nadai",
+      "author": "Elza Nadai",
+      "title": "O ensino de História no Brasil: trajetória e perspectivas",
+      "kind": "artigo",
+      "access": "referencia-bibliografica",
+      "note": "Referência exata do catálogo; registro bibliográfico USP encontrado, mas texto integral gratuito não confirmado.",
+      "catalogueReferenceUrl": "https://repositorio.usp.br/item/000875066"
+    },
+    {
+      "id": "cezar_licao",
+      "author": "Temístocles Cezar",
+      "title": "Lição sobre a escrita da história: historiografia e nação no Brasil do século XIX",
+      "kind": "artigo",
+      "access": "leitura-gratuita",
+      "url": "https://periodicos.uem.br/ojs/index.php/Dialogos/article/view/38021",
+      "source": "Revista Diálogos, UEM",
+      "license": "Consulta pública na revista",
+      "note": "Artigo mencionado nominalmente na bibliografia curricular"
+    },
+    {
+      "id": "ferreira_fnfi",
+      "author": "Marieta de Moraes Ferreira",
+      "title": "O ensino da história na Faculdade Nacional de Filosofia da Universidade do Brasil",
+      "kind": "artigo",
+      "access": "leitura-gratuita",
+      "url": "https://www.scielo.br/j/hcsm/a/CHzHTkmKRTnNVGThD7nCdvH/",
+      "source": "SciELO / Fiocruz",
+      "license": "Acesso aberto no periódico",
+      "note": "Artigo mencionado nominalmente na bibliografia curricular"
+    },
+    {
+      "id": "abreu_soihet",
+      "author": "Martha Abreu e Rachel Soihet (orgs.)",
+      "title": "Ensino de História: conceitos, temáticas e metodologia",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "carretero_construir",
+      "author": "Mario Carretero (org.)",
+      "title": "Construir e ensinar: as Ciências Sociais e a História",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "ferreira_franco",
+      "author": "Marieta de Moraes Ferreira e Renato Franco",
+      "title": "Aprendendo História",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "knauss_sala",
+      "author": "Paulo Knauss",
+      "title": "Sobre a norma e o óbvio: a sala de aula como lugar de pesquisa",
+      "kind": "capitulo",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "karnal_sala",
+      "author": "Leandro Karnal (org.)",
+      "title": "História na sala de aula: conceitos, práticas e propostas",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "schmidt_cainelli",
+      "author": "Maria Auxiliadora Schmidt e Marlene Cainelli",
+      "title": "Ensinar História",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "bittencourt_metodos",
+      "author": "Circe Bittencourt",
+      "title": "Ensino de História: fundamentos e métodos",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "carretero_identidades",
+      "author": "Mario Carretero",
+      "title": "Documentos de identidades: a construção da memória histórica em um mundo globalizado",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "gontijo_escola",
+      "author": "Rebeca Gontijo, Marcelo Magalhães e Helenice Rocha (orgs.)",
+      "title": "A escrita da história escolar: memória e historiografia",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "lego_histmem",
+      "author": "Jacques Le Goff",
+      "title": "História e memória",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "sarlo_tempo",
+      "author": "Beatriz Sarlo",
+      "title": "Tempo passado: cultura da memória e guinada subjetiva",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "hartog_tempo",
+      "author": "François Hartog",
+      "title": "Tempo e História: como escrever a história da França hoje?",
+      "kind": "artigo",
+      "access": "leitura-gratuita",
+      "url": "https://ojs.ifch.unicamp.br/index.php/rhs/article/download/89/84",
+      "source": "História Social, Unicamp, nº 3 (1996)",
+      "license": "Artigo disponível na revista institucional",
+      "note": "Texto exato da referência indicada na optativa de temporalidades"
+    },
+    {
+      "id": "rusen_sentido",
+      "author": "Jörn Rüsen",
+      "title": "Como dar sentido ao passado: questões relevantes de meta-história",
+      "kind": "artigo",
+      "access": "leitura-gratuita",
+      "url": "https://www.historiadahistoriografia.com.br/revista/article/view/12",
+      "source": "História da Historiografia (2009)",
+      "license": "Creative Commons BY 4.0",
+      "note": "Texto exato indicado no catálogo"
+    },
+    {
+      "id": "rusen_didatica",
+      "author": "Jörn Rüsen",
+      "title": "Didática da história: passado, presente e perspectivas a partir do caso alemão",
+      "kind": "artigo",
+      "access": "leitura-gratuita",
+      "url": "https://revistas.uepg.br/index.php/praxiseducativa/pt_BR/article/view/279",
+      "source": "Práxis Educativa, UEPG (2006)",
+      "license": "Creative Commons Atribuição",
+      "note": "Texto exato indicado no catálogo"
+    },
+    {
+      "id": "bloch_apologia",
+      "author": "Marc Bloch",
+      "title": "Apologia da História: ou o ofício do historiador",
+      "kind": "livro",
+      "access": "referencia-bibliografica",
+      "catalogId": "cur_bloch_apologie",
+      "note": "Biblioteca possui uma edição em francês; a tradução André Telles indicada no catálogo não está confirmada em acesso integral gratuito."
+    },
+    {
+      "id": "baniwa_indio",
+      "author": "Gersem Baniwa (Gersem dos Santos Luciano)",
+      "title": "O índio brasileiro: o que você precisa saber sobre os povos indígenas no Brasil de hoje",
+      "kind": "livro",
+      "access": "leitura-gratuita",
+      "catalogId": "original_7",
+      "url": "https://acervo.socioambiental.org/acervo/livros/o-indio-brasileiro-o-que-voce-precisa-saber-sobre-os-povos-indigenas-no-brasil-de",
+      "source": "ISA / MEC-LACED",
+      "license": "Acesso gratuito institucional",
+      "note": "Obra exata indicada pelo catálogo, já cadastrada na biblioteca"
+    },
+    {
+      "id": "abreu_mattos",
+      "author": "Martha Abreu e Hebe Mattos",
+      "title": "Em torno das Diretrizes Curriculares para a Educação das Relações Étnico-raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana: uma conversa com historiadores",
+      "kind": "artigo",
+      "access": "referencia-bibliografica",
+      "note": "Localizar a edição integral do periódico Estudos Históricos (2008)."
+    },
+    {
+      "id": "oliva_escolas",
+      "author": "Anderson Ribeiro Oliva",
+      "title": "A história africana nas escolas brasileiras: entre o prescrito e o vivido, da legislação educacional aos olhares dos especialistas (1995–2006)",
+      "kind": "artigo",
+      "access": "leitura-gratuita",
+      "catalogId": "artigo_014",
+      "url": "https://www.scielo.br/j/his/a/XFYFDQdX8nfx9f4DhrSbx9v/",
+      "source": "SciELO, História (São Paulo)",
+      "license": "Acesso livre pelo periódico",
+      "note": "Artigo indicado no catálogo e já existente na biblioteca"
+    },
+    {
+      "id": "mauad_imagem",
+      "author": "Ana Maria Mauad",
+      "title": "Através da imagem: fotografia e história — interfaces",
+      "kind": "artigo",
+      "access": "referencia-bibliografica",
+      "note": "Texto de 1996 mencionado no catálogo; link original integral ainda não verificado"
+    },
+    {
+      "id": "abreu_regina",
+      "author": "Regina Abreu e Mário Chagas (orgs.)",
+      "title": "Memória e patrimônio: ensaios contemporâneos",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "anderson_comunidades",
+      "author": "Benedict Anderson",
+      "title": "Comunidades imaginadas",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    },
+    {
+      "id": "chagas_patrimonio",
+      "author": "Márcia Chuva",
+      "title": "Os arquitetos da memória: sociogênese das práticas de preservação do patrimônio cultural no Brasil (1930–1940)",
+      "kind": "livro",
+      "access": "referencia-bibliografica"
+    }
+  ]
+}
