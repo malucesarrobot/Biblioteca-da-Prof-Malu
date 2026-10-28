@@ -1,5 +1,5 @@
 {
-  "checked": "28/10/2026 — auditoria técnica de 83 acessos e fontes institucionais em sete referências de artes visuais",
+  "checked": "28/10/2026 — 83 acessos auditados anteriormente; 8 referências prioritárias complementadas com fontes acadêmicas, alternativas legais e alertas sobre versões de encenação",
   "stages": [
     {
       "stage": 1,
@@ -803,7 +803,7 @@
           "id": "pas1_textos_4",
           "sourcePage": 4,
           "title": "Biólogo e quadrinista transformam artigo científico sobre o ciclo de vida dos insetos em história em quadrinhos, Ana Carolina Moreno; Luciano Queiroz e Marco Merlin (Reportagem e HQ)",
-          "status": "Link indicado pela lista oficial; portal G1 não permitiu abertura nesta consulta. Conferência via navegador pendente.",
+          "status": "Reportagem original do G1 não aberta integralmente nesta sessão; reportagem alternativa da Superinteressante conferida. HQ Ciclos identificada, mas o site do autor não concluiu o carregamento.",
           "url": "https://g1.globo.com/ciencia-e-saude/noticia/2019/02/20/biologo-e-quadrinista-transformam-artigo-cientifico-sobre-o-ciclo-de-vida-dos-insetos-em-historia-em-quadrinhos.ghtml",
           "technicalReview": {
             "id": "pas1_textos_4",
@@ -815,6 +815,32 @@
             "contentType": "text/html; charset=UTF-8",
             "destinationTitle": "Biólogo e quadrinista transformam artigo científico sobre o ciclo de vida dos insetos em história em quadrinhos | G1",
             "access": "Página de bloqueio ou verificação; acesso não confirmado."
+          },
+          "alternateUrl": "https://super.abril.com.br/ciencia/brasileiros-transformam-artigo-cientifico-sobre-insetos-em-hq/",
+          "alternateLabel": "Reportagem alternativa — Superinteressante ↗",
+          "supportLinks": [
+            {
+              "label": "Notícia institucional — Jornal da USP ↗",
+              "url": "https://jornal.usp.br/ciencias/cientistas-e-cartunistas-se-unem-para-divulgar-ciencia-em-quadrinhos/"
+            },
+            {
+              "label": "HQ Ciclos — site dos autores (acesso a confirmar) ↗",
+              "url": "https://www.lucianoqueiroz.com.br/ciclos/"
+            }
+          ],
+          "researchSupplement": {
+            "date": "2026-10-28",
+            "hqTitle": "Ciclos",
+            "creators": [
+              "Luciano Queiroz",
+              "Marco Merlin"
+            ],
+            "hqAuthorUrl": "https://www.lucianoqueiroz.com.br/ciclos/",
+            "hqAccess": "Link original atribuído ao autor em veículos editoriais, mas carregamento expirou nesta sessão; conteúdo integral não verificado.",
+            "reportAlternativeUrl": "https://super.abril.com.br/ciencia/brasileiros-transformam-artigo-cientifico-sobre-insetos-em-hq/",
+            "universitySource": "https://jornal.usp.br/ciencias/cientistas-e-cartunistas-se-unem-para-divulgar-ciencia-em-quadrinhos/",
+            "rights": "Não há autorização de republicação do material protegido demonstrada.",
+            "resolved": false
           }
         },
         {
@@ -827,7 +853,23 @@
           "status": "Amostra da editora indicada na lista oficial; não é o livro completo",
           "url": "https://www.editorapeiropolis.com.br/wp-content/uploads/2021/04/DC_LE_PDF__AMOSTRA.pdf",
           "sample": true,
-          "note": "O endereço indicado pela lista leva a uma amostra da editora. Não é acesso ao livro completo."
+          "note": "A lista do PAS remete a amostra em PDF da Editora Peirópolis; o link complementar também é somente uma amostra digital. NÃO equivale à HQ completa. Aguardar o acesso de professores combinado.",
+          "alternateUrl": "https://digital.editorapeiropolis.com.br/epub-amostra/?id=6",
+          "alternateLabel": "Outra amostra oficial da Peirópolis ↗",
+          "supportLinks": [
+            {
+              "label": "Informações da edição em HQ — Editora Peirópolis ↗",
+              "url": "https://blog.editorapeiropolis.com.br/curadoria-classicos-em-hq/"
+            }
+          ],
+          "researchSupplement": {
+            "date": "2026-10-28",
+            "scope": "Amostras oficiais existentes; arquivo integral depende do acesso autorizado previsto.",
+            "publisher": "Peirópolis",
+            "adaptation": "Piero e Giuseppe Bagnariol",
+            "rights": "Sem licença para republicar a HQ integral.",
+            "resolved": false
+          }
         },
         {
           "stage": 1,
@@ -870,14 +912,22 @@
             "type": "Dissertação de mestrado — apoio bibliográfico, não substituição do discurso",
             "access": "Registro institucional aberto; PDF retornou HTTP 503 na consulta.",
             "rights": "Registro da UnB informa autorização do autor para disponibilização pela instituição.",
-            "resolved": false
+            "resolved": false,
+            "complementarySource": "https://www.rm.unina.it/didattica/fonti/anto_bme/cap_V/V_4.htm",
+            "complementaryScope": "Duas versões historiográficas em italiano, não tradução literal nem substituição automática da versão do PAS."
           },
           "alternativeVersion": {
             "language": "Inglês",
             "scope": "Coletânea de relatos do discurso e carta; não é uma transcrição única.",
             "label": "Versão alternativa",
             "checked": "2026-10-28"
-          }
+          },
+          "supportLinks": [
+            {
+              "label": "Relatos de Clermont em italiano — Reti Medievali (Universidade de Nápoles) ↗",
+              "url": "https://www.rm.unina.it/didattica/fonti/anto_bme/cap_V/V_4.htm"
+            }
+          ]
         },
         {
           "stage": 1,
@@ -1273,7 +1323,9 @@
           "researchReview": {
             "date": "2026-10-28",
             "result": "Busca em fontes acadêmicas encontrou referências bibliográficas e outras traduções, mas não confirmou cópia integral institucional da tradução de Floriano de Souza Fernandes.",
-            "resolved": false
+            "resolved": false,
+            "referenceConfirmation": "https://www.scielo.br/j/trans/a/b5LGjhyvFjRQFqFHhtK8TLB/?lang=pt",
+            "referenceNote": "Fonte acadêmica confirma bibliograficamente a tradução de Floriano de Sousa Fernandes em Textos seletos, mas não disponibiliza a íntegra dessa edição."
           },
           "alternativeVersion": {
             "language": "Português",
@@ -1968,10 +2020,23 @@
           "id": "pas2_teatro_1",
           "sourcePage": 9,
           "title": "Um inimigo do povo, Henrik Ibsen, 1882",
-          "status": "PDF aberto e texto inicial conferido: 80 páginas.",
+          "status": "PDF do texto de Ibsen: 80 páginas conferidas anteriormente. Encenação específica da Cia. Código localizada em página oficial com sinopse, ficha técnica e trailer; gravação integral e equivalência de vídeo não confirmadas.",
           "url": "https://drive.google.com/file/d/1ny3cAArOB6Sd8JJeM5IkwVjYMmr8tB40/view",
           "catalogId": "pas_inimigo_povo",
-          "catalogNote": "Referência identificada e disponível na estante."
+          "catalogNote": "Referência identificada e disponível na estante.",
+          "alternateUrl": "https://grupocodigo.org.br/inimigo-do-povo-2009/",
+          "alternateLabel": "Encenação indicada — Grupo Código (ficha e trailer) ↗",
+          "researchSupplement": {
+            "date": "2026-10-28",
+            "referenceType": "Encenação teatral adaptada",
+            "adaptation": "Cia. Código de Artes Cênicas e Miwa Yanagizawa",
+            "direction": "Bruno W. Medsta",
+            "originalVersion": "2009/2016",
+            "duration": "85 minutos na ficha consultada",
+            "source": "https://grupocodigo.org.br/inimigo-do-povo-2009/",
+            "available": "Sinopse, ficha técnica, trailer; sem comprovação de gravação integral.",
+            "resolved": "Ficha da montagem identificada; exibição da encenação ainda não validada."
+          }
         },
         {
           "stage": 2,
@@ -1980,10 +2045,23 @@
           "id": "pas2_teatro_2",
           "sourcePage": 9,
           "title": "O Burguês Fidalgo, Moliére",
-          "status": "PDF aberto; página inicial conferida visualmente: 61 páginas.",
+          "status": "PDF do texto de Molière: 61 páginas conferidas anteriormente. A lista oficial indica apresentação no Teatro Municipal de Ribeirão Preto em 13/04/2014 (registro de André Maurício Silva); não foi localizada e verificada essa gravação. Montagem dos Parlapatões (2013) é somente alternativa.",
           "url": "https://drive.google.com/file/d/1gkJramDGntiGE1oA91Mw0POZXyQOx1Vg/view",
           "catalogId": "pas_burgues_fidalgo",
-          "catalogNote": "Referência identificada e disponível na estante."
+          "catalogNote": "Referência identificada e disponível na estante.",
+          "alternateUrl": "https://parlapatoes.com.br/site/o-burgues-fidalgo/",
+          "alternateLabel": "Montagem ALTERNATIVA — Parlapatões (2013) ↗",
+          "researchSupplement": {
+            "date": "2026-10-28",
+            "referenceType": "Encenação específica",
+            "officialCredit": "André Maurício Silva",
+            "officialShow": "Estreia 13/04/2014, Teatro Municipal de Ribeirão Preto — SP",
+            "officialDocument": "https://pas.unb.br/images/pas/obras_de_referencia_pas_2.pdf#page=9",
+            "alternativeProduction": "Parlapatões, direção de Hugo Possolo (2013), diferente da montagem citada no PAS.",
+            "alternativeSource": "https://parlapatoes.com.br/site/o-burgues-fidalgo/",
+            "videoFullAccess": "Não confirmado para apresentação de 2014",
+            "resolved": false
+          }
         },
         {
           "stage": 2,
@@ -2820,11 +2898,11 @@
           "id": "pas3_teatro_1",
           "sourcePage": 8,
           "title": "Eles não usam Black- Tie",
-          "status": "Conferido no navegador em 28/10/2026: o endereço do PDF redireciona para a disciplina FLM0582 - Tópicos do Teatro (2019), na USP. A página informa que visitantes não podem acessar o curso e exige login. Texto integral não obtido.",
+          "status": "PDF da USP remete ao login e não comprova leitura integral. Identificados e-book comercial licenciado e materiais acadêmicos complementares; não é uma obra integral gratuita na biblioteca.",
           "url": "https://edisciplinas.usp.br/pluginfile.php/5012806/mod_resource/content/2/ELES%20N%C3%83O%20USAM%20BLACK-TIE%20-%20GUARNIERI.pdf",
           "note": "A USP mantém estudos acadêmicos sobre a peça, mas tais análises não substituem a obra integral. A obra é protegida por direitos autorais; eventual reprodução deve observar a licença da edição utilizada.",
-          "alternateUrl": "https://revistas.usp.br/discurso/en/article/view/37961",
-          "alternateLabel": "Ler análise acadêmica de Iná Camargo Costa na USP ↗",
+          "alternateUrl": "https://books.apple.com/br/book/eles-n%C3%A3o-usam-black-tie/id1302194787",
+          "alternateLabel": "E-book LICENCIADO (pago) — Apple Books ↗",
           "technicalReview": {
             "id": "pas3_teatro_1",
             "date": "2026-10-28",
@@ -2842,6 +2920,28 @@
             "finalUrl": "https://edisciplinas.usp.br/enrol/index.php?id=69883",
             "access": "restrito",
             "rights": "Não confirmados; nenhum arquivo republicado."
+          },
+          "supportLinks": [
+            {
+              "label": "Editora Record — edição impressa ↗",
+              "url": "https://www.record.com.br/products/eles-nao-usam-black-tie"
+            },
+            {
+              "label": "Estudo e vídeo — Biblioteca Brasiliana USP ↗",
+              "url": "https://bbm.usp.br/pt-br/videos/eles-n%C3%A3o-usam-black-tie/"
+            },
+            {
+              "label": "Análise acadêmica — USP ↗",
+              "url": "https://revistas.usp.br/discurso/en/article/view/37961"
+            }
+          ],
+          "researchSupplement": {
+            "date": "2026-10-28",
+            "source": "https://books.apple.com/br/book/eles-n%C3%A3o-usam-black-tie/id1302194787",
+            "access": "E-book comercial em português (112 páginas na ficha da loja); prévia não equivale à íntegra gratuita.",
+            "publisher": "Civilização Brasileira / Record",
+            "rights": "Licença comercial; não autoriza redistribuir o arquivo.",
+            "freeFullTextConfirmed": false
           }
         },
         {
@@ -2851,11 +2951,11 @@
           "id": "pas3_teatro_2",
           "sourcePage": 8,
           "title": "Vestido de Noiva",
-          "status": "Conferido no navegador em 28/10/2026: ficha e autoria disponíveis; 'Baixar a peça' aparece como texto sem link utilizável nesta sessão. Campo Licença vazio. Arquivo integral não obtido.",
+          "status": "Download integral de terceiros ainda não obtido; autorização não indicada. Encontrado e-book licenciado da Nova Fronteira via Kobo; acesso comercial, não gratuito.",
           "url": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/viewdownload/5-pecas-diversas/101-vestido-de-noiva",
           "note": "A página de terceiros possui campo 'Licença' sem especificação. Nelson Rodrigues tem direitos autorais vigentes. Há bibliografia da peça no acervo teatral da USP; não se deve afirmar distribuição autorizada do texto.",
-          "alternateUrl": "https://bctb.eca.usp.br/obra.php?cod=9743",
-          "alternateLabel": "Consultar ficha bibliográfica da peça na USP ↗",
+          "alternateUrl": "https://www.kobo.com/br/pt/ebook/vestido-de-noiva-2",
+          "alternateLabel": "E-book LICENCIADO (pago) — Kobo ↗",
           "accessReview": {
             "date": "2026-10-28",
             "finalUrl": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/finish/5-pecas-diversas/101-vestido-de-noiva",
@@ -2881,6 +2981,27 @@
             "finalUrl": "https://oficinadeteatro.com/conteudotextos-pecas-etc/pecas-de-teatro/viewdownload/5-pecas-diversas/101-vestido-de-noiva",
             "access": "somente ficha",
             "rights": "Não confirmados; nenhum arquivo republicado."
+          },
+          "supportLinks": [
+            {
+              "label": "Editora Nova Fronteira — livro impresso ↗",
+              "url": "https://www.novafronteira.com.br/vestido-de-noiva"
+            },
+            {
+              "label": "Ficha bibliográfica — acervo de teatro USP ↗",
+              "url": "https://bctb.eca.usp.br/obra.php?cod=9743"
+            },
+            {
+              "label": "Análise acadêmica — UNEMAT ↗",
+              "url": "https://periodicos.unemat.br/index.php/ecos/article/view/732"
+            }
+          ],
+          "researchSupplement": {
+            "date": "2026-10-28",
+            "source": "https://www.kobo.com/br/pt/ebook/vestido-de-noiva-2",
+            "access": "E-book comercial EPUB, Nova Fronteira, 2019, não gratuito.",
+            "rights": "Protegida por direitos autorais; acesso público em site de terceiros não prova licença.",
+            "freeFullTextConfirmed": false
           }
         },
         {
