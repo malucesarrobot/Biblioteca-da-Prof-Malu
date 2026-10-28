@@ -122,7 +122,8 @@
       "referenceIds": [
         "abreu_regina",
         "anderson_comunidades",
-        "chagas_patrimonio"
+        "chagas_patrimonio",
+        "museus_santos"
       ],
       "review": "amostra-bibliografica-conferida"
     },
@@ -133,7 +134,8 @@
       "type": "optativa",
       "page": 11,
       "referenceIds": [
-        "baniwa_indio"
+        "baniwa_indio",
+        "bittencourt_indigenas"
       ],
       "review": "amostra-bibliografica-conferida"
     },
@@ -712,8 +714,11 @@
       "author": "Martha Abreu e Hebe Mattos",
       "title": "Em torno das Diretrizes Curriculares para a Educação das Relações Étnico-raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana: uma conversa com historiadores",
       "kind": "artigo",
-      "access": "referencia-bibliografica",
-      "note": "Localizar a edição integral do periódico Estudos Históricos (2008)."
+      "access": "leitura-gratuita",
+      "note": "Texto integral em revista acadêmica — referência exata indicada no catálogo.",
+      "url": "https://www.scielo.br/j/eh/a/59tmSkhj3wzhwrCrdgC4cvx/?lang=pt",
+      "source": "SciELO / Estudos Históricos 2008",
+      "license": "Creative Commons BY-NC 4.0"
     },
     {
       "id": "oliva_escolas",
@@ -755,6 +760,28 @@
       "title": "Os arquitetos da memória: sociogênese das práticas de preservação do patrimônio cultural no Brasil (1930–1940)",
       "kind": "livro",
       "access": "referencia-bibliografica"
+    },
+    {
+      "id": "bittencourt_indigenas",
+      "author": "Circe Maria Fernandes Bittencourt",
+      "title": "O ensino de história para populações indígenas",
+      "kind": "artigo",
+      "access": "leitura-gratuita",
+      "url": "https://acervo.socioambiental.org/sites/default/files/documents/F3D00017.pdf",
+      "source": "Em Aberto (1994); cópia no Acervo Socioambiental",
+      "license": "Leitura gratuita em acervo institucional; licença de redistribuição não confirmada",
+      "note": "Referência exata indicada na optativa Ensino d(e) história indígena. Abrir na fonte, sem copiar o arquivo para o repositório."
+    },
+    {
+      "id": "museus_santos",
+      "author": "Myrian Sepúlveda dos Santos",
+      "title": "Museus brasileiros e política cultural",
+      "kind": "artigo",
+      "access": "leitura-gratuita",
+      "url": "https://www.scielo.br/j/rbcsoc/a/65kMwMkhxJbhPM68p8Grrhc/?format=html&lang=pt",
+      "source": "SciELO / Revista Brasileira de Ciências Sociais, 2004",
+      "license": "Artigo disponível para leitura gratuita no periódico",
+      "note": "Texto exato indicado na bibliografia de Educação patrimonial e ensino de História."
     }
   ]
 }
