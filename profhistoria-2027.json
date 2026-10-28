@@ -127,8 +127,8 @@
     "note": "Análise editorial com matriz das questões, bibliografia efetivamente citada, temas e estratégias de estudo; não é caderno oficial nem gabarito homologado."
   },
   "selectionReadings": {
-    "checked": "28/10/2026",
-    "notice": "Leituras gratuitas vinculadas a questões de seleções anteriores ou aos seus temas. Não são bibliografia obrigatória de 2027. O vínculo com questão específica e a diferença entre texto exato e leitura complementar estão identificados.",
+    "checked": "28/10/2026 — ampliação por autores e temas do programa",
+    "notice": "Leituras completas gratuitas para preparação da seleção. Cada ficha diferencia texto citado na prova, texto de um autor e estudo sobre outro autor. Nenhuma é declarada bibliografia obrigatória de 2027. Não substituímos livros comerciais do currículo por artigos distintos sem avisar.",
     "items": [
       {
         "id": "ena2016_tardif_raymond",
@@ -169,6 +169,96 @@
         "relation": "Complemento contemporâneo de estudo dos temas do edital — não constou de prova anterior",
         "source": "Fênix, Revista de História e Estudos Culturais, 2026",
         "note": "Artigo livre de 2026; discute direitos humanos, formação docente e ensino histórico. Não é bibliografia obrigatória."
+      },
+      {
+        "id": "ena_chartier_mundo_representacao",
+        "title": "O mundo como representação",
+        "author": "Roger Chartier",
+        "year": 1991,
+        "url": "https://www.scielo.br/scielo.php?lng=pt&pid=S0103-40141991000100010&script=sci_arttext&tlng=pt",
+        "relation": "Texto integral do autor — complemento de teoria e história cultural, NÃO o livro À beira da falésia",
+        "source": "Estudos Avançados / USP e SciELO, 1991",
+        "note": "Representações, história cultural, práticas e escrita da história. Artigo acessível em português, não equivale ao livro do catálogo curricular."
+      },
+      {
+        "id": "ena_bittencourt_reflexoes",
+        "title": "Reflexões sobre o ensino de História",
+        "author": "Circe Fernandes Bittencourt",
+        "year": 2018,
+        "url": "https://www.scielo.br/j/ea/a/WYqvqrhmppwbWpGVY47wWtp/",
+        "relation": "Texto da mesma autora — apoio à História do Ensino, NÃO o livro O saber histórico na sala de aula",
+        "source": "Estudos Avançados / SciELO, 2018",
+        "note": "Artigo em acesso aberto sobre história curricular e trajetórias do ensino de História, com licença de leitura pública no periódico."
+      },
+      {
+        "id": "ena_monteiro_historia_ensinada",
+        "title": "A história ensinada: algumas configurações do saber escolar",
+        "author": "Ana Maria F. C. Monteiro",
+        "year": 2003,
+        "url": "https://ojs.uel.br/revistas/uel/index.php/histensino/article/view/12075",
+        "relation": "Texto da mesma autora — apoio à mediação didática, NÃO o livro Professores de História",
+        "source": "História & Ensino / UEL, 2003",
+        "note": "Artigo completo com licença CC BY na revista, abordando saber histórico escolar, mediação didática e currículo em ação."
+      },
+      {
+        "id": "ena_monteiro_penna_fronteira",
+        "title": "Ensino de História: saberes em lugar de fronteira",
+        "author": "Ana Maria Monteiro; Fernando de Araujo Penna",
+        "year": 2011,
+        "url": "https://www.redalyc.org/pdf/3172/317227056011.pdf",
+        "relation": "Artigo gratuito de pesquisadores de ensino — leitura complementar, não citação comprovada no exame",
+        "source": "Educação & Realidade, v.36, n.1, 2011 / Redalyc",
+        "note": "Texto integral disponível em repositório acadêmico: relaciona saber docente e saber escolar, narrativas e comparações como mediação."
+      },
+      {
+        "id": "ena_monteiro_gabriel_fronteira",
+        "title": "Pesquisa em ensino de história e a categoria 'lugar de fronteira': desafios onto-epistemológicos e políticos",
+        "author": "Ana Maria Monteiro; Carmen Teresa Gabriel",
+        "year": 2025,
+        "url": "https://periodicos.ufsc.br/index.php/perspectiva/article/view/105014",
+        "relation": "Estudo recente das autoras — complemento de pesquisa em ensino, não bibliografia prescrita do exame",
+        "source": "Perspectiva / UFSC, 2025 — CC BY 4.0",
+        "note": "Artigo integral gratuito publicado em 2025 sobre disputas epistemológicas e campo de pesquisa em ensino de História."
+      },
+      {
+        "id": "ena_ricoeur_perdao",
+        "title": "O perdão pode curar?",
+        "author": "Paul Ricoeur",
+        "year": 1995,
+        "url": "https://lusosofia.ubi.pt/textos/paul_ricoeur_o_perdao_pode_curar.pdf",
+        "relation": "Texto original do autor em português — complemento, NÃO A memória, a história, o esquecimento",
+        "source": "Lusosofia / Universidade da Beira Interior; conferência originalmente publicada em Esprit (1995)",
+        "note": "Texto curto traduzido em português europeu, sobre memória, trauma, esquecimento e perdão. PDF hospedado por universidade; não republicar tradução sem licença."
+      },
+      {
+        "id": "ena_mendes_ricoeur_memoria",
+        "title": "O componente ético-político da fenomenologia da memória em Paul Ricœur",
+        "author": "Breno Mendes",
+        "year": 2025,
+        "url": "https://www.scielo.br/j/his/a/YNWv3ygPSrZDksJNpnYmx5R/?lang=pt",
+        "relation": "Estudo acadêmico SOBRE Ricoeur — NÃO é obra escrita por Ricoeur nem leitura obrigatória",
+        "source": "História (São Paulo) / SciELO, 2025",
+        "note": "Artigo completo sobre memória, ética e política em A memória, a história, o esquecimento, adequado à articulação entre teoria e temas contemporâneos."
+      },
+      {
+        "id": "ena_jasmin_koselleck",
+        "title": "História dos conceitos e teoria política e social: referências preliminares",
+        "author": "Marcelo Gantus Jasmin",
+        "year": 2005,
+        "url": "https://www.scielo.br/j/rbcsoc/a/4dYpr4yn8SwrGcxRsZm6g7r/",
+        "relation": "Estudo acadêmico SOBRE Koselleck — NÃO é o livro Futuro passado nem texto do próprio autor",
+        "source": "Revista Brasileira de Ciências Sociais / SciELO, 2005",
+        "note": "Compara a história dos conceitos de Reinhart Koselleck ao contextualismo linguístico de Quentin Skinner; leitura gratuita para preparação teórica."
+      },
+      {
+        "id": "ena_pedro_genero_pesquisa",
+        "title": "Traduzindo o debate: o uso da categoria gênero na pesquisa histórica",
+        "author": "Joana Maria Pedro",
+        "year": 2005,
+        "url": "https://www.scielo.br/j/his/a/fhHv5BQ6tvXs9X4P3fR4rtr/",
+        "relation": "Leitura complementar de gênero e ensino; título distinto da referência do catálogo curricular",
+        "source": "História (São Paulo) / SciELO, 2005",
+        "note": "Artigo integral gratuito que historiciza categorias de mulher, gênero e sexo; título encontrado é diferente da entrada do catálogo do curso."
       }
     ],
     "officialPractice": [
