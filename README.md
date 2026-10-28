@@ -1,4 +1,6 @@
 # Biblioteca da Prof. Malu — catálogo consolidado
+
+**Política de acesso:** priorizar exclusivamente links gratuitos para estudantes, distinguindo amostras, trechos e obras integrais. Quando não houver acesso integral gratuito e autorizado, sinalizar a lacuna sem divulgar links de compra. Alunos que tenham ou conheçam acervos gratuitos e legalmente compartilháveis podem informar à professora Malu a obra e a fonte, para conferência antes da inclusão.
 Conferência editorial e técnica: 27/10/2026.
 
 ## Fontes de dados ativas
