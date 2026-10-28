@@ -162,6 +162,7 @@ function home(){
  const paths=el('nav',null,'paths');paths.setAttribute('aria-label','Caminhos de leitura');
  paths.append(routeButton('Escolher um livro','Ver os livros por assunto','livros','01'),routeButton('Me indica um','Receber uma sugestão','sugestao','02'),routeButton('Seguir uma trilha','Três leituras que conversam','trilhas','03'),routeButton('Conhecer um autor','Uma obra para começar','autores','04'),routeButton('Enem','Literatura e repertório para a prova','enem','05'),routeButton('PAS/UnB','Obras por etapa e tipo de material','pas','06'),routeButton('ProfHistória','Preparação para o mestrado 2027','profhistoria','07'));
  main.append(paths);
+ main.append(studentNotice());
  const disciplines=el('section',null,'home-section');disciplines.append(el('h2','Áreas de estudo'));
  const fields=el('nav',null,'disciplinegrid');fields.setAttribute('aria-label','Áreas de estudo');
  for(const [name,route] of [['História','historia'],['Sociologia','sociologia'],['Ciências Sociais','ciencias-sociais'],['Filosofia','filosofia']]){
@@ -299,10 +300,13 @@ const draw=()=>{const term=norm(input.value.trim());const filtered=resources.fil
 const det=el('details',null,'extra');det.append(el('summary','Textos específicos e materiais de apoio'));for(const s of support){const p=el('p');p.append(link(s.title+' ↗',s.url));if(s.note)p.append(el('small',' — '+s.note));det.append(p)}main.append(det)
 }
 
+function studentNotice(){return el('p',pasReferences.studentContributionNotice||'Conhece uma obra ainda não disponível gratuitamente? Informe à professora Malu o título e a fonte para conferirmos se pode ser compartilhada.','pasnotice')}
+
 function pasIndex(){
  title('PAS/UnB.','Escolha a etapa, confira a lista de referência e encontre os acessos indicados pela UnB.');
  if(!pasReferences.stages.length){main.append(el('p','Não consegui carregar as listas do PAS agora. Atualize a página para tentar novamente.','empty'));return}
  const intro=el('p','Listas para as provas de 2026: PAS 1 (2026–2028), PAS 2 (2025–2027) e PAS 3 (2024–2026). Os arquivos de PAS 2 e PAS 3 estão identificados como versões preliminares de junho de 2024 e continuam disponíveis no portal oficial.','pasnotice');main.append(intro);
+ main.append(studentNotice());
  const grid=el('div',null,'trailgrid');
  for(const s of pasReferences.stages){const card=el('article',null,'trailcard');card.append(el('span','Subprograma '+s.subprogram,'eyebrow'),el('h2','PAS '+s.stage),el('p',s.items.length+' referências · literatura, textos, música, audiovisual, teatro e artes visuais.'));if(s.preliminary)card.append(el('p','Documento oficial identificado como preliminar.','quietnote'));card.append(button('Explorar a etapa →',()=>go('pas/'+s.stage),'primary'));grid.append(card)}main.append(grid);
  const links=el('div',null,'pas-source');links.append(link('Matrizes e obras — portal oficial ↗','https://pas.unb.br/matrizesobras'),link('Publicações do Cebraspe ↗','https://www.cebraspe.org.br/pas-unb/publicacoes/'));main.append(links);
@@ -312,7 +316,7 @@ function pasStage(number){
  const s=pasReferences.stages.find(s=>s.stage===Number(number));if(!s){notFound();return}
  title('PAS '+s.stage+' · '+s.subprogram,'Obras de referência para a etapa realizada em 2026. Pesquise uma obra ou escolha o tipo de material.');
  const back=el('a','← Todas as etapas','pas-stage-link');back.href='#pas';main.append(back);
- main.append(el('p',s.note,'pasnotice'));const source=el('div',null,'pas-source');source.append(link('Abrir lista oficial completa ↗',s.source));main.append(source);
+ main.append(el('p',s.note,'pasnotice'));main.append(studentNotice());const source=el('div',null,'pas-source');source.append(link('Abrir lista oficial completa ↗',s.source));main.append(source);
  const controls=el('div',null,'articlecontrols'),search=el('input'),category=el('select'),status=el('select');search.type='search';search.placeholder='Pesquisar obra, autoria ou assunto';search.setAttribute('aria-label','Pesquisar obras do PAS');category.setAttribute('aria-label','Tipo de obra do PAS');status.setAttribute('aria-label','Filtrar acesso da referência');
  const addOption=(select,label,value)=>{const option=el('option',label);option.value=value;select.append(option)};addOption(category,'Todos os tipos','');for(const name of [...new Set(s.items.map(x=>x.category))])addOption(category,name,name);
  for(const [label,value] of [['Todos os acessos',''],['Com referência na estante','catalog'],['Amostra editorial','sample'],['Acesso não conferido','unverified']])addOption(status,label,value);controls.append(search,category,status);main.append(controls);
@@ -352,7 +356,7 @@ function render(){main.replaceChildren();renderSavedCount();const path=location.
 $('#back').onclick=()=>{const route=location.hash.slice(1);if(route.startsWith('profhistoria/'))go('profhistoria');else if(route.startsWith('pas/'))go('pas');else if(route==='pas')go('');else if(route.startsWith('genero/'))go('literatura');else if(route.startsWith('area/'))go('areas');else if(route==='areas')go('');else if(route.startsWith('tema/'))go('temas');else if(route.startsWith('trilha/')&&route.split('/').length===3)go('trilha/'+route.split('/')[1]);else if(route.startsWith('trilha/'))go('trilhas');else if(route.startsWith('autor/'))go('autores');else if(route.startsWith('serie/'))go('series');else if(route.startsWith('livro/')&&previousRoute&&!previousRoute.startsWith('livro/'))go(previousRoute);else go('')};
 document.querySelector('.skip').addEventListener('click',e=>{e.preventDefault();main.focus();main.scrollIntoView()});
 window.addEventListener('hashchange',()=>{render();window.scrollTo({top:0,behavior:'instant'})});
-Promise.all([fetch('catalogo.json?v=17').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('leituras-enem.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>[]),fetch('curadoria-tematica.json?v=9').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('pas-referencias.json?v=5').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({stages:[]})),fetch('profhistoria-2027.json?v=1').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({modules:[]}))]).then(([d,additions,curated,pas,prof])=>{
+Promise.all([fetch('catalogo.json?v=17').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('leituras-enem.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>[]),fetch('curadoria-tematica.json?v=9').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('pas-referencias.json?v=6').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({stages:[]})),fetch('profhistoria-2027.json?v=1').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({modules:[]}))]).then(([d,additions,curated,pas,prof])=>{
 pasReferences=pas;profhistoriaData=prof;
 data=[...d.books];articles=[...(d.articles||[])];resources=[...(d.resources||[])];support=d.support||[];
 const merge=(list,entries)=>{for(const entry of entries||[]){const existing=list.find(x=>x.id===entry.id);if(existing)Object.assign(existing,entry);else list.push(entry)}};
