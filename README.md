@@ -49,12 +49,13 @@ A UNESCO informa que os volumes IX e XI foram concluídos internacionalmente, ma
 - *Eles não usam black-tie*: arquivo da USP não foi obtido; adicionada referência à análise de Iná Camargo Costa publicada no periódico acadêmico Discurso/USP, sem apresentá-la como texto dramático.
 - *Vestido de noiva*: o Oficina de Teatro publica um botão de download e indica um arquivo de 168,5 KB, mas o campo licença está vazio. Adicionada ficha bibliográfica da USP. A disponibilidade do download não prova autorização de distribuição da peça protegida.
 
-## Bibliografia curricular do ProfHistória — segunda rodada, 28/10/2026
-- Página pública: `#bibliografia-profhistoria`. **Somente 16 materiais com acesso gratuito localizado**, organizados em 7 disciplinas que possuem pelo menos uma leitura. O índice institucional completo de 36 disciplinas permanece disponível no catálogo do ProfHistória, mas não aparece como lista de obras disponíveis no site.
-- `bibliografia-curso-profhistoria.json`: 16 leituras gratuitas, incluindo seis referências exatas recuperadas na nova rodada (Nadai, Mauad, Knauss, Liebel, Molina, Grinberg/Almeida). Nenhuma referência sem acesso livre recebe botão de leitura ou compra.
-- A seção `#profhistoria` inclui, separadamente, 4 textos gratuitos de preparação para a **seleção**: Tardif/Raymond é citação direta da prova de 2016; Sonia Regina Miranda, Schmidt/Garcia e Fábio Bacila Sahd são materiais de apoio, com a diferença indicada.
-- Registro das fontes e evidências: [PESQUISA-PROFHISTORIA-RODADA-2026-10-28.md](PESQUISA-PROFHISTORIA-RODADA-2026-10-28.md) e [BIBLIOGRAFIA-CURSO-PROFHISTORIA.md](BIBLIOGRAFIA-CURSO-PROFHISTORIA.md).
-- Nenhuma bibliografia do curso deve ser apresentada como exigência do edital de ingresso 2027. Obras ainda não obtidas ficam apenas no controle editorial de pesquisa, fora da interface dos alunos.
+## Bibliografia curricular e leituras para seleção ProfHistória — quarta rodada, 28/10/2026
+- Página curricular pública: `#bibliografia-profhistoria`. **21 materiais com acesso gratuito localizado**, agrupados em **9 disciplinas** que já têm ao menos uma leitura; as demais disciplinas e obras não obtidas ficam fora do menu de leitura.
+- Página de seleção: `#profhistoria`. **13 textos gratuitos** para preparação de provas, com relação expressa a textos de provas anteriores, autores e estudos complementares. A obra comercial do currículo não é substituída silenciosamente por um artigo ou resenha.
+- Cinco novas referências curriculares exatas: **Ulpiano Meneses, Sandra Jatahy Pesavento, Donna Haraway, Joan W. Scott e Verena Stolke**.
+- Nove novos textos de apoio à seleção: **Roger Chartier, Circe Bittencourt, Ana Maria Monteiro, Paul Ricoeur, Breno Mendes, Marcelo Gantus Jasmin e Joana Maria Pedro**.
+- Relatório da rodada: [PESQUISA-PROFHISTORIA-QUARTA-RODADA-2026-10-28.md](PESQUISA-PROFHISTORIA-QUARTA-RODADA-2026-10-28.md). Relatórios anteriores: [terceira rodada](PESQUISA-PROFHISTORIA-RODADA-2026-10-28.md) e [levantamento curricular inicial](BIBLIOGRAFIA-CURSO-PROFHISTORIA.md).
+- **Regra permanente:** não apresentar livros faltantes como disponíveis, não divulgar links de compra, não confundir bibliografia do currículo do mestrado com lista obrigatória do exame de ingresso. As fontes são abertas na instituição que as hospeda; direitos de republicação não são presumidos.
 
 ## ProfHistória 2027 — seção própria
 Página no site: `#profhistoria`. Baseada no Anexo 4 da seleção oficial: https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_anexo_4_-_conteu%CC%81dos_programa%CC%81ticos.pdf
