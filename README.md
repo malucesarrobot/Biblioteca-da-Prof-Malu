@@ -57,6 +57,14 @@ A UNESCO informa que os volumes IX e XI foram concluídos internacionalmente, ma
 - Relatório da rodada: [PESQUISA-PROFHISTORIA-QUARTA-RODADA-2026-10-28.md](PESQUISA-PROFHISTORIA-QUARTA-RODADA-2026-10-28.md). Relatórios anteriores: [terceira rodada](PESQUISA-PROFHISTORIA-RODADA-2026-10-28.md) e [levantamento curricular inicial](BIBLIOGRAFIA-CURSO-PROFHISTORIA.md).
 - **Regra permanente:** não apresentar livros faltantes como disponíveis, não divulgar links de compra, não confundir bibliografia do currículo do mestrado com lista obrigatória do exame de ingresso. As fontes são abertas na instituição que as hospeda; direitos de republicação não são presumidos.
 
+## Acervos acadêmicos de universidades integrantes do ProfHistória — 28/10/2026
+- Nova página pública: `#pesquisas-profhistoria`. Reúne **7 dissertações e produtos educacionais do ProfHistória**, de **UERJ, UFRJ, Unespar, UFMT, UFRRJ, UFSC e UFG**, localizados em eduCAPES e repositórios institucionais; arquivos gratuitos ofertados pelas instituições.
+- Em seção claramente diferenciada, **2 dissertações do Mestrado em História da UFG** estudam as teorias de Paul Ricoeur; NÃO são produção do ProfHistória nem livros originais de Ricoeur.
+- A seleção `#profhistoria` foi ampliada de 13 para **15 textos gratuitos**, com texto original de Roger Chartier disponível no repositório da UFSC e artigo de Ana Maria Monteiro e Luciana Rossato publicado pela UERJ.
+- **Bibliografia do curso:** permanece em **21 textos gratuitos** distribuídos em **9 disciplinas**. Nenhum novo item sem acesso livre foi incluído; dissertações da rede não são apresentadas como se integrassem a bibliografia obrigatória de ingresso.
+- Relatório detalhado e distinção das fontes: [PESQUISA-PROFHISTORIA-ACERVOS-UNIVERSIDADES-2026-10-28.md](PESQUISA-PROFHISTORIA-ACERVOS-UNIVERSIDADES-2026-10-28.md).
+- Os livros integrais de Koselleck, Ricoeur, Chartier, Circe Bittencourt e Ana Maria Monteiro seguem sem edição digital livre autorizada localizada. Nenhuma ficha os anuncia como integralmente disponíveis.
+
 ## ProfHistória 2027 — seção própria
 Página no site: `#profhistoria`. Baseada no Anexo 4 da seleção oficial: https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_anexo_4_-_conteu%CC%81dos_programa%CC%81ticos.pdf
 - (a) Construção do conhecimento histórico: fatos, documentos, narrativas e ensino;
