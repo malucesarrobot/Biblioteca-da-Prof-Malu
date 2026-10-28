@@ -337,6 +337,12 @@ function profhistoriaIndex(){
  const intro=el('p','Inscrições: '+profhistoriaData.registration+' · Prova: '+profhistoriaData.examination+'. As leituras deste acervo são sugestões pedagógicas e NÃO são bibliografia obrigatória do edital.','pasnotice');main.append(intro);
  const official=el('div',null,'pas-source');official.append(link('Página oficial da seleção ↗',profhistoriaData.officialSelectionUrl),link('Anexo 4 — conteúdo programático ↗',profhistoriaData.officialAnnexUrl));main.append(official);
  main.append(el('p',profhistoriaData.disclaimer,'quietnote'));
+ const bibliography=profhistoriaData.bibliographyContext;
+ if(bibliography&&Array.isArray(bibliography.sources)){
+  const section=el('section',null,'home-section');section.append(el('h2','Bibliografias institucionais e provas anteriores'));
+  section.append(el('p',bibliography.warning,'pasnotice'));
+  const links=el('div',null,'pas-source');for(const src of bibliography.sources)links.append(link(src.label+' ↗',src.url));section.append(links);main.append(section)
+ }
  const cards=el('div',null,'trailgrid');
  for(const m of profhistoriaData.modules){const card=el('article',null,'trailcard');card.append(el('span','Eixo '+m.letter.toUpperCase(),'eyebrow'),el('h2',m.title),el('p',m.description),el('p',m.books.length+' livros/documentos · '+m.articles.length+' artigos','trailmeta'));const more=el('a','Estudar este eixo →','primary');more.href='#profhistoria/'+m.id;card.append(more);cards.append(card)}
  main.append(cards);
@@ -356,7 +362,7 @@ function render(){main.replaceChildren();renderSavedCount();const path=location.
 $('#back').onclick=()=>{const route=location.hash.slice(1);if(route.startsWith('profhistoria/'))go('profhistoria');else if(route.startsWith('pas/'))go('pas');else if(route==='pas')go('');else if(route.startsWith('genero/'))go('literatura');else if(route.startsWith('area/'))go('areas');else if(route==='areas')go('');else if(route.startsWith('tema/'))go('temas');else if(route.startsWith('trilha/')&&route.split('/').length===3)go('trilha/'+route.split('/')[1]);else if(route.startsWith('trilha/'))go('trilhas');else if(route.startsWith('autor/'))go('autores');else if(route.startsWith('serie/'))go('series');else if(route.startsWith('livro/')&&previousRoute&&!previousRoute.startsWith('livro/'))go(previousRoute);else go('')};
 document.querySelector('.skip').addEventListener('click',e=>{e.preventDefault();main.focus();main.scrollIntoView()});
 window.addEventListener('hashchange',()=>{render();window.scrollTo({top:0,behavior:'instant'})});
-Promise.all([fetch('catalogo.json?v=17').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('leituras-enem.json?v=8').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>[]),fetch('curadoria-tematica.json?v=9').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('pas-referencias.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({stages:[]})),fetch('profhistoria-2027.json?v=1').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({modules:[]}))]).then(([d,additions,curated,pas,prof])=>{
+Promise.all([fetch('catalogo.json?v=17').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('leituras-enem.json?v=8').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>[]),fetch('curadoria-tematica.json?v=9').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('pas-referencias.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({stages:[]})),fetch('profhistoria-2027.json?v=2').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({modules:[]}))]).then(([d,additions,curated,pas,prof])=>{
 pasReferences=pas;profhistoriaData=prof;
 data=[...d.books];articles=[...(d.articles||[])];resources=[...(d.resources||[])];support=d.support||[];
 const merge=(list,entries)=>{for(const entry of entries||[]){const existing=list.find(x=>x.id===entry.id);if(existing)Object.assign(existing,entry);else list.push(entry)}};
