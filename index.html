@@ -371,6 +371,23 @@ function profhistoriaIndex(){
  main.append(el('p',profhistoriaData.disclaimer,'quietnote'));
  const exam=profhistoriaData.examAnalysis;
  if(exam&&exam.url){const section=el('section',null,'home-section');section.append(el('h2','Análise de provas anteriores'));section.append(el('p',exam.note,'quietnote'));section.append(link(exam.title+' ↗',exam.url));main.append(section)}
+ const preparation=profhistoriaData.selectionReadings;
+ if(preparation&&Array.isArray(preparation.items)&&preparation.items.length){
+  const section=el('section',null,'home-section');section.append(el('h2','Textos gratuitos para estudar a seleção'));
+  section.append(el('p',preparation.notice,'quietnote'));
+  const items=el('div',null,'articlegrid');
+  for(const r of preparation.items){
+   if(!r.url)continue;
+   const card=el('article',null,'articlecard');
+   card.append(el('span',r.relation,'eyebrow'),el('h3',r.title),el('p',r.author+' · '+r.year,'articlemeta'));
+   if(r.note)card.append(el('p',r.note,'articledesc'));
+   card.append(link('Ler gratuitamente ↗',r.url));items.append(card)
+  }
+  section.append(items);
+  const practice=el('div',null,'pas-source');
+  for(const exam of preparation.officialPractice||[]){if(exam.url)practice.append(link(exam.label+' ↗',exam.url))}
+  section.append(practice);main.append(section)
+ }
  const course=el('section',null,'home-section');course.append(el('h2','Leituras disponíveis do ProfHistória'));course.append(el('p','Acesse somente livros e artigos gratuitos já localizados em fontes institucionais. Referências que ainda não temos ficam fora do site.','quietnote'));const courseLink=el('a','Consultar leituras disponíveis →','primary');courseLink.href='#bibliografia-profhistoria';course.append(courseLink);main.append(course);
  const cards=el('div',null,'trailgrid');
  for(const m of profhistoriaData.modules){const card=el('article',null,'trailcard');card.append(el('span','Eixo '+m.letter.toUpperCase(),'eyebrow'),el('h2',m.title),el('p',m.description),el('p',m.books.length+' livros/documentos · '+m.articles.length+' artigos','trailmeta'));const more=el('a','Estudar este eixo →','primary');more.href='#profhistoria/'+m.id;card.append(more);cards.append(card)}
@@ -391,7 +408,7 @@ function render(){main.replaceChildren();renderSavedCount();const path=location.
 $('#back').onclick=()=>{const route=location.hash.slice(1);if(route==='bibliografia-profhistoria')go('profhistoria');else if(route.startsWith('profhistoria/'))go('profhistoria');else if(route.startsWith('pas/'))go('pas');else if(route==='pas')go('');else if(route.startsWith('genero/'))go('literatura');else if(route.startsWith('area/'))go('areas');else if(route==='areas')go('');else if(route.startsWith('tema/'))go('temas');else if(route.startsWith('trilha/')&&route.split('/').length===3)go('trilha/'+route.split('/')[1]);else if(route.startsWith('trilha/'))go('trilhas');else if(route.startsWith('autor/'))go('autores');else if(route.startsWith('serie/'))go('series');else if(route.startsWith('livro/')&&previousRoute&&!previousRoute.startsWith('livro/'))go(previousRoute);else go('')};
 document.querySelector('.skip').addEventListener('click',e=>{e.preventDefault();main.focus();main.scrollIntoView()});
 window.addEventListener('hashchange',()=>{render();window.scrollTo({top:0,behavior:'instant'})});
-Promise.all([fetch('catalogo.json?v=17').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('leituras-enem.json?v=8').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>[]),fetch('curadoria-tematica.json?v=9').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('pas-referencias.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({stages:[]})),fetch('profhistoria-2027.json?v=3').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({modules:[]})),fetch('bibliografia-curso-profhistoria.json?v=3').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({disciplines:[],references:[]}))]).then(([d,additions,curated,pas,prof,courseBibliography])=>{
+Promise.all([fetch('catalogo.json?v=17').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('leituras-enem.json?v=8').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>[]),fetch('curadoria-tematica.json?v=9').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('pas-referencias.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({stages:[]})),fetch('profhistoria-2027.json?v=4').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({modules:[]})),fetch('bibliografia-curso-profhistoria.json?v=4').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({disciplines:[],references:[]}))]).then(([d,additions,curated,pas,prof,courseBibliography])=>{
 pasReferences=pas;profhistoriaData=prof;profhistoriaBibliografia=courseBibliography;
 data=[...d.books];articles=[...(d.articles||[])];resources=[...(d.resources||[])];support=d.support||[];
 const merge=(list,entries)=>{for(const entry of entries||[]){const existing=list.find(x=>x.id===entry.id);if(existing)Object.assign(existing,entry);else list.push(entry)}};
