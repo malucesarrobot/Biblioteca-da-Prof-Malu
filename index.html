@@ -333,38 +333,34 @@ function pasStage(number){
 
 
 function profhistoriaBibliography(){
- title('ProfHistória · Bibliografia do curso','Referências reais do catálogo das disciplinas do mestrado. Não são livros obrigatórios para a seleção de 2027.');
+ title('ProfHistória · Leituras disponíveis','Textos completos ou edições gratuitas já localizados nos acervos institucionais e nas revistas acadêmicas.');
  const nav=el('a','← Voltar aos quatro eixos','enemshortcut');nav.href='#profhistoria';main.append(nav);
- if(!profhistoriaBibliografia.disciplines.length){main.append(el('p','Bibliografia indisponível. Atualize a página para tentar novamente.','empty'));return}
- main.append(el('p',profhistoriaBibliografia.notice,'pasnotice'));
- const src=el('div',null,'pas-source');src.append(link('Consultar o catálogo institucional completo (53 páginas) ↗',profhistoriaBibliografia.source));main.append(src);
- const controls=el('div',null,'articlecontrols');
- const discipline=el('select'),search=el('input');
- discipline.setAttribute('aria-label','Escolher disciplina do ProfHistória');
- for(const d of profhistoriaBibliografia.disciplines){const option=el('option',d.number+' · '+d.title);option.value=d.id;discipline.append(option)}
- search.type='search';search.placeholder='Filtrar por autor ou título da obra';search.setAttribute('aria-label','Pesquisar bibliografia da disciplina');
+ const ds=(profhistoriaBibliografia.disciplines||[]).filter(d=>d.referenceIds&&d.referenceIds.length);
+ const accessible=(profhistoriaBibliografia.references||[]).filter(r=>r.access==='leitura-gratuita'&&r.url&&/^https:\/\//.test(r.url));
+ const indexed=new Map(accessible.map(r=>[r.id,r]));
+ if(!ds.length||!accessible.length){main.append(el('p','Ainda não há leituras disponíveis nesta seção.','empty'));return}
+ main.append(el('p','Somente textos e livros com acesso gratuito localizado. Não são exibidas referências que ainda não conseguimos disponibilizar.','pasnotice'));
+ const controls=el('div',null,'articlecontrols'),discipline=el('select'),search=el('input');
+ discipline.setAttribute('aria-label','Disciplina com leituras disponíveis');
+ for(const d of ds){const option=el('option',d.title);option.value=d.id;discipline.append(option)}
+ search.type='search';search.placeholder='Buscar nas leituras disponíveis por autor ou título';search.setAttribute('aria-label','Pesquisar leituras disponíveis');
  controls.append(discipline,search);main.append(controls);
  const summary=el('p',null,'listsummary'),results=el('div',null,'articlegrid');summary.setAttribute('aria-live','polite');main.append(summary,results);
  const draw=()=>{
-  const d=profhistoriaBibliografia.disciplines.find(x=>x.id===discipline.value)||profhistoriaBibliografia.disciplines[0],term=norm(search.value.trim());
-  const list=d.referenceIds.map(id=>profhistoriaBibliografia.references.find(x=>x.id===id)).filter(Boolean).filter(x=>!term||norm(x.title+' '+x.author).includes(term));
-  summary.textContent=d.title+' · '+list.length+' referências desta etapa de catalogação';
-  results.replaceChildren();
-  if(!d.referenceIds.length){results.append(el('p','Esta disciplina consta do catálogo oficial, mas suas referências ainda serão transcritas e auditadas. Use o PDF institucional acima para consultar a bibliografia da disciplina.','quietnote'))}
-  else if(!list.length)results.append(el('p','Nenhuma referência corresponde à pesquisa nesta disciplina.','empty'));
+  const d=ds.find(x=>x.id===discipline.value)||ds[0],term=norm(search.value.trim());
+  const list=d.referenceIds.map(id=>indexed.get(id)).filter(Boolean).filter(r=>!term||norm(r.title+' '+r.author).includes(term));
+  summary.textContent=d.title+' · '+list.length+' leituras disponíveis';results.replaceChildren();
+  if(!list.length)results.append(el('p','Nenhuma leitura disponível corresponde à busca nesta disciplina.','empty'));
   for(const r of list){
-   const card=el('article',null,'articlecard');
-   card.append(el('span',r.access==='leitura-gratuita'?'Acesso digital gratuito confirmado':'Referência bibliográfica — acesso integral pendente','eyebrow'),el('h2',r.title),el('p',r.author,'articlemeta'));
+   const card=el('article',null,'articlecard');card.append(el('span','Acesso gratuito na fonte','eyebrow'),el('h2',r.title),el('p',r.author,'articlemeta'));
    if(r.note)card.append(el('p',r.note,'articledesc'));
    const actions=el('div',null,'actions');
-   if(r.url)actions.append(link('Abrir material gratuito ↗',r.url));
-   if(r.catalogId&&book(r.catalogId)){const a=el('a','Ver edição cadastrada na biblioteca →');a.href='#livro/'+r.catalogId;actions.append(a)}
-   if(r.catalogueReferenceUrl)actions.append(link('Consultar ficha institucional ↗',r.catalogueReferenceUrl));
+   actions.append(link('Ler gratuitamente ↗',r.url));
+   if(r.catalogId&&book(r.catalogId)){const a=el('a','Ver ficha na biblioteca →');a.href='#livro/'+r.catalogId;actions.append(a)}
    card.append(actions);results.append(card)
   }
- };
- discipline.onchange=draw;search.oninput=draw;draw();
- main.append(el('p','A referência bibliográfica não significa que a obra integral esteja gratuitamente disponível. Os materiais institucionais de apoio e versões em outro idioma são sinalizados; não há links de compra.','quietnote'));
+ };discipline.onchange=draw;search.oninput=draw;draw();
+ main.append(el('p','As leituras abrem nas instituições responsáveis. Nenhum material desta seção exige compra; a biblioteca não republica arquivos de terceiros.','quietnote'));
 }
 
 function profhistoriaIndex(){
@@ -375,13 +371,7 @@ function profhistoriaIndex(){
  main.append(el('p',profhistoriaData.disclaimer,'quietnote'));
  const exam=profhistoriaData.examAnalysis;
  if(exam&&exam.url){const section=el('section',null,'home-section');section.append(el('h2','Análise de provas anteriores'));section.append(el('p',exam.note,'quietnote'));section.append(link(exam.title+' ↗',exam.url));main.append(section)}
- const course=el('section',null,'home-section');course.append(el('h2','Bibliografia das disciplinas do mestrado'));course.append(el('p','Explore as 36 disciplinas do catálogo institucional, com referências por disciplina e acessos gratuitos quando confirmados.','quietnote'));const courseLink=el('a','Consultar a bibliografia do curso →','primary');courseLink.href='#bibliografia-profhistoria';course.append(courseLink);main.append(course);
- const bibliography=profhistoriaData.bibliographyContext;
- if(bibliography&&Array.isArray(bibliography.sources)){
-  const section=el('section',null,'home-section');section.append(el('h2','Bibliografias institucionais e provas anteriores'));
-  section.append(el('p',bibliography.warning,'pasnotice'));
-  const links=el('div',null,'pas-source');for(const src of bibliography.sources)links.append(link(src.label+' ↗',src.url));section.append(links);main.append(section)
- }
+ const course=el('section',null,'home-section');course.append(el('h2','Leituras disponíveis do ProfHistória'));course.append(el('p','Acesse somente livros e artigos gratuitos já localizados em fontes institucionais. Referências que ainda não temos ficam fora do site.','quietnote'));const courseLink=el('a','Consultar leituras disponíveis →','primary');courseLink.href='#bibliografia-profhistoria';course.append(courseLink);main.append(course);
  const cards=el('div',null,'trailgrid');
  for(const m of profhistoriaData.modules){const card=el('article',null,'trailcard');card.append(el('span','Eixo '+m.letter.toUpperCase(),'eyebrow'),el('h2',m.title),el('p',m.description),el('p',m.books.length+' livros/documentos · '+m.articles.length+' artigos','trailmeta'));const more=el('a','Estudar este eixo →','primary');more.href='#profhistoria/'+m.id;card.append(more);cards.append(card)}
  main.append(cards);
@@ -401,7 +391,7 @@ function render(){main.replaceChildren();renderSavedCount();const path=location.
 $('#back').onclick=()=>{const route=location.hash.slice(1);if(route==='bibliografia-profhistoria')go('profhistoria');else if(route.startsWith('profhistoria/'))go('profhistoria');else if(route.startsWith('pas/'))go('pas');else if(route==='pas')go('');else if(route.startsWith('genero/'))go('literatura');else if(route.startsWith('area/'))go('areas');else if(route==='areas')go('');else if(route.startsWith('tema/'))go('temas');else if(route.startsWith('trilha/')&&route.split('/').length===3)go('trilha/'+route.split('/')[1]);else if(route.startsWith('trilha/'))go('trilhas');else if(route.startsWith('autor/'))go('autores');else if(route.startsWith('serie/'))go('series');else if(route.startsWith('livro/')&&previousRoute&&!previousRoute.startsWith('livro/'))go(previousRoute);else go('')};
 document.querySelector('.skip').addEventListener('click',e=>{e.preventDefault();main.focus();main.scrollIntoView()});
 window.addEventListener('hashchange',()=>{render();window.scrollTo({top:0,behavior:'instant'})});
-Promise.all([fetch('catalogo.json?v=17').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('leituras-enem.json?v=8').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>[]),fetch('curadoria-tematica.json?v=9').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('pas-referencias.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({stages:[]})),fetch('profhistoria-2027.json?v=3').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({modules:[]})),fetch('bibliografia-curso-profhistoria.json?v=2').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({disciplines:[],references:[]}))]).then(([d,additions,curated,pas,prof,courseBibliography])=>{
+Promise.all([fetch('catalogo.json?v=17').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('leituras-enem.json?v=8').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>[]),fetch('curadoria-tematica.json?v=9').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('pas-referencias.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({stages:[]})),fetch('profhistoria-2027.json?v=3').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({modules:[]})),fetch('bibliografia-curso-profhistoria.json?v=3').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({disciplines:[],references:[]}))]).then(([d,additions,curated,pas,prof,courseBibliography])=>{
 pasReferences=pas;profhistoriaData=prof;profhistoriaBibliografia=courseBibliography;
 data=[...d.books];articles=[...(d.articles||[])];resources=[...(d.resources||[])];support=d.support||[];
 const merge=(list,entries)=>{for(const entry of entries||[]){const existing=list.find(x=>x.id===entry.id);if(existing)Object.assign(existing,entry);else list.push(entry)}};
