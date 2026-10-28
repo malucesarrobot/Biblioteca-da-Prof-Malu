@@ -41,3 +41,7 @@ A UNESCO informa que os volumes IX e XI foram concluídos internacionalmente, ma
 - Conferidos os textos de Pesquisa FAPESP (linguagem humana, rio São Francisco), SciELO (crise Yanomami, atividade antioxidante do cerrado), El País (entrevista de Bauman) e Revista de Estudos e Pesquisas sobre as Américas da UnB (Lélia Gonzalez). O G1 não permitiu abrir a reportagem de insetos nesta consulta.
 - Substituídos quatro links externos de PDFs contemporâneos sem autorização comprovada: *A revolução dos bichos* passou a empréstimo da BibliON; *A hora da estrela* direciona à busca na BibliON; *O mundo de Sofia* e *O código Da Vinci* passaram a fichas editoriais da Open Library, sem promessa de leitura integral gratuita.
 - A conferência automatizada de URLs de música, audiovisual, imagens e Google Drive continua limitada por restrições de acesso das plataformas. Os registros não devem ser rotulados como efetivamente abertos enquanto não houver teste individual.
+
+## Teatro do PAS 3 — acesso e direitos
+- *Eles não usam black-tie*: arquivo da USP não foi obtido; adicionada referência à análise de Iná Camargo Costa publicada no periódico acadêmico Discurso/USP, sem apresentá-la como texto dramático.
+- *Vestido de noiva*: o Oficina de Teatro publica um botão de download e indica um arquivo de 168,5 KB, mas o campo licença está vazio. Adicionada ficha bibliográfica da USP. A disponibilidade do download não prova autorização de distribuição da peça protegida.
