@@ -4,6 +4,10 @@ Atualização: **28/10/2026**. Fonte principal: [Catálogo das disciplinas do Me
 
 **Atenção:** trata-se de bibliografia **do curso**, não de bibliografia obrigatória para a prova de ingresso de 2027. O programa do exame está no Anexo 4 do edital e não traz lista nominal de livros obrigatórios.
 
+## Situação da publicação e da pesquisa
+
+**Regra editorial determinada em 28/10/2026:** somente os **10 textos com acesso gratuito localizado** aparecem na interface pública, em **5 disciplinas**. Os **37 itens restantes** são controle interno da pesquisa, não são oferecidos no site e não geram botões para consulta ou compra. O conjunto de 36 disciplinas continua sendo referência acadêmica, não menu do site.
+
 ## O que já está indexado
 
 - **36 disciplinas** no índice, reproduzidas do sumário institucional: duas disciplinas teóricas obrigatórias, dois seminários obrigatórios e 32 optativas.
