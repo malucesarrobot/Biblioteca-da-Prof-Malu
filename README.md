@@ -49,6 +49,13 @@ A UNESCO informa que os volumes IX e XI foram concluídos internacionalmente, ma
 - *Eles não usam black-tie*: arquivo da USP não foi obtido; adicionada referência à análise de Iná Camargo Costa publicada no periódico acadêmico Discurso/USP, sem apresentá-la como texto dramático.
 - *Vestido de noiva*: o Oficina de Teatro publica um botão de download e indica um arquivo de 168,5 KB, mas o campo licença está vazio. Adicionada ficha bibliográfica da USP. A disponibilidade do download não prova autorização de distribuição da peça protegida.
 
+## Bibliografia curricular do ProfHistória — atualização de 28/10/2026
+- Nova página no site: `#bibliografia-profhistoria`. Fonte: catálogo institucional do mestrado, com **36 disciplinas** (2 teóricas obrigatórias, 2 seminários e 32 optativas).
+- Dados estruturados em `bibliografia-curso-profhistoria.json`: **47 referências diferentes** transcritas de 11 disciplinas na primeira rodada, **10 com acesso gratuito identificado** em revistas acadêmicas e acervos institucionais; as demais só recebem referência bibliográfica, nunca link de compra.
+- Progresso editorial e relação dos textos: [BIBLIOGRAFIA-CURSO-PROFHISTORIA.md](BIBLIOGRAFIA-CURSO-PROFHISTORIA.md).
+- A bibliografia do currículo de mestrado não é a lista obrigatória da prova de ingresso de 2027; seu conteúdo é separado do Anexo 4 e dos quatro eixos do exame.
+- Os 25 grupos disciplinares ainda sem fichamento bibliográfico precisam ser transcritos, respeitando quando o catálogo atribui ao docente a bibliografia do semestre.
+
 ## ProfHistória 2027 — seção própria
 Página no site: `#profhistoria`. Baseada no Anexo 4 da seleção oficial: https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_anexo_4_-_conteu%CC%81dos_programa%CC%81ticos.pdf
 - (a) Construção do conhecimento histórico: fatos, documentos, narrativas e ensino;
