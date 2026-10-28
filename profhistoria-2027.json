@@ -1,0 +1,97 @@
+{
+  "title": "ProfHistória 2027 — preparação pelo edital",
+  "checked": "27/10/2026",
+  "edition": "Exame Nacional de Acesso 2027 — Mestrado Profissional em Ensino de História",
+  "officialSelectionUrl": "https://econrio.com.br/index.php/course/mestrado-profissional-em-ensino-de-historia-profhistoria-2027/",
+  "officialAnnexUrl": "https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_anexo_4_-_conteu%CC%81dos_programa%CC%81ticos.pdf",
+  "registration": "26/08/2026 a 17/11/2026",
+  "examination": "06/12/2026",
+  "disclaimer": "O Anexo 4 apresenta quatro eixos programáticos, não uma lista de livros obrigatórios. Estas leituras são propostas editoriais selecionadas no acervo, não bibliografia prescrita pelo edital. A data, condições e retificações da seleção devem ser conferidas na página organizadora.",
+  "modules": [
+    {
+      "id": "conhecimento",
+      "letter": "a",
+      "title": "Construção do conhecimento histórico",
+      "description": "Fato histórico, experiência e conhecimento; documentos e fontes; narrativa historiográfica e narrativa didática.",
+      "question": "Como a mudança de uma fonte e da pergunta de pesquisa transforma a narrativa sobre um mesmo acontecimento? Como transformar essa problematização em atividade de aula?",
+      "books": [
+        "cur_bloch_apologie",
+        "hga_I",
+        "ampliacao_museu",
+        "bncc_sambaquis"
+      ],
+      "articles": [
+        "artigo_001",
+        "artigo_002",
+        "artigo_003",
+        "artigo_024",
+        "artigo_025"
+      ],
+      "studyGuidance": "Comece pela reflexão sobre o trabalho do historiador; compare fontes de natureza diferente; formule uma sequência didática que explicite as escolhas da narrativa. Marc Bloch está disponível na versão original em francês."
+    },
+    {
+      "id": "tempos",
+      "letter": "b",
+      "title": "Tempos históricos",
+      "description": "Percepções culturais do tempo, passado–presente–futuro, durações, permanências, rupturas, diacronias, sincronias, calendários e periodizações.",
+      "question": "Quais limites tem a periodização tradicional 'Colônia, Império e República' para ensinar a história de povos indígenas e populações afro-brasileiras?",
+      "books": [
+        "ampliacao_politizacao",
+        "cur_bloch_apologie",
+        "cur_wells_short_history",
+        "cur_vanloon_mankind"
+      ],
+      "articles": [
+        "artigo_002",
+        "artigo_004"
+      ],
+      "studyGuidance": "Compare as temporalidades políticas da Independência com narrativas gerais de história. H. G. Wells e Van Loon são obras históricas do século XX, em inglês, para análise crítica de recortes eurocêntricos — não modelos normativos de ensino."
+    },
+    {
+      "id": "memoria",
+      "letter": "c",
+      "title": "História, memória e identidade",
+      "description": "Memórias sociais e individuais; dever de memória e direito ao esquecimento; escrita da História, educação patrimonial e identidades.",
+      "question": "Como investigar as memórias conflitantes de um patrimônio, de uma escola ou da ditadura sem equiparar depoimentos e evidências de natureza diferente?",
+      "books": [
+        "unb_memorias_escola_parque",
+        "usp_776",
+        "cur_iphan_queijo",
+        "ampliacao_museu"
+      ],
+      "articles": [
+        "artigo_009",
+        "artigo_010",
+        "artigo_058",
+        "artigo_078",
+        "artigo_098",
+        "artigo_099"
+      ],
+      "studyGuidance": "Articule memórias da escola, patrimônio imaterial e disputas sobre a ditadura. Distinga testemunho, documento de arquivo, memória coletiva e escrita historiográfica."
+    },
+    {
+      "id": "ensino",
+      "letter": "d",
+      "title": "Ensino de História, cidadania e diversidade cultural",
+      "description": "Usos políticos do passado; currículos, diversidade e identidades; mídias sociais, cidadania; políticas públicas e formação docente.",
+      "question": "Como construir uma atividade sobre desinformação histórica nas redes sociais que trate criticamente racismo, fontes, políticas curriculares e cidadania?",
+      "books": [
+        "indig_educacao",
+        "bncc_educacao_latina",
+        "bncc_arte_antirracista",
+        "original_7",
+        "bncc_cinema_negro"
+      ],
+      "articles": [
+        "artigo_013",
+        "artigo_014",
+        "artigo_018",
+        "artigo_021",
+        "artigo_023",
+        "artigo_024",
+        "artigo_097"
+      ],
+      "studyGuidance": "Estude os debates sobre currículo, formação de professores, desigualdades e narrativas digitais. Construa um recurso didático e justifique seus objetivos e limites, sem confundir leituras complementares com obras oficiais exigidas."
+    }
+  ]
+}
