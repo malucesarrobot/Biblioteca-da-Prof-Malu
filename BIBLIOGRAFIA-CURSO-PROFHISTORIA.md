@@ -4,9 +4,9 @@ Atualização: **28/10/2026**. Fonte principal: [Catálogo das disciplinas do Me
 
 **Atenção:** trata-se de bibliografia **do curso**, não de bibliografia obrigatória para a prova de ingresso de 2027. O programa do exame está no Anexo 4 do edital e não traz lista nominal de livros obrigatórios.
 
-## Situação da publicação e da pesquisa
+## Situação da publicação e da pesquisa — atualização posterior
 
-**Regra editorial determinada em 28/10/2026:** somente os **10 textos com acesso gratuito localizado** aparecem na interface pública, em **5 disciplinas**. Os **37 itens restantes** são controle interno da pesquisa, não são oferecidos no site e não geram botões para consulta ou compra. O conjunto de 36 disciplinas continua sendo referência acadêmica, não menu do site.
+**Regra editorial de 28/10/2026:** a página pública exibe apenas materiais efetivamente gratuitos. A segunda rodada elevou a seleção pública de **10 para 16 textos**, agora em **7 disciplinas** com leituras disponíveis. As referências faltantes continuam somente no controle de pesquisa, sem serem ofertadas como acesso digital. Os registros estatísticos da primeira rodada mantidos abaixo documentam o estado anterior; veja os novos materiais em [PESQUISA-PROFHISTORIA-RODADA-2026-10-28.md](PESQUISA-PROFHISTORIA-RODADA-2026-10-28.md).
 
 ## O que já está indexado
 
