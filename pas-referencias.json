@@ -858,7 +858,7 @@
           "id": "pas1_textos_8",
           "sourcePage": 4,
           "title": "Discurso no Concílio de Clermont, Papa Urbano II",
-          "status": "Texto acessível no Internet Medieval Sourcebook da Universidade Fordham.",
+          "status": "Versão alternativa em inglês — relatos do discurso disponíveis na Universidade Fordham; equivalência com o recorte do PAS não confirmada.",
           "url": "https://sourcebooks.web.fordham.edu/source/urban2-5vers.asp",
           "note": "Acesso alternativo em inglês, com diferentes relatos do discurso e uma carta de Urbano II. A versão exata indicada pelo PAS deve ser comparada; não é transcrição literal única do discurso. Apoio em português: dissertação de Thiago de Souza Ribeiro Chaves, UnB (2015), https://repositorio.unb.br/handle/10482/18802. Registro conferido em 28/10/2026; PDF retornou erro 503. Não substitui a versão do discurso exigida pelo PAS.",
           "researchReview": {
@@ -871,6 +871,12 @@
             "access": "Registro institucional aberto; PDF retornou HTTP 503 na consulta.",
             "rights": "Registro da UnB informa autorização do autor para disponibilização pela instituição.",
             "resolved": false
+          },
+          "alternativeVersion": {
+            "language": "Inglês",
+            "scope": "Coletânea de relatos do discurso e carta; não é uma transcrição única.",
+            "label": "Versão alternativa",
+            "checked": "2026-10-28"
           }
         },
         {
@@ -1259,15 +1265,23 @@
           "id": "pas2_textos_2",
           "sourcePage": 2,
           "title": "Resposta à pergunta: O que é o esclarecimento? Immanuel Kant",
-          "status": "PDF público aberto e conferido em 27/10/2026.",
+          "status": "Versão alternativa — tradução diferente da referência bibliográfica do PAS.",
           "url": "https://drive.google.com/file/d/1cCyWeLp8hP64XVHSd0LiYEjO82udLQ-p/view",
           "catalogId": "pas_kant_esclarecimento",
-          "catalogNote": "Referência disponível na estante.",
+          "catalogNote": "Disponível na estante em tradução alternativa, de Luiz Paulo Rouanet.",
           "note": "PDF público aberto: 9 páginas, tradução de Luiz Paulo Rouanet, conforme o próprio arquivo. Há divergência com a tradução de Floriano de Souza Fernandes mencionada na lista de referência; conferir a edição exigida para a prova.",
           "researchReview": {
             "date": "2026-10-28",
             "result": "Busca em fontes acadêmicas encontrou referências bibliográficas e outras traduções, mas não confirmou cópia integral institucional da tradução de Floriano de Souza Fernandes.",
             "resolved": false
+          },
+          "alternativeVersion": {
+            "language": "Português",
+            "translator": "Luiz Paulo Rouanet",
+            "scope": "Ensaio em PDF, 9 páginas, conferido em 27/10/2026",
+            "officialTranslator": "Floriano de Souza Fernandes",
+            "label": "Versão alternativa",
+            "checked": "2026-10-28"
           }
         },
         {
