@@ -125,5 +125,65 @@
     "title": "Análise crítica da prova de 2025 — 20 questões e discursiva",
     "url": "https://github.com/malucesarrobot/Biblioteca-da-Prof-Malu/blob/main/ANALISE-PROVA-PROFHISTORIA-2025.md",
     "note": "Análise editorial com matriz das questões, bibliografia efetivamente citada, temas e estratégias de estudo; não é caderno oficial nem gabarito homologado."
+  },
+  "selectionReadings": {
+    "checked": "28/10/2026",
+    "notice": "Leituras gratuitas vinculadas a questões de seleções anteriores ou aos seus temas. Não são bibliografia obrigatória de 2027. O vínculo com questão específica e a diferença entre texto exato e leitura complementar estão identificados.",
+    "items": [
+      {
+        "id": "ena2016_tardif_raymond",
+        "title": "Saberes, tempo e aprendizagem do trabalho no magistério",
+        "author": "Maurice Tardif; Danielle Raymond",
+        "year": 2000,
+        "url": "https://www.scielo.br/j/es/a/Ks666mx7qLpbLThJQmXL7CB/",
+        "relation": "Texto citado diretamente na questão 5 da prova de 2016",
+        "source": "SciELO — Educação & Sociedade, v. 21, n. 73",
+        "note": "Artigo integral em português, publicado em acesso aberto. A prova de 2016 citou este mesmo artigo."
+      },
+      {
+        "id": "ena2016_miranda_apoio",
+        "title": "O que significa educar para a compreensão da história? Um olhar a partir de um programa de avaliação educacional",
+        "author": "Sonia Regina Miranda",
+        "year": 2003,
+        "url": "https://ojs.uel.br/revistas/uel/index.php/histensino/article/view/12092",
+        "relation": "Leitura complementar da autora citada na questão 2 de 2016 — não é o capítulo usado no exame",
+        "source": "História & Ensino / UEL (CC BY 4.0)",
+        "note": "Artigo integral gratuito sobre aprendizagem e temporalidade. Não apresentar como texto da questão, cujo capítulo original é de 2012."
+      },
+      {
+        "id": "ena_didatica_schmidt_garcia",
+        "title": "O trabalho histórico na sala de aula",
+        "author": "Maria Auxiliadora Schmidt; Tânia Braga Garcia",
+        "year": 2003,
+        "url": "https://ojs.uel.br/revistas/uel/index.php/histensino/article/view/12086",
+        "relation": "Leitura complementar para prova discursiva e didática da História — não extraída de questão específica",
+        "source": "História & Ensino / UEL (CC BY 4.0)",
+        "note": "Artigo integral em periódico universitário sobre método investigativo e uso de fontes em sala de aula."
+      },
+      {
+        "id": "ena_educacao_direitos_sahd",
+        "title": "As intersecções entre educação em Direitos Humanos e Ensino de História: um breve balanço bibliográfico",
+        "author": "Fábio Bacila Sahd",
+        "year": 2026,
+        "url": "https://www.revistafenix.pro.br/revistafenix/article/view/1508",
+        "relation": "Complemento contemporâneo de estudo dos temas do edital — não constou de prova anterior",
+        "source": "Fênix, Revista de História e Estudos Culturais, 2026",
+        "note": "Artigo livre de 2026; discute direitos humanos, formação docente e ensino histórico. Não é bibliografia obrigatória."
+      }
+    ],
+    "officialPractice": [
+      {
+        "label": "Prova oficial 2016 (caderno completo)",
+        "url": "https://site.profhistoria.com.br/wp-content/uploads/2023/08/2016-Prova.pdf"
+      },
+      {
+        "label": "Prova oficial 2024 (caderno completo)",
+        "url": "https://site.profhistoria.com.br/wp-content/uploads/2024/09/23048_prova.pdf"
+      },
+      {
+        "label": "Acervo de provas oficiais anteriores",
+        "url": "https://site.profhistoria.com.br/prepare-se/"
+      }
+    ]
   }
 }
