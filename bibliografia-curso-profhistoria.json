@@ -1,7 +1,7 @@
 {
-  "checked": "29/10/2026 — recuperação dirigida em repositórios de universidades e periódicos",
+  "checked": "29/10/2026 — auditoria conservadora de acessos gratuitos",
   "notice": "Esta seção mostra exclusivamente obras e artigos disponíveis para leitura gratuita nas fontes indicadas. Referências sem acesso gratuito confirmado ficam fora da biblioteca pública. O programa do exame não estabelece uma lista obrigatória de livros.",
-  "method": "Somente textos da bibliografia curricular localizados gratuitamente nas fontes indicadas; guardar diferenças de autoria, título e edição nas notas. PDF do MEC indexado mas abertura automatizada HTTP 403 é apontada para verificação em navegador.",
+  "method": "Apenas bibliografia exata do catálogo com acesso gratuito localizado em periódicos e repositórios; documento PCN 1998 foi afastado da oferta pública até abrir o PDF sem erro HTTP 403/502. Não oferecer links sem confirmação de abertura.",
   "disciplines": [
     {
       "id": "curso_2",
@@ -15,17 +15,6 @@
         "nadai_ensino_historia_brasil"
       ],
       "review": "amostra-bibliografica-conferida"
-    },
-    {
-      "id": "curso_3",
-      "number": 3,
-      "title": "Seminário de Pesquisa",
-      "type": "obrigatoria-ou-seminario",
-      "page": null,
-      "referenceIds": [
-        "prof_pcn_historia_1998"
-      ],
-      "review": "textos-localizados-em-fontes-oficiais"
     },
     {
       "id": "curso_5",
@@ -416,18 +405,6 @@
       "relation": "bibliografia-curricular-exata",
       "access": "leitura-gratuita",
       "review": "SciELO confirmou artigo, autoria, volume e texto."
-    },
-    {
-      "id": "prof_pcn_historia_1998",
-      "author": "Brasil — Ministério da Educação / Secretaria de Educação Fundamental",
-      "title": "Parâmetros Curriculares Nacionais: História (5ª a 8ª séries)",
-      "kind": "documento oficial",
-      "url": "https://basenacionalcomum.mec.gov.br/images/pcn/pcn_5a8_historia.pdf",
-      "source": "MEC/SEF, 1998; documento oficial (108 páginas)",
-      "note": "Referência oficial Parâmetros Curriculares Nacionais (1998) da disciplina Seminário de Pesquisa; volume História disponível no acervo de documentos do MEC. Documento histórico, não substitui a BNCC vigente.",
-      "relation": "bibliografia-curricular-exata",
-      "access": "leitura-gratuita",
-      "review": "PDF com texto integral indexado pelo MEC e apontado no portal oficial; a ferramenta de abertura direta devolveu HTTP 403, requer teste em navegador anônimo."
     },
     {
       "id": "prof_hartog_tempo_patrimonio",
