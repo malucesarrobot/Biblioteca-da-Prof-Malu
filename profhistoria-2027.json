@@ -127,7 +127,7 @@
     "note": "Análise editorial com matriz das questões, bibliografia efetivamente citada, temas e estratégias de estudo; não é caderno oficial nem gabarito homologado."
   },
   "selectionReadings": {
-    "checked": "29/10/2026 — leituras de apoio de universidades e catálogo do Doutorado, expressamente rotuladas",
+    "checked": "29/10/2026 — PDF oficial acrescentado para Circe Bittencourt",
     "notice": "Textos gratuitos de estudo para a seleção. Distinguimos citações comprovadas em provas, textos dos próprios autores, estudos sobre eles e referências do catálogo do DOUTORADO (não do mestrado). Nenhum texto é declarado obrigatório no exame 2027 nem substitui livros não obtidos.",
     "items": [
       {
@@ -188,7 +188,11 @@
         "url": "https://www.scielo.br/j/ea/a/WYqvqrhmppwbWpGVY47wWtp/",
         "relation": "Texto da mesma autora — apoio à História do Ensino, NÃO o livro O saber histórico na sala de aula",
         "source": "Estudos Avançados / SciELO, 2018",
-        "note": "Artigo em acesso aberto sobre história curricular e trajetórias do ensino de História, com licença de leitura pública no periódico."
+        "note": "Artigo em acesso aberto sobre história curricular e trajetórias do ensino de História, com licença de leitura pública no periódico.",
+        "downloadUrl": "https://www.scielo.br/j/ea/a/WYqvqrhmppwbWpGVY47wWtp/?format=pdf&lang=pt",
+        "downloadLabel": "Abrir/Baixar PDF (SciELO)",
+        "downloadType": "pdf",
+        "downloadNote": "PDF integral na SciELO; a leitura HTML também está disponível."
       },
       {
         "id": "ena_monteiro_historia_ensinada",
