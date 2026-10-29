@@ -9,6 +9,7 @@ Conferência editorial e técnica: 27/10/2026.
 - `curadoria-tematica.json`: 46 fichas de livros/obras, 3 artigos, 1 recurso, 11 percursos temáticos, 3 patches de livros e 2 patches de artigos.
 - `pas-referencias.json`: 174 referências, sendo 69 do PAS 1, 49 do PAS 2 e 56 do PAS 3. **Referência do PAS não equivale a obra integral disponível.**
 - `profhistoria-2027.json`: quatro eixos do Anexo 4 do Exame Nacional de Acesso 2027; vincula 15 livros/documentos e 18 artigos já cadastrados, sem duplicar fichas.
+- **Fontes oficiais ProfHistória 2027:** edital, anexos da seleção, catálogo de disciplinas com 53 páginas, provas anteriores e dissertações UFG; lista de links conferidos em [`PROFHISTORIA-FONTES-OFICIAIS-2027.md`](PROFHISTORIA-FONTES-OFICIAIS-2027.md). O catálogo curricular não equivale à bibliografia obrigatória da prova.
 - Total exibido pelo catálogo: **344 livros/documentos/volumes + 105 artigos + 91 recursos/apoios = 540 fichas**. As 174 referências PAS são uma lista adicional, com vínculos a fichas existentes, não 174 novos livros.
 
 ## Consolidação do cadastro antigo
