@@ -127,8 +127,8 @@
     "note": "Análise editorial com matriz das questões, bibliografia efetivamente citada, temas e estratégias de estudo; não é caderno oficial nem gabarito homologado."
   },
   "selectionReadings": {
-    "checked": "28/10/2026 — consulta adicional em repositórios universitários",
-    "notice": "Leituras completas gratuitas para preparação da seleção. Cada ficha diferencia texto citado na prova, texto de um autor e estudo sobre outro autor. Nenhuma é declarada bibliografia obrigatória de 2027. Não substituímos livros comerciais do currículo por artigos distintos sem avisar.",
+    "checked": "29/10/2026 — leituras de apoio de universidades e catálogo do Doutorado, expressamente rotuladas",
+    "notice": "Textos gratuitos de estudo para a seleção. Distinguimos citações comprovadas em provas, textos dos próprios autores, estudos sobre eles e referências do catálogo do DOUTORADO (não do mestrado). Nenhum texto é declarado obrigatório no exame 2027 nem substitui livros não obtidos.",
     "items": [
       {
         "id": "ena2016_tardif_raymond",
@@ -279,6 +279,46 @@
         "relation": "Artigo original de docentes vinculadas à rede ProfHistória; não é livro da bibliografia curricular",
         "source": "Revista Maracanan / UERJ, 2023, CC BY 4.0",
         "note": "Estudo em acesso aberto da produção acadêmica, dos temas de pesquisa e da formação docente no próprio ProfHistória."
+      },
+      {
+        "id": "apoio_pereira_lugar_epistemico",
+        "title": "Precisamos falar sobre o lugar epistêmico na Teoria da História",
+        "author": "Ana Carolina Barbosa Pereira",
+        "year": 2018,
+        "url": "https://revistas.udesc.br/index.php/tempo/pt_BR/article/view/11566",
+        "relation": "Artigo original aberto — leitura de apoio à teoria; consta no catálogo do DOUTORADO ProfHistória, não no mestrado",
+        "source": "Tempo e Argumento / UDESC, v.10, n.24, p.88–114",
+        "note": "Geopolítica do conhecimento, cânones historiográficos e perspectivas decoloniais. Disponível PDF integral. NÃO substitui livros da disciplina Teoria da História do mestrado."
+      },
+      {
+        "id": "apoio_ballestrin_giro_decolonial",
+        "title": "América Latina e o giro decolonial",
+        "author": "Luciana Ballestrin",
+        "year": 2013,
+        "url": "https://periodicos.unb.br/index.php/rbcp/article/view/2069",
+        "relation": "Artigo aberto de apoio — consta no catálogo do DOUTORADO ProfHistória; não é referência curricular comprovada do mestrado",
+        "source": "Revista Brasileira de Ciência Política / UnB, n.11, p.89–117",
+        "note": "Conceitos e genealogia do grupo Modernidade/Colonialidade e giro decolonial, texto completo e PDF no portal UnB."
+      },
+      {
+        "id": "apoio_oliveira_sons_silencio",
+        "title": "Os sons do silêncio: interpelações feministas decoloniais à História da historiografia",
+        "author": "Maria da Glória de Oliveira",
+        "year": 2018,
+        "url": "https://revistahh.emnuvens.com.br/revista/article/view/1414",
+        "relation": "Artigo original aberto de apoio — catálogo do DOUTORADO ProfHistória, distinto do mestrado",
+        "source": "História da Historiografia, v.11, n.28 (2018)",
+        "note": "História da historiografia, silenciamentos de intelectuais e mulheres negras, crítica feminista decolonial. Acesso pela revista."
+      },
+      {
+        "id": "apoio_nicolazzi_hist_publico",
+        "title": "Muito além das virtudes epistêmicas: o historiador público em um mundo não linear",
+        "author": "Fernando Nicolazzi",
+        "year": 2018,
+        "url": "https://www.e-publicacoes.uerj.br/maracanan/article/view/31121",
+        "relation": "Artigo original aberto de apoio — consta no catálogo do DOUTORADO ProfHistória, não integra obrigatoriamente bibliografia do mestrado",
+        "source": "Revista Maracanan / UERJ, n.18, p.18–34, CC BY 4.0",
+        "note": "História pública, ética, autoridade e públicos da História; oferece PDF completo no periódico."
       }
     ],
     "officialPractice": [
