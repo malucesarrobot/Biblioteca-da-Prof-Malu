@@ -311,7 +311,11 @@
       "source": "Tempo / Universidade Federal Fluminense, v. 1, n. 2, 1996",
       "note": "Artigo original da revista Tempo/UFF, PDF com 15 páginas digitalizadas. Obra exata indicada na disciplina 19.",
       "relation": "bibliografia-curricular-exata",
-      "access": "leitura-gratuita"
+      "access": "leitura-gratuita",
+      "downloadUrl": "https://www2.historia.uff.br/tempo/wp-content/uploads/2024/11/artg2-4.pdf",
+      "downloadLabel": "Abrir/Baixar PDF (UFF)",
+      "downloadType": "pdf",
+      "downloadNote": "Arquivo PDF no servidor original da UFF. O navegador pode abrir o arquivo antes de permitir salvar."
     },
     {
       "id": "liebel_sentidos_interpretacoes",
@@ -392,7 +396,11 @@
       "note": "Texto exato da bibliografia da disciplina 21, em tradução de Ana Carolina E. C. Soares, disponível em PDF integral no periódico.",
       "relation": "bibliografia-curricular-exata",
       "access": "leitura-gratuita",
-      "review": "PDF com 25 páginas e identificação do periódico conferidos."
+      "review": "PDF com 25 páginas e identificação do periódico conferidos.",
+      "downloadUrl": "https://revistas.pucsp.br/index.php/revph/article/download/15018/11212/36258",
+      "downloadLabel": "Abrir/Baixar PDF (PUC-SP)",
+      "downloadType": "pdf",
+      "downloadNote": "A revista PUC-SP disponibiliza o arquivo integral para download."
     },
     {
       "id": "stolke_enigma_intersecoes",
@@ -416,7 +424,11 @@
       "note": "Texto original integral, conforme bibliografia da disciplina História e História Pública. Estuda presentismo e regimes de historicidade, memória e patrimônio.",
       "relation": "bibliografia-curricular-exata",
       "access": "leitura-gratuita",
-      "review": "SciELO texto integral confirmado."
+      "review": "SciELO texto integral confirmado.",
+      "downloadUrl": "https://www.scielo.br/j/vh/a/qhLrpqw77Bgwq8Gv3wbRX4x/?format=pdf&lang=pt",
+      "downloadLabel": "Abrir/Baixar PDF (SciELO)",
+      "downloadType": "pdf",
+      "downloadNote": "PDF de 13 páginas na SciELO. Leitura HTML continua acessível na ficha."
     },
     {
       "id": "prof_malerba_academicos_berlinda",
@@ -536,7 +548,13 @@
       "note": "Dissertação completa e catálogo de oficinas disponíveis gratuitamente no eduCAPES. O catálogo curricular informa ID capes/43366437, aparentemente inválido; cadastro usa o identificador correto capes/433664.",
       "relation": "bibliografia-curricular-corrigida",
       "access": "leitura-gratuita",
-      "review": "eduCAPES confirmou dois PDFs e a autoria."
+      "review": "eduCAPES confirmou dois PDFs e a autoria.",
+      "downloadUrl": "https://educapes.capes.gov.br/bitstream/capes/433664/2/Vers%C3%A3oFinal-Disserta%C3%A7%C3%A3o-Evelyn-ProfHist%20%281%29.pdf",
+      "downloadLabel": "Baixar dissertação (114 páginas)",
+      "downloadType": "pdf",
+      "supplementaryDownloadUrl": "https://educapes.capes.gov.br/bitstream/capes/433664/3/Cat%C3%A1logo%20%281%29.pdf",
+      "supplementaryDownloadLabel": "Baixar catálogo didático (PDF)",
+      "downloadNote": "O portal eduCAPES oferece dois arquivos oficiais: dissertação e catálogo. O catálogo pode apresentar lentidão; a ficha de origem contém ambos os downloads."
     },
     {
       "id": "prof_crespo_brasil_laudelina",
