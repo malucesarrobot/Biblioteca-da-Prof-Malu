@@ -87,3 +87,9 @@ Organizadora: https://econrio.com.br/index.php/course/mestrado-profissional-em-e
 - O procedimento com verificações visuais (desktop e celular), downloads, redirecionamentos, autenticação, filtros e licenças está descrito em `WORK-CHECKLIST.md`. A automação das 23h55 apenas lembra de usar o Work para executar esses testes.
 - O acesso ao domínio GitHub Pages publicado não foi comprovado nesta consulta; não confundir repositório atualizado com interface web renderizada e testada.
 - *Darwinismo e racismo científico no Brasil* continua registrado em `curadoria-tematica.json.pending`, com dados editoriais, mas sem PDF integral gratuito confirmado por fonte autorizada.
+
+## Escolha de idioma e contador de acessos (29/10/2026)
+- Na estante de livros (`#livros`) e no atalho `#idiomas`, o filtro **Todos os idiomas** lista somente idiomas efetivamente registrados nas fichas. Obras cadastradas como bilíngues ou multilíngues aparecem nos filtros pertinentes. O filtro não traduz obras automaticamente nem presume a existência de versões adicionais.
+- Cada cartão e cada ficha de livro indicam o idioma da edição ou as ressalvas informadas no cadastro. Idiomas não informados são identificados como **Não informado**.
+- O rodapé exibe a **contagem de aberturas da página**, não visitantes únicos; atualizar a página pode produzir nova contagem. O navegador consulta o serviço externo CounterAPI (`counterapi.com`) por `fetch` com `credentials: 'omit'`, sem enviar, gravar ou exigir cookies para o contador. O serviço informa anonimizar dados técnicos em sua própria infraestrutura; a biblioteca não obtém identificadores individuais.
+- Se a API do contador falhar ou estiver bloqueada, o rodapé mostra **indisponível**, sem fabricar números. Essa integração externa deve ser conferida no site publicado.
