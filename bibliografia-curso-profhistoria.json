@@ -1,5 +1,5 @@
 {
-  "checked": "29/10/2026 — auditoria conservadora de acessos gratuitos",
+  "checked": "29/10/2026 — inventário de textos integrais classificados por tipo",
   "notice": "Esta seção mostra exclusivamente obras e artigos disponíveis para leitura gratuita nas fontes indicadas. Referências sem acesso gratuito confirmado ficam fora da biblioteca pública. O programa do exame não estabelece uma lista obrigatória de livros.",
   "method": "Apenas bibliografia exata do catálogo com acesso gratuito localizado em periódicos e repositórios; documento PCN 1998 foi afastado da oferta pública até abrir o PDF sem erro HTTP 403/502. Não oferecer links sem confirmação de abertura.",
   "disciplines": [
@@ -233,7 +233,11 @@
       "url": "https://laced.etc.br/acervo/livros/o-indio-brasileiro/",
       "source": "ISA / MEC-LACED",
       "license": "Acesso gratuito institucional",
-      "note": "Livro completo disponível gratuitamente no LACED/Museu Nacional; edição indicada no catálogo do curso."
+      "note": "Livro completo disponível gratuitamente no LACED/Museu Nacional; edição indicada no catálogo do curso.",
+      "downloadUrl": "https://biblioteca.funai.gov.br/media/pdf/LIVROS/MFN-21340.pdf",
+      "downloadLabel": "Baixar livro completo (PDF, Funai)",
+      "downloadType": "pdf",
+      "downloadNote": "Arquivo integral da Biblioteca da Funai, edição 2006; PDF gratuito hospedado em órgão público."
     },
     {
       "id": "abreu_mattos",
@@ -353,11 +357,11 @@
     {
       "id": "meneses_morfologia_cidades",
       "author": "Ulpiano T. Bezerra de Meneses",
-      "title": "Morfologia das cidades brasileiras: introdução ao estudo histórico da iconografia urbana",
+      "title": "Morfologia das cidades brasileiras: introdução ao estudo histórico da icografia urbana",
       "kind": "artigo",
-      "url": "https://revistas.usp.br/revusp/pt_BR/article/view/25914",
+      "url": "https://revistas.usp.br/revusp/article/view/25914",
       "source": "Revista USP, n. 30, 1996",
-      "note": "Referência presente na optativa Cidade, patrimônio urbano e ensino de história. Página do periódico oferece PDF gratuito; o artigo usa iconografia urbana como fonte.",
+      "note": "A revista USP registra no título original icografia urbana. Artigo completo na edição 30 (1996), páginas 142–155, com PDF gratuito no periódico.",
       "relation": "bibliografia-curricular-exata",
       "access": "leitura-gratuita",
       "review": "Página institucional e oferta de PDF conferidas; a abertura do arquivo integral não foi testada nesta ferramenta."
@@ -372,7 +376,10 @@
       "note": "Título exato indicado no catálogo curricular. Reedição institucional do artigo originalmente publicado nos Cadernos do LEPAARQ; aviso editorial registra cessão do texto pelos editores.",
       "relation": "bibliografia-curricular-exata",
       "access": "leitura-gratuita",
-      "review": "Texto de republicação institucional conferido; edição original do LEPAARQ bloqueou acesso à ferramenta."
+      "review": "Texto de republicação institucional conferido; edição original do LEPAARQ bloqueou acesso à ferramenta.",
+      "downloadUrl": "https://seer.ufrgs.br/revistaihgrgs/article/download/109697/59421/452671",
+      "downloadLabel": "Abrir/Baixar artigo PDF (UFRGS)",
+      "downloadType": "pdf"
     },
     {
       "id": "haraway_genero_dicionario_marxista",
