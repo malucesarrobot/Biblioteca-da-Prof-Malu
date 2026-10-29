@@ -127,7 +127,7 @@
     "note": "Análise editorial com matriz das questões, bibliografia efetivamente citada, temas e estratégias de estudo; não é caderno oficial nem gabarito homologado."
   },
   "selectionReadings": {
-    "checked": "29/10/2026 — PDF oficial acrescentado para Circe Bittencourt",
+    "checked": "29/10/2026 — sexta rodada em revistas UDESC, UFSC e UFSM",
     "notice": "Textos gratuitos de estudo para a seleção. Distinguimos citações comprovadas em provas, textos dos próprios autores, estudos sobre eles e referências do catálogo do DOUTORADO (não do mestrado). Nenhum texto é declarado obrigatório no exame 2027 nem substitui livros não obtidos.",
     "items": [
       {
@@ -323,6 +323,56 @@
         "relation": "Artigo original aberto de apoio — consta no catálogo do DOUTORADO ProfHistória, não integra obrigatoriamente bibliografia do mestrado",
         "source": "Revista Maracanan / UERJ, n.18, p.18–34, CC BY 4.0",
         "note": "História pública, ética, autoridade e públicos da História; oferece PDF completo no periódico."
+      },
+      {
+        "id": "apoio_cerri_televisao_didatica",
+        "title": "A campanha presidencial televisiva de Lula em 2006 revista desde a didática da história",
+        "author": "Luis Fernando Cerri",
+        "year": 2012,
+        "url": "https://revistas.udesc.br/index.php/tempo/pt_BR/article/view/2518",
+        "relation": "Artigo de apoio à Didática da História, consciência histórica e análise de mídias; NÃO é leitura prescrita pelo exame",
+        "source": "Revista Tempo e Argumento / UDESC, v. 4, n. 2, 2012",
+        "note": "Artigo integral gratuito; fontes audiovisuais, propaganda política e usos públicos do passado."
+      },
+      {
+        "id": "apoio_pinha_tempo_presente",
+        "title": "O tempo presente como desafio à historiografia e ao ensino de história em contexto de crise democrática",
+        "author": "Daniel Pinha",
+        "year": 2023,
+        "url": "https://revistas.udesc.br/index.php/tempo/pt_BR/article/view/2175180315382023e0104",
+        "relation": "Leitura de apoio sobre tempo presente e história pública, NÃO livro da bibliografia curricular",
+        "source": "Revista Tempo e Argumento / UDESC, v. 15, n. 38, 2023",
+        "note": "Acesso integral e PDF oferecidos pela revista. Aborda democracia, narrativas historiográficas e ensino."
+      },
+      {
+        "id": "apoio_souza_aprendizagem_orientacao",
+        "title": "Aprendizagem conceitual e orientação: uma análise dos estudos da educação histórica em Portugal e no Brasil (2000–2017)",
+        "author": "Eder Cristiano de Souza",
+        "year": 2021,
+        "url": "https://www.revistas.udesc.br/index.php/tempo/pt_BR/article/view/2175180313332021e0201",
+        "relation": "Apoio de educação histórica, consciência temporal e conceitos de segunda ordem; NÃO obra de Rüsen",
+        "source": "Revista Tempo e Argumento / UDESC, v. 13, n. 33, 2021",
+        "note": "Pesquisa de 60 trabalhos sobre aprendizagem histórica; página oferece artigo gratuito."
+      },
+      {
+        "id": "apoio_azambuja_schmidt_cancao",
+        "title": "A canção vai à escola: perspectivas da Educação Histórica",
+        "author": "Luciano de Azambuja; Maria Auxiliadora Schmidt",
+        "year": 2012,
+        "url": "https://incubadora.periodicos.ufsc.br/index.php/EntreVer/article/view/1645",
+        "relation": "Leitura acadêmica complementar para prática docente e fontes musicais, NÃO bibliografia obrigatória do ENA",
+        "source": "EntreVer / UFSC, v. 2, n. 2, 2012",
+        "note": "Artigo com PDF/A oferecido pela revista; música como fonte para ensino e aprendizagem histórica."
+      },
+      {
+        "id": "apoio_marin_laboratorios_didatica",
+        "title": "A relação teoria e prática na formação de professores de história: a experiência de laboratórios de ensino de história (1980–2010)",
+        "author": "Marilú Favarin Marin",
+        "year": 2015,
+        "url": "https://periodicos.ufsm.br/reveducacao/article/view/18877",
+        "relation": "Texto complementar sobre Didática e formação de professores; não é bibliografia curricular exata",
+        "source": "Educação / UFSM, v. 40, n. 3, 2015",
+        "note": "Artigo de acesso gratuito com PDF oficial, discute teoria e prática e referências de Jörn Rüsen."
       }
     ],
     "officialPractice": [
@@ -341,7 +391,7 @@
     ]
   },
   "networkResearch": {
-    "checked": "28/10/2026",
+    "checked": "29/10/2026 — segunda rodada eduCAPES, UFF, UERJ e UFRR",
     "notice": "Dissertações e produtos educacionais produzidos nas universidades da rede ProfHistória. São pesquisas gratuitas disponíveis nos acervos institucionais; NÃO são os livros originais da bibliografia curricular nem materiais obrigatórios da prova de ingresso.",
     "items": [
       {
@@ -434,6 +484,84 @@
         "axis": "ensino",
         "relevance": "Falsificações do passado, negacionismo, evidências, epistemologia histórica, cidadania digital",
         "accessNote": "Repositório UFG oferece PDF da dissertação, 4,06 MB"
+      },
+      {
+        "id": "rede_uff_jogando_historia_publica",
+        "university": "UFF",
+        "program": "ProfHistória",
+        "year": 2020,
+        "author": "Diego Belo de Figueiredo",
+        "title": "Jogando com a História: experiências com a História pública e o ensino de História",
+        "url": "https://educapes.capes.gov.br/handle/capes/701388",
+        "type": "Dissertação com atividade de jogo",
+        "axis": "ensino",
+        "relevance": "História Pública, jogos e investigação do passado na sala de aula",
+        "accessNote": "eduCAPES oferece PDF completo de 9,27 MB; registro final de 2020"
+      },
+      {
+        "id": "rede_uff_direitos_fontes",
+        "university": "UFF",
+        "program": "ProfHistória",
+        "year": 2020,
+        "author": "Luís Rafael Martins Moraes",
+        "title": "Ensino dos Direitos Humanos na escola: práticas com fontes históricas",
+        "url": "https://educapes.capes.gov.br/handle/capes/747276",
+        "type": "Dissertação/proposta didática",
+        "axis": "ensino",
+        "relevance": "Direitos humanos, análise documental e desenvolvimento de atividades pedagógicas",
+        "accessNote": "eduCAPES lista PDF de 3,09 MB"
+      },
+      {
+        "id": "rede_uerj_historia_local_feira",
+        "university": "UERJ",
+        "program": "ProfHistória",
+        "year": 2025,
+        "author": "Raquel Cristina Muruci da Costa Machado",
+        "title": "A história local, a história pública e a feira pedagógica. Que história é essa?",
+        "url": "https://educapes.capes.gov.br/handle/capes/1133200",
+        "type": "Dissertação com feira pedagógica",
+        "axis": "memoria",
+        "relevance": "História local, memória comunitária, consciência histórica e protagonismo discente",
+        "accessNote": "eduCAPES oferece PDF de 10,42 MB"
+      },
+      {
+        "id": "rede_uerj_sala_invertida",
+        "university": "UERJ",
+        "program": "ProfHistória",
+        "year": 2021,
+        "author": "Leandro Casali de Oliveira Medeiros",
+        "title": "Sala de aula invertida e o ensino de história: um diálogo à luz da História Pública",
+        "url": "https://educapes.capes.gov.br/handle/capes/701161",
+        "type": "Dissertação com sequência pedagógica",
+        "axis": "ensino",
+        "relevance": "Metodologias ativas, história pública e tecnologias na aula de História",
+        "accessNote": "eduCAPES oferece PDF de 1,84 MB"
+      },
+      {
+        "id": "rede_ufrr_instagram_historia",
+        "university": "UFRR",
+        "program": "ProfHistória",
+        "year": 2024,
+        "author": "Hudson Rezende de Araújo",
+        "title": "#SACASÓNESSAHISTÓRIA: as possibilidades do Instagram para o Ensino de História",
+        "url": "https://educapes.capes.gov.br/handle/capes/972726",
+        "type": "Dissertação",
+        "axis": "ensino",
+        "relevance": "Redes sociais, divulgação histórica e possibilidades didáticas do Instagram",
+        "accessNote": "eduCAPES lista PDF de 10,06 MB"
+      },
+      {
+        "id": "rede_uerj_letramento_historico",
+        "university": "UERJ",
+        "program": "ProfHistória",
+        "year": 2023,
+        "author": "Alex Conrado Ghelli",
+        "title": "Os desafios do ensinar história no século XXI e as potencialidades do letramento histórico na formação de estudantes do ensino fundamental",
+        "url": "https://educapes.capes.gov.br/handle/capes/740664",
+        "type": "Dissertação",
+        "axis": "conhecimento",
+        "relevance": "Letramento histórico, fake news, história pública, fontes e narrativas",
+        "accessNote": "eduCAPES oferece PDF de 6,51 MB"
       }
     ]
   },
