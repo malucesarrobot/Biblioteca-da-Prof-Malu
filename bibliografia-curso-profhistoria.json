@@ -1,7 +1,7 @@
 {
-  "checked": "28/10/2026 — ampliação curricular: somente materiais gratuitos",
+  "checked": "29/10/2026 — recuperação dirigida em repositórios de universidades e periódicos",
   "notice": "Esta seção mostra exclusivamente obras e artigos disponíveis para leitura gratuita nas fontes indicadas. Referências sem acesso gratuito confirmado ficam fora da biblioteca pública. O programa do exame não estabelece uma lista obrigatória de livros.",
-  "method": "Referências exatas do catálogo institucional com acesso digital gratuito localizado nas fontes editoriais e universitárias. Não incluir obras sem acesso, nem apresentar textos correlatos como se fossem a edição originalmente indicada.",
+  "method": "Somente textos da bibliografia curricular localizados gratuitamente nas fontes indicadas; guardar diferenças de autoria, título e edição nas notas. PDF do MEC indexado mas abertura automatizada HTTP 403 é apontada para verificação em navegador.",
   "disciplines": [
     {
       "id": "curso_2",
@@ -15,6 +15,17 @@
         "nadai_ensino_historia_brasil"
       ],
       "review": "amostra-bibliografica-conferida"
+    },
+    {
+      "id": "curso_3",
+      "number": 3,
+      "title": "Seminário de Pesquisa",
+      "type": "obrigatoria-ou-seminario",
+      "page": null,
+      "referenceIds": [
+        "prof_pcn_historia_1998"
+      ],
+      "review": "textos-localizados-em-fontes-oficiais"
     },
     {
       "id": "curso_5",
@@ -77,6 +88,19 @@
       "review": "amostra-bibliografica-conferida"
     },
     {
+      "id": "curso_15",
+      "number": 15,
+      "title": "História e história pública",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [
+        "prof_hartog_tempo_patrimonio",
+        "prof_malerba_academicos_berlinda",
+        "prof_ferreira_hist_oral_etica"
+      ],
+      "review": "textos-localizados-em-fontes-oficiais"
+    },
+    {
       "id": "curso_17",
       "number": 17,
       "title": "Narrativa, imagem e construção do fato histórico",
@@ -113,6 +137,45 @@
         "stolke_enigma_intersecoes"
       ],
       "review": "textos-exatos-acesso-gratuito"
+    },
+    {
+      "id": "curso_30",
+      "number": 30,
+      "title": "Ensino de história e pensamento decolonial",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [
+        "prof_candau_russo_intercultural",
+        "prof_meinerz_dialogo_intercultural"
+      ],
+      "review": "textos-localizados-em-fontes-oficiais"
+    },
+    {
+      "id": "curso_35",
+      "number": 35,
+      "title": "Ensino de história e imagens",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [
+        "prof_mauad_sobre_imagens_balanco",
+        "prof_meneses_fontes_visuais",
+        "prof_santiago_virada_imagem"
+      ],
+      "review": "textos-localizados-em-fontes-oficiais"
+    },
+    {
+      "id": "curso_36",
+      "number": 36,
+      "title": "História Intelectual de Mulheres Negras",
+      "type": "optativa",
+      "page": null,
+      "referenceIds": [
+        "prof_cardoso_outras_falas",
+        "prof_jesus_xica_manicongo",
+        "prof_lucena_josefa_mocambique",
+        "prof_crespo_brasil_laudelina"
+      ],
+      "review": "textos-localizados-em-fontes-oficiais"
     }
   ],
   "references": [
@@ -353,6 +416,162 @@
       "relation": "bibliografia-curricular-exata",
       "access": "leitura-gratuita",
       "review": "SciELO confirmou artigo, autoria, volume e texto."
+    },
+    {
+      "id": "prof_pcn_historia_1998",
+      "author": "Brasil — Ministério da Educação / Secretaria de Educação Fundamental",
+      "title": "Parâmetros Curriculares Nacionais: História (5ª a 8ª séries)",
+      "kind": "documento oficial",
+      "url": "https://basenacionalcomum.mec.gov.br/images/pcn/pcn_5a8_historia.pdf",
+      "source": "MEC/SEF, 1998; documento oficial (108 páginas)",
+      "note": "Referência oficial Parâmetros Curriculares Nacionais (1998) da disciplina Seminário de Pesquisa; volume História disponível no acervo de documentos do MEC. Documento histórico, não substitui a BNCC vigente.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "PDF com texto integral indexado pelo MEC e apontado no portal oficial; a ferramenta de abertura direta devolveu HTTP 403, requer teste em navegador anônimo."
+    },
+    {
+      "id": "prof_hartog_tempo_patrimonio",
+      "author": "François Hartog",
+      "title": "Tempo e patrimônio",
+      "kind": "artigo",
+      "url": "https://www.scielo.br/j/vh/a/qhLrpqw77Bgwq8Gv3wbRX4x/?lang=pt",
+      "source": "Varia Historia, v. 22, n. 36, p. 261–273, 2006",
+      "note": "Texto original integral, conforme bibliografia da disciplina História e História Pública. Estuda presentismo e regimes de historicidade, memória e patrimônio.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "SciELO texto integral confirmado."
+    },
+    {
+      "id": "prof_malerba_academicos_berlinda",
+      "author": "Jurandir Malerba",
+      "title": "Acadêmicos na berlinda ou como cada um escreve a História? Uma reflexão sobre o embate entre historiadores acadêmicos e não acadêmicos no Brasil à luz dos debates sobre Public History",
+      "kind": "artigo",
+      "url": "https://revistahh.emnuvens.com.br/revista/article/view/692",
+      "source": "História da Historiografia, v. 7, n. 15, p. 27–50, 2014",
+      "note": "Texto exato da bibliografia curricular. Página do periódico disponibiliza PDF (27–50) sob Creative Commons BY 4.0.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "Página institucional, metadados e PDF ofertado confirmados."
+    },
+    {
+      "id": "prof_ferreira_hist_oral_etica",
+      "author": "Marieta de Moraes Ferreira",
+      "title": "História oral, comemorações e ética",
+      "kind": "artigo",
+      "url": "https://revistas.pucsp.br/index.php/revph/article/view/11227",
+      "source": "Projeto História, v. 15, 1997, p. 157–164; repositório FGV também hospeda",
+      "note": "Texto exato da bibliografia curricular. PDF gratuitamente oferecido pela revista PUC-SP e outra cópia no repositório da FGV.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "Página do periódico e PDF gratuito confirmado."
+    },
+    {
+      "id": "prof_candau_russo_intercultural",
+      "author": "Vera Maria Ferrão Candau; Kelly Russo",
+      "title": "Interculturalidade e educação na América Latina: uma construção plural, original e complexa",
+      "kind": "artigo",
+      "url": "https://educa.fcc.org.br/scielo.php?lng=pt&nrm=iso&pid=S1981-416X2010000100009&script=sci_arttext",
+      "source": "Revista Diálogo Educacional, v. 10, n. 29, p. 151–169, 2010",
+      "note": "Texto integral original, título e autoras correspondentes exatamente à bibliografia da disciplina Pensamento Decolonial.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "Texto integral aberto em Educa/Fundação Carlos Chagas."
+    },
+    {
+      "id": "prof_meinerz_dialogo_intercultural",
+      "author": "Carla Beatriz Meinerz",
+      "title": "Ensino de História, Diálogo Intercultural e Relações Étnico-Raciais",
+      "kind": "artigo",
+      "url": "https://www.scielo.br/j/edreal/a/64XbXN7mH3zPMFLv7xqkQxM/?lang=pt",
+      "source": "Educação & Realidade, v. 42, n. 1, p. 59–77, 2017",
+      "note": "Artigo original integral indicado no catálogo do mestrado, licença CC BY.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "SciELO texto completo e PDF confirmados."
+    },
+    {
+      "id": "prof_mauad_sobre_imagens_balanco",
+      "author": "Ana Maria Mauad",
+      "title": "Sobre as imagens na História, um balanço de conceitos e perspectivas",
+      "kind": "artigo",
+      "url": "https://www.e-publicacoes.uerj.br/maracanan/article/view/20858",
+      "source": "Revista Maracanan / UERJ, v. 12, n. 14, p. 33–48, 2016",
+      "note": "Referência exata do catálogo. Revista da UERJ oferece PDF completo e licença CC BY 4.0; repositório Funarte confirmou metadados.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "Registro acadêmico de artigo e PDF confirmado; instabilidade 502 na abertura pontual do portal."
+    },
+    {
+      "id": "prof_meneses_fontes_visuais",
+      "author": "Ulpiano T. Bezerra de Meneses",
+      "title": "Fontes visuais, cultura visual, história visual: balanço provisório, propostas cautelares",
+      "kind": "artigo",
+      "url": "https://www.scielo.br/j/rbh/a/JL4F7CRWKwXXgMWvNKDfCDc/",
+      "source": "Revista Brasileira de História, v. 23, n. 45, p. 11–36, 2003",
+      "note": "Texto completo SciELO. Catálogo do ProfHistória cita a mesma publicação com a ordem abreviada das expressões do título diferente da publicação original; título aqui corrigido conforme a revista.",
+      "relation": "bibliografia-curricular-corrigida",
+      "access": "leitura-gratuita",
+      "review": "SciELO texto integral confirmado."
+    },
+    {
+      "id": "prof_santiago_virada_imagem",
+      "author": "Francisco das Chagas Fernandes Santiago Júnior",
+      "title": "A virada e a imagem: história teórica do pictorial/iconic/visual turn e suas implicações para as humanidades",
+      "kind": "artigo",
+      "url": "https://revistas.usp.br/anaismp/pt_BR/article/view/148769",
+      "source": "Anais do Museu Paulista, v. 27, 2019, e08",
+      "note": "Artigo completo indicado na disciplina 35. Portal acadêmico USP oferece PDF, DOI 10.1590/1982-02672019v27e08.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "Metadados e oferta de PDF no periódico confirmados; portal apresentou redirecionamentos à ferramenta."
+    },
+    {
+      "id": "prof_cardoso_outras_falas",
+      "author": "Cláudia Pons Cardoso",
+      "title": "Outras falas: feminismos na perspectiva de mulheres negras brasileiras",
+      "kind": "tese de doutorado",
+      "url": "https://repositorio.ufba.br/bitstream/ri/7297/1/Outrasfalas.pdf",
+      "source": "Universidade Federal da Bahia, 2012",
+      "note": "Tese original completa e em acesso aberto no repositório UFBA, explicitamente listada no catálogo do mestrado. Arquivo PDF 2,05 MB.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "Tese e bitstream confirmados por repositório institucional e BDTD."
+    },
+    {
+      "id": "prof_jesus_xica_manicongo",
+      "author": "Jaqueline Gomes de Jesus",
+      "title": "Xica Manicongo: a transgeneridade toma a palavra",
+      "kind": "artigo",
+      "url": "https://www.e-publicacoes.uerj.br/re-doc/article/view/41817",
+      "source": "Revista Docência e Cibercultura / UERJ, v. 3, n. 1, 2019",
+      "note": "Artigo integral gratuito da revista UERJ, licença CC BY. Catálogo do ProfHistória grafa o prenome Jacqueline, mas a autora identifica-se na publicação como Jaqueline.",
+      "relation": "bibliografia-curricular-corrigida",
+      "access": "leitura-gratuita",
+      "review": "Página UERJ, autoria, título e PDF ofertado confirmados."
+    },
+    {
+      "id": "prof_lucena_josefa_mocambique",
+      "author": "Evelyn Beatriz Lucena Machado",
+      "title": "Josefa Moçambique, Clara Rebolo, Joaquina de Nação e Quitandeira Monjolo: novas narrativas para o ensino de história da escravidão",
+      "kind": "dissertação e catálogo didático",
+      "url": "https://educapes.capes.gov.br/handle/capes/433664",
+      "source": "UFRJ / ProfHistória, 2018; eduCAPES",
+      "note": "Dissertação completa e catálogo de oficinas disponíveis gratuitamente no eduCAPES. O catálogo curricular informa ID capes/43366437, aparentemente inválido; cadastro usa o identificador correto capes/433664.",
+      "relation": "bibliografia-curricular-corrigida",
+      "access": "leitura-gratuita",
+      "review": "eduCAPES confirmou dois PDFs e a autoria."
+    },
+    {
+      "id": "prof_crespo_brasil_laudelina",
+      "author": "Fernanda Nascimento Crespo",
+      "title": "O Brasil de Laudelina: usos do biográfico no ensino de história",
+      "kind": "dissertação",
+      "url": "https://educapes.capes.gov.br/handle/capes/174828",
+      "source": "UERJ / ProfHistória, 2016; eduCAPES",
+      "note": "Dissertação completa disponível gratuitamente no eduCAPES, 14,51 MB, sobre trajetórias de Laudelina de Campos Mello. Mesmo título indicado no catálogo curricular.",
+      "relation": "bibliografia-curricular-exata",
+      "access": "leitura-gratuita",
+      "review": "eduCAPES confirmou PDF e autoria."
     }
   ],
   "publicScope": "Somente materiais disponíveis; nenhuma referência bibliográfica sem acesso confirmado é oferecida como leitura."
