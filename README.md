@@ -49,6 +49,12 @@ A UNESCO informa que os volumes IX e XI foram concluídos internacionalmente, ma
 - *Eles não usam black-tie*: arquivo da USP não foi obtido; adicionada referência à análise de Iná Camargo Costa publicada no periódico acadêmico Discurso/USP, sem apresentá-la como texto dramático.
 - *Vestido de noiva*: o Oficina de Teatro publica um botão de download e indica um arquivo de 168,5 KB, mas o campo licença está vazio. Adicionada ficha bibliográfica da USP. A disponibilidade do download não prova autorização de distribuição da peça protegida.
 
+## ProfHistória — lista nominal de textos integrais gratuitos, 29/10/2026
+- Página nova `#integrais-profhistoria`: **1 livro integral + 29 artigos científicos completos** que constam das bibliografias do mestrado, com busca e fonte original, e **3 trabalhos acadêmicos completos** separados no filtro (1 tese e 2 dissertações).
+- Lista documental para revisão e cópia: [RELACAO-TEXTOS-INTEGRAIS-PROFHISTORIA-2026-10-29.md](RELACAO-TEXTOS-INTEGRAIS-PROFHISTORIA-2026-10-29.md).
+- Gersem Baniwa, *O índio brasileiro*: PDF gratuito [no portal oficial da Funai](https://biblioteca.funai.gov.br/media/pdf/LIVROS/MFN-21340.pdf). Ficha do livro aponta igualmente para o LACED/Museu Nacional.
+- Todos os títulos com acesso gratuito identificado; a disponibilidade em navegador anônimo de cada arquivo ainda deve ser acompanhada. A lista não substitui o catálogo integral do mestrado nem incorpora indevidamente os 24 textos de apoio da seleção como bibliografia curricular.
+
 ## ProfHistória — sexta rodada e downloads, 29/10/2026
 - **Downloads dos cinco materiais solicitados:** PDFs de Ana Maria Mauad (UFF), Joan Scott (PUC-SP), François Hartog (SciELO) e Circe Bittencourt (SciELO), mais dissertação e catálogo pedagógico de Evelyn Lucena Machado (eduCAPES). As fichas agora mostram "Abrir/Baixar PDF" quando há URL de arquivo; os arquivos seguem hospedados nas fontes oficiais.
 - **Bibliografia curricular do mestrado:** 33 referências gratuitas em 13 disciplinas. Livros ainda sem acesso integral autorizado ficam fora da oferta pública.
