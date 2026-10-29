@@ -1,6 +1,6 @@
 {
   "title": "ProfHistória 2027 — preparação pelo edital",
-  "checked": "27/10/2026",
+  "checked": "28/10/2026 — fontes institucionais e da seleção conferidas",
   "edition": "Exame Nacional de Acesso 2027 — Mestrado Profissional em Ensino de História",
   "officialSelectionUrl": "https://econrio.com.br/index.php/course/mestrado-profissional-em-ensino-de-historia-profhistoria-2027/",
   "officialAnnexUrl": "https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_anexo_4_-_conteu%CC%81dos_programa%CC%81ticos.pdf",
@@ -391,7 +391,7 @@
     ]
   },
   "networkResearch": {
-    "checked": "29/10/2026 — segunda rodada eduCAPES, UFF, UERJ e UFRR",
+    "checked": "28/10/2026 — adicionados trabalhos do Repositório Institucional da UFG",
     "notice": "Dissertações e produtos educacionais produzidos nas universidades da rede ProfHistória. São pesquisas gratuitas disponíveis nos acervos institucionais; NÃO são os livros originais da bibliografia curricular nem materiais obrigatórios da prova de ingresso.",
     "items": [
       {
@@ -562,6 +562,58 @@
         "axis": "conhecimento",
         "relevance": "Letramento histórico, fake news, história pública, fontes e narrativas",
         "accessNote": "eduCAPES oferece PDF de 6,51 MB"
+      },
+      {
+        "id": "rede_ufg_heterocronias_2025",
+        "university": "UFG",
+        "program": "ProfHistória",
+        "year": 2025,
+        "author": "Marcelo Vaz Souza de Mesquita",
+        "title": "Heterocronias e o ensino de História na Educação Básica",
+        "url": "https://repositorio.bc.ufg.br/tede/items/6a80c336-a7cc-4bb5-81c2-cf68a116b492",
+        "type": "Dissertação",
+        "axis": "tempos",
+        "relevance": "Tempo histórico, temporalidades, crítica da linearidade e sequências didáticas",
+        "accessNote": "Página oficial da UFG oferece PDF da dissertação."
+      },
+      {
+        "id": "rede_ufg_movimento_negro_2025",
+        "university": "UFG",
+        "program": "ProfHistória",
+        "year": 2025,
+        "author": "Marcondes Silva de Oliveira",
+        "title": "O movimento negro e o ensino de história: contribuições para a formação de historiadores docentes na construção de uma educação antirracista",
+        "url": "https://repositorio.bc.ufg.br/tede/items/89bceea4-400d-4e66-8f9a-b7a5c718306a",
+        "type": "Dissertação",
+        "axis": "ensino",
+        "relevance": "Educação antirracista, história do movimento negro, currículo e relações étnico-raciais",
+        "accessNote": "Página oficial da UFG oferece PDF da dissertação."
+      },
+      {
+        "id": "rede_ufg_musica_historia_2022",
+        "university": "UFG",
+        "program": "ProfHistória",
+        "year": 2022,
+        "author": "Wesley Herculano dos Santos",
+        "title": "Guia de possibilidades para o uso da música no ensino de História: a relação interdisciplinar entre música e história a partir das dissertações do Profhistória",
+        "url": "https://repositorio.bc.ufg.br/tede/items/4d9e2ace-d07a-4ece-8977-b2a8c007d2f6",
+        "type": "Dissertação e guia de possibilidades didáticas",
+        "axis": "ensino",
+        "relevance": "Música, fontes sonoras e ensino de História",
+        "accessNote": "Página oficial da UFG oferece PDF da dissertação."
+      },
+      {
+        "id": "rede_ufg_migracao_eja_2026",
+        "university": "UFG",
+        "program": "ProfHistória",
+        "year": 2026,
+        "author": "Cleber de Sousa Leite",
+        "title": "A experiência da migração e o ensino de história na Educação de Jovens e Adultos (EJA) a partir das experiências de alunos haitianos Vidas em Silêncio",
+        "url": "https://repositorio.bc.ufg.br/tede/items/341bbac9-5f3b-4b03-8578-5897f9cb28e6",
+        "type": "Dissertação",
+        "axis": "memoria",
+        "relevance": "Memória, migração, educação de jovens e adultos e justiça cognitiva",
+        "accessNote": "Página oficial da UFG oferece PDF da dissertação."
       }
     ]
   },
@@ -592,6 +644,96 @@
         "axis": "tempos",
         "relevance": "Tripla mímesis, narrativas, tempo histórico, calendário, testemunho e prova histórica",
         "accessNote": "Dissertação de acesso aberto na UFG, PDF 996,75 KB; licença CC BY-NC-ND 4.0"
+      }
+    ]
+  },
+  "officialDocuments": {
+    "checked": "28/10/2026",
+    "note": "Links externos para documentos publicados pela ECONRIO e instituições da rede. Arquivos PDF não são reproduzidos pelo site. O catálogo de 53 páginas é bibliografia do CURSO, não lista de leituras obrigatórias para a seleção. Em caso de retificação, prevalece a página oficial.",
+    "groups": [
+      {
+        "id": "selecao",
+        "title": "Exame Nacional de Acesso 2027 — editais e anexos",
+        "items": [
+          {
+            "label": "Edital nacional — PDF (10 páginas)",
+            "url": "https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_edital_mestrado_profhistoria_2027.pdf",
+            "kind": "edital"
+          },
+          {
+            "label": "Anexo 1 — calendário retificado em 09/09/2026 (PDF)",
+            "url": "https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_anexo_1_-_calendario_profhistoria_-_mestrado_2027_retificado_09092026.pdf",
+            "kind": "cronograma"
+          },
+          {
+            "label": "Anexo 2 — quadro de vagas (PDF)",
+            "url": "https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_anexo_2_-_vagas_profhistoria_-_mestrado.pdf",
+            "kind": "vagas"
+          },
+          {
+            "label": "Anexo 3 — seleção diferenciada retificada em 10/09/2026 (PDF)",
+            "url": "https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_anexo_3_-_selecao_diferenciada_-_retificado_10092026.pdf",
+            "kind": "anexo"
+          },
+          {
+            "label": "Anexo 4 — conteúdo programático (PDF, 1 página)",
+            "url": "https://selecao.econrio.com.br/modulo/arquivos/26167/inscricao/edital/26167_-_anexo_4_-_conteu%CC%81dos_programa%CC%81ticos.pdf",
+            "kind": "programa"
+          }
+        ]
+      },
+      {
+        "id": "ufg",
+        "title": "ProfHistória/UFG — documentos e pesquisas institucionais",
+        "items": [
+          {
+            "label": "Anexo 10 — regras de reserva de vagas da UFG (PDF)",
+            "url": "https://econrio.com.br/wp-content/uploads/2026/08/26167-Anexo-10_UFG_mestrado.pdf",
+            "kind": "cotas"
+          },
+          {
+            "label": "Coordenação local do ProfHistória/UFG",
+            "url": "https://prof.historia.ufg.br/",
+            "kind": "portal"
+          },
+          {
+            "label": "Coleção de dissertações do ProfHistória/UFG — Repositório Institucional",
+            "url": "https://repositorio.bc.ufg.br/tede/collections/dc579377-db18-4593-98ec-529552d0b36e",
+            "kind": "repositório"
+          }
+        ]
+      },
+      {
+        "id": "bibliografia",
+        "title": "Bibliografia acadêmica das disciplinas do mestrado (não é bibliografia exigida para o exame)",
+        "items": [
+          {
+            "label": "Catálogo de disciplinas e bibliografias — 53 páginas (PDF, UFS)",
+            "url": "https://profhistoria.ufs.br/uploads/page_attach/path/23291/CATA_LOGO-DE-DISCIPLINAS2021-FORMATADO.pdf",
+            "kind": "bibliografia curricular"
+          },
+          {
+            "label": "Catálogo do ProfHistória — espelho do portal nacional (PDF)",
+            "url": "https://site.profhistoria.com.br/wp-content/uploads/2025/06/Catalogo-das-disciplinas-do-Mestrado.pdf",
+            "kind": "bibliografia curricular"
+          }
+        ]
+      },
+      {
+        "id": "provas",
+        "title": "Provas e gabaritos anteriores",
+        "items": [
+          {
+            "label": "Acervo oficial de provas e gabaritos disponibilizados — 2014 a 2024 (anos selecionados)",
+            "url": "https://site.profhistoria.com.br/prepare-se/",
+            "kind": "provas anteriores"
+          },
+          {
+            "label": "Página institucional de seleções anteriores",
+            "url": "https://site.profhistoria.com.br/selecao/",
+            "kind": "histórico"
+          }
+        ]
       }
     ]
   }
