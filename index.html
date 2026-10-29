@@ -355,7 +355,11 @@ function profhistoriaBibliography(){
    const card=el('article',null,'articlecard');card.append(el('span','Acesso gratuito na fonte','eyebrow'),el('h2',r.title),el('p',r.author,'articlemeta'));
    if(r.note)card.append(el('p',r.note,'articledesc'));
    const actions=el('div',null,'actions');
-   actions.append(link('Ler gratuitamente ↗',r.url));
+   if(r.downloadUrl){
+    if(r.url!==r.downloadUrl)actions.append(link('Ler na fonte ↗',r.url));
+    actions.append(link((r.downloadLabel||'Abrir/Baixar PDF')+' ↗',r.downloadUrl));
+    if(r.supplementaryDownloadUrl)actions.append(link((r.supplementaryDownloadLabel||'Baixar material complementar')+' ↗',r.supplementaryDownloadUrl));
+   }else actions.append(link('Ler gratuitamente ↗',r.url));
    if(r.catalogId&&book(r.catalogId)){const a=el('a','Ver ficha na biblioteca →');a.href='#livro/'+r.catalogId;actions.append(a)}
    card.append(actions);results.append(card)
   }
@@ -411,7 +415,8 @@ function profhistoriaIndex(){
    const card=el('article',null,'articlecard');
    card.append(el('span',r.relation,'eyebrow'),el('h3',r.title),el('p',r.author+' · '+r.year,'articlemeta'));
    if(r.note)card.append(el('p',r.note,'articledesc'));
-   card.append(link('Ler gratuitamente ↗',r.url));items.append(card)
+   if(r.downloadUrl){card.append(link('Ler on-line ↗',r.url),link((r.downloadLabel||'Abrir/Baixar PDF')+' ↗',r.downloadUrl))}
+   else card.append(link('Ler gratuitamente ↗',r.url));items.append(card)
   }
   section.append(items);
   const practice=el('div',null,'pas-source');
@@ -444,7 +449,7 @@ function render(){main.replaceChildren();renderSavedCount();const path=location.
 $('#back').onclick=()=>{const route=location.hash.slice(1);if(route==='bibliografia-profhistoria')go('profhistoria');else if(route.startsWith('profhistoria/'))go('profhistoria');else if(route.startsWith('pas/'))go('pas');else if(route==='pas')go('');else if(route.startsWith('genero/'))go('literatura');else if(route.startsWith('area/'))go('areas');else if(route==='areas')go('');else if(route.startsWith('tema/'))go('temas');else if(route.startsWith('trilha/')&&route.split('/').length===3)go('trilha/'+route.split('/')[1]);else if(route.startsWith('trilha/'))go('trilhas');else if(route.startsWith('autor/'))go('autores');else if(route.startsWith('serie/'))go('series');else if(route.startsWith('livro/')&&previousRoute&&!previousRoute.startsWith('livro/'))go(previousRoute);else go('')};
 document.querySelector('.skip').addEventListener('click',e=>{e.preventDefault();main.focus();main.scrollIntoView()});
 window.addEventListener('hashchange',()=>{render();window.scrollTo({top:0,behavior:'instant'})});
-Promise.all([fetch('catalogo.json?v=17').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('leituras-enem.json?v=8').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>[]),fetch('curadoria-tematica.json?v=9').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('pas-referencias.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({stages:[]})),fetch('profhistoria-2027.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({modules:[]})),fetch('bibliografia-curso-profhistoria.json?v=6').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({disciplines:[],references:[]}))]).then(([d,additions,curated,pas,prof,courseBibliography])=>{
+Promise.all([fetch('catalogo.json?v=17').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('leituras-enem.json?v=8').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>[]),fetch('curadoria-tematica.json?v=9').then(r=>{if(!r.ok)throw Error();return r.json()}),fetch('pas-referencias.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({stages:[]})),fetch('profhistoria-2027.json?v=8').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({modules:[]})),fetch('bibliografia-curso-profhistoria.json?v=7').then(r=>{if(!r.ok)throw Error();return r.json()}).catch(()=>({disciplines:[],references:[]}))]).then(([d,additions,curated,pas,prof,courseBibliography])=>{
 pasReferences=pas;profhistoriaData=prof;profhistoriaBibliografia=courseBibliography;
 data=[...d.books];articles=[...(d.articles||[])];resources=[...(d.resources||[])];support=d.support||[];
 const merge=(list,entries)=>{for(const entry of entries||[]){const existing=list.find(x=>x.id===entry.id);if(existing)Object.assign(existing,entry);else list.push(entry)}};
